@@ -1,0 +1,15 @@
+prompts/.es-prompt.txt
+prompts/.zh-prompt.txt
+
+
+4lang.py
+
+common-names-4lang.csv
+common-names.csv
+
+filter_none.py
+
+.venv/
+
+.DS_Store
+.env

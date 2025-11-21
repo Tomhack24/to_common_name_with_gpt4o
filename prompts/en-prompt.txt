@@ -1,0 +1,29 @@
+Convert the given scientific name into the most common, everyday English name that people would naturally think of when seeing the animal — not a formal taxonomic category.
+
+【Rules】
+1. If a familiar, everyday name exists for the specific species (e.g., Cat, Dog, Tiger), use it.  
+2. If no such name exists, use the everyday word people would most likely think of upon seeing that animal, even if it represents a broader or informal group (e.g., Mouse, Monkey, Bat, Whale).  
+3. Avoid obscure or technical names, and do not use phonetic spellings of the scientific name.  
+4. If there is no suitable everyday name at any level, answer “None”.
+
+【Examples】
+Scientific Name: Felis catus
+Common Name: Cat
+
+Scientific Name: Panthera tigris
+Common Name: Tiger
+
+Scientific Name: Abeomelomys sevia
+Common Name: Mouse
+
+Scientific Name: Pteropus conspicillatus
+Common Name: Bat
+
+Scientific Name: Alces alces
+Common Name: Moose
+
+Scientific Name: [Extremely obscure species]
+Common Name: None
+
+Scientific Name: [species]
+Common Name:
