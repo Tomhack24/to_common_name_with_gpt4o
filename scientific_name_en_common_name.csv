@@ -1,0 +1,5458 @@
+number,scientific_name,english_common_name
+1,Abeomelomys sevia,Mouse
+2,Abrawayaomys chebezi,Mouse
+3,Abrawayaomys ruschii,Mouse
+6,Abrocoma cinerea,Chinchilla Rat
+10,Abrothrix andina,Mouse
+11,Abrothrix hershkovitzi,Mouse
+12,Abrothrix hirta,Mouse
+13,Abrothrix illuteus,Mouse
+14,Abrothrix jelskii,Mouse
+15,Abrothrix lanosus,Mouse
+16,Abrothrix longipilis,Mouse
+17,Abrothrix manni,Mouse
+18,Abrothrix markhami,Mouse
+19,Abrothrix olivaceus,Mouse
+20,Abrothrix sanborni,Mouse
+21,Abrothrix xanthorhinus,Mouse
+22,Acerodon celebensis,Bat
+23,Acerodon jubatus,Bat
+24,Acerodon macklotii,Bat
+25,Acinonyx jubatus,Cheetah
+26,Acomys cahirinus,Mouse
+27,Acomys chudeaui,Mouse
+28,Acomys cilicicus,Mouse
+29,Acomys cineraceus,Mouse
+30,Acomys dimidiatus,Mouse
+31,Acomys ignitus,Mouse
+32,Acomys johannis,Mouse
+33,Acomys kempi,Mouse
+34,Acomys louisae,Mouse
+35,Acomys minous,Mouse
+36,Acomys mullah,Mouse
+37,Acomys muzei,Mouse
+38,Acomys nesiotes,Mouse
+39,Acomys ngurui,Mouse
+40,Acomys percivali,Mouse
+41,Acomys russatus,Spiny Mouse
+42,Acomys spinosissimus,Mouse
+43,Acomys subspinosus,Mouse
+44,Acomys wilsoni,Mouse
+45,Aconaemys fuscus,Mouse
+46,Aconaemys porteri,Mouse
+47,Aconaemys sagei,Mouse
+49,Acrobates frontalis,Glider
+50,Acrobates pygmaeus,Feathertail Glider
+51,Addax nasomaculatus,Addax
+52,Aegialomys baroni,Mouse
+53,Aegialomys galapagoensis,Mouse
+54,Aegialomys ica,Mouse
+55,Aegialomys xanthaeolus,Mouse
+56,Aenocyon dirus,Dire Wolf
+57,Aepeomys lugens,Mouse
+58,Aepyceros melampus,Impala
+59,Aepyprymnus rufescens,Kangaroo
+60,Aeretes melanopterus,Squirrel
+61,Aeromys tephromelas,Flying Squirrel
+62,Aethalops aequalis,Bat
+63,Aethalops alecto,Bat
+64,Aethomys bocagei,Mouse
+65,Aethomys chrysophilus,Mouse
+66,Aethomys hindei,Mouse
+67,Aethomys ineptus,Mouse
+68,Aethomys kaiseri,Mouse
+69,Aethomys nyikae,Mouse
+70,Aethomys silindensis,Mouse
+71,Aethomys stannarius,Mouse
+72,Afronycteris nanus,Bat
+73,Ailuropoda melanoleuca,Giant Panda
+74,Ailurops ursinus,Bear Cuscus
+75,Ailurus fulgens,Red Panda
+76,Ailurus styani,Red Panda
+77,Akodon aerosus,Mouse
+78,Akodon affinis,Mouse
+79,Akodon albiventer,Mouse
+80,Akodon azarae,Mouse
+81,Akodon baliolus,Mouse
+82,Akodon boliviensis,Mouse
+83,Akodon budini,Mouse
+84,Akodon caenosus,Mouse
+85,Akodon cursor,Mouse
+86,Akodon dayi,Mouse
+87,Akodon diauarum,Mouse
+88,Akodon dolores,Mouse
+89,Akodon fumeus,Mouse
+90,Akodon glaucinus,Mouse
+91,Akodon iniscatus,Mouse
+92,Akodon josemariarguedasi,Mouse
+93,Akodon juninensis,Mouse
+94,Akodon kadiweu,Mouse
+95,Akodon kofordi,Mouse
+96,Akodon kotosh,Mouse
+97,Akodon latebricola,Mouse
+98,Akodon lindberghi,Mouse
+99,Akodon lutescens,Mouse
+100,Akodon mimus,Mouse
+101,Akodon molinae,Mouse
+102,Akodon mollis,Mouse
+103,Akodon montensis,Mouse
+104,Akodon mystax,Mouse
+105,Akodon oenos,Mouse
+106,Akodon orophilus,Mouse
+107,Akodon paranaensis,Mouse
+108,Akodon philipmyersi,Mouse
+109,Akodon polopi,Mouse
+110,Akodon reigi,Mouse
+111,Akodon serrensis,Mouse
+112,Akodon siberiae,Mouse
+113,Akodon simulator,Mouse
+114,Akodon spegazzinii,Mouse
+115,Akodon subfuscus,Mouse
+116,Akodon sylvanus,Mouse
+117,Akodon tartareus,Mouse
+118,Akodon toba,Mouse
+119,Akodon torques,Mouse
+120,Akodon urichi,Mouse
+121,Akodon varius,Mouse
+122,Akodon viridescens,Mouse
+123,Alcelaphus buselaphus,Hartebeest
+124,Alcelaphus caama,Hartebeest
+125,Alcelaphus lichtensteini,Antelope
+126,Alces alces,Moose
+127,Alces americanus,Moose
+128,Alexandromys evoronensis,Mouse
+129,Alexandromys fortis,Mouse
+130,Alexandromys kikuchii,Mouse
+131,Alexandromys limnophilus,Mouse
+132,Alexandromys maximowiczii,Mouse
+133,Alexandromys middendorffii,Mouse
+134,Alexandromys mongolicus,Mouse
+135,Alexandromys montebelli,Mouse
+136,Alexandromys mujanensis,Mouse
+137,Alexandromys oeconomus,Vole
+138,Alexandromys sachalinensis,Mouse
+139,Alexandromys shantaricus,Mouse
+140,Alionycteris paucidentata,Bat
+141,Allactaga firouzi,Jerboa
+142,Allactaga major,Jerboa
+143,Allactaga severtzovi,Jerboa
+144,Allactodipus bobrinskii,Jerboa
+145,Allenopithecus nigroviridis,Monkey
+146,Allocebus trichotus,Monkey
+147,Allochrocebus lhoesti,Monkey
+148,Allochrocebus preussi,Monkey
+149,Allochrocebus solatus,Monkey
+150,Allocricetulus curtatus,Hamster
+151,Allocricetulus eversmanni,Hamster
+152,Alouatta belzebul,Monkey
+153,Alouatta caraya,Howler Monkey
+154,Alouatta discolor,Monkey
+155,Alouatta guariba,Howler Monkey
+156,Alouatta juara,Monkey
+157,Alouatta macconnelli,Monkey
+158,Alouatta palliata,Howler Monkey
+159,Alouatta pigra,Howler Monkey
+160,Alouatta sara,Monkey
+161,Alouatta seniculus,Howler Monkey
+162,Alouatta stramineus,Monkey
+163,Alouatta ululata,Howler Monkey
+164,Alticola albicauda,Mouse
+165,Alticola argentatus,Mouse
+166,Alticola barakshin,Mouse
+167,Alticola lemminus,Mouse
+168,Alticola macrotis,Mouse
+169,Alticola montosus,Mouse
+170,Alticola olchonensis,Mouse
+171,Alticola semicanus,Mouse
+172,Alticola stoliczkanus,Mouse
+173,Alticola stracheyi,Mouse
+174,Alticola strelzovi,Mouse
+175,Alticola tuvinicus,Mouse
+176,Amblysomus corriae,Golden Mole
+177,Amblysomus hottentotus,Golden Mole
+178,Amblysomus marleyi,Golden Mole
+179,Amblysomus robustus,Mole
+180,Amblysomus septentrionalis,Golden Mole
+181,Ametrida centurio,Bat
+183,Ammospermophilus harrisii,Harris's Antelope Squirrel
+184,Ammospermophilus insularis,Squirrel
+185,Ammospermophilus interpres,Antelope Squirrel
+186,Ammospermophilus leucurus,Antelope Squirrel
+187,Ammospermophilus nelsoni,Squirrel
+188,Ammotragus lervia,Barbary Sheep
+189,Amphinectomys savamis,Mouse
+190,Anathana ellioti,Monkey
+191,Andalgalomys olrogi,Mouse
+192,Andalgalomys pearsoni,Mouse
+193,Andalgalomys roigi,Mouse
+194,Andinomys edax,Mouse
+195,Anisomys imitator,Rat
+196,Anomalurus beecrofti,Flying Squirrel
+197,Anomalurus derbianus,Flying Squirrel
+198,Anomalurus pelii,Flying Squirrel
+199,Anomalurus pusillus,Flying Squirrel
+200,Anonymomys mindorensis,Mouse
+201,Anotomys leander,Mouse
+202,Anoura aequatoris,Bat
+203,Anoura cadenai,Bat
+204,Anoura caudifer,Bat
+205,Anoura cultrata,Bat
+206,Anoura fistulata,Bat
+207,Anoura geoffroyi,Bat
+208,Anoura latidens,Bat
+209,Anoura luismanueli,Bat
+210,Anoura peruana,Bat
+211,Anourosorex squamipes,Shrew
+212,Anourosorex yamashinai,Shrew
+213,Antechinomys laniger,Mouse
+215,Antechinus adustus,Mouse
+216,Antechinus agilis,Mouse
+217,Antechinus argentus,Mouse
+218,Antechinus arktos,Mouse
+219,Antechinus bellus,Mouse
+220,Antechinus flavipes,Mouse
+221,Antechinus godmani,Mouse
+222,Antechinus leo,Mouse
+223,Antechinus mimetes,Mouse
+224,Antechinus minimus,Mouse
+225,Antechinus mysticus,Mouse
+226,Antechinus stuartii,Mouse
+227,Antechinus subtropicus,Mouse
+228,Antechinus swainsonii,Mouse
+229,Antechinus vandycki,Mouse
+230,Anteliomys chinensis,Mouse
+231,Anteliomys custos,Mouse
+232,Anteliomys olitor,Mouse
+233,Anteliomys proditor,Mouse
+234,Anteliomys wardi,Mouse
+235,Anthops ornatus,Bat
+236,Antidorcas marsupialis,Springbok
+237,Antillomys rayi,Mouse
+238,Antilocapra americana,Pronghorn
+239,Antilope cervicapra,Blackbuck
+240,Antrozous pallidus,Bat
+241,Aonyx capensis,Otter
+242,Aonyx cinereus,Otter
+243,Aonyx congicus,Otter
+244,Aotus azarai,Monkey
+245,Aotus brumbacki,Monkey
+246,Aotus griseimembra,Monkey
+247,Aotus lemurinus,Monkey
+248,Aotus nancymaae,Monkey
+249,Aotus nigriceps,Monkey
+250,Aotus trivirgatus,Monkey
+251,Aotus vociferans,Monkey
+252,Aotus zonalis,Monkey
+253,Aplodontia rufa,Mountain Beaver
+254,Apodemus agrarius,Mouse
+255,Apodemus alpicola,Mouse
+256,Apodemus argenteus,Mouse
+257,Apodemus chejuensis,Mouse
+258,Apodemus chevrieri,Mouse
+259,Apodemus ciscaucasicus,Mouse
+260,Apodemus draco,Mouse
+261,Apodemus epimelas,Mouse
+262,Apodemus flavicollis,Mouse
+263,Apodemus fulvipectus,Mouse
+264,Apodemus gurkha,Mouse
+265,Apodemus hermonensis,Mouse
+266,Apodemus hyrcanicus,Mouse
+267,Apodemus iconicus,Mouse
+268,Apodemus ilex,Mouse
+269,Apodemus latronum,Mouse
+270,Apodemus mystacinus,Mouse
+271,Apodemus nigrus,Mouse
+272,Apodemus pallipes,Mouse
+273,Apodemus peninsulae,Mouse
+274,Apodemus ponticus,Mouse
+275,Apodemus rusiges,Mouse
+276,Apodemus semotus,Mouse
+277,Apodemus speciosus,Mouse
+278,Apodemus sylvaticus,Mouse
+279,Apodemus uralensis,Mouse
+280,Apodemus wardi,Mouse
+281,Apodemus witherbyi,Mouse
+282,Apomys abrae,Mouse
+283,Apomys aurorae,Mouse
+284,Apomys banahao,Mouse
+285,Apomys brownorum,Mouse
+286,Apomys camiguinensis,Mouse
+287,Apomys datae,Mouse
+288,Apomys gracilirostris,Mouse
+289,Apomys hylocoetes,Mouse
+290,Apomys insignis,Mouse
+291,Apomys iridensis,Mouse
+292,Apomys littoralis,Mouse
+293,Apomys lubangensis,Mouse
+294,Apomys magnus,Mouse
+295,Apomys microdon,Mouse
+296,Apomys minganensis,Mouse
+297,Apomys musculus,Mouse
+298,Apomys sacobianus,Mouse
+299,Apomys sierrae,Mouse
+300,Apomys zambalensis,Mouse
+301,Aproteles bulmerae,Bat
+302,Arabitragus jayakari,Goat
+303,Arborimus albipes,Mouse
+304,Arborimus longicaudus,Mouse
+305,Arborimus pomo,Mouse
+306,Archaeolemur edwardsi,Lemur
+307,Archaeolemur majori,Lemur
+308,Archboldomys luzonensis,Mouse
+309,Archboldomys maximus,Mouse
+310,Arctictis binturong,Binturong
+311,Arctocebus aureus,Monkey
+312,Arctocebus calabarensis,Monkey
+313,Arctocephalus australis,Fur Seal
+314,Arctocephalus forsteri,Fur Seal
+315,Arctocephalus galapagoensis,Galapagos Fur Seal
+316,Arctocephalus gazella,Seal
+317,Arctocephalus philippii,Seal
+318,Arctocephalus pusillus,Seal
+319,Arctocephalus townsendi,Seal
+320,Arctocephalus tropicalis,Seal
+321,Arctodus simus,Short-faced Bear
+322,Arctogalidia trivirgata,Civet
+323,Arctonyx collaris,Badger
+324,Ardops nichollsi,Bat
+325,Arielulus circumdatus,Bat
+326,Arielulus cuprosus,Bat
+327,Ariteus flavescens,Bat
+328,Artibeus aequatorialis,Bat
+329,Artibeus amplus,Bat
+330,Artibeus anderseni,Bat
+331,Artibeus aztecus,Bat
+332,Artibeus cinereus,Bat
+333,Artibeus concolor,Bat
+334,Artibeus fimbriatus,Bat
+335,Artibeus fraterculus,Bat
+336,Artibeus glaucus,Bat
+337,Artibeus hartii,Bat
+338,Artibeus hirsutus,Bat
+339,Artibeus inopinatus,Bat
+340,Artibeus intermedius,Bat
+341,Artibeus jamaicensis,Bat
+342,Artibeus lituratus,Bat
+343,Artibeus obscurus,Bat
+344,Artibeus planirostris,Bat
+345,Artibeus schwartzi,Bat
+346,Artibeus toltecus,Bat
+347,Arvicanthis abyssinicus,Mouse
+348,Arvicanthis ansorgei,Mouse
+349,Arvicanthis blicki,Mouse
+350,Arvicanthis dembeensis,Mouse
+351,Arvicanthis nairobae,Mouse
+352,Arvicanthis neumanni,Mouse
+353,Arvicanthis niloticus,Mouse
+354,Arvicanthis rufinus,Mouse
+355,Arvicanthis somalicus,Mouse
+356,Arvicola amphibius,Water Vole
+357,Arvicola italicus,Vole
+358,Arvicola persicus,Mouse
+359,Arvicola sapidus,Water Vole
+360,Arvicola scherman,Vole
+361,Asellia arabica,Bat
+362,Asellia italosomalica,Bat
+363,Asellia tridens,Bat
+364,Aselliscus dongbacanus,Bat
+365,Aselliscus stoliczkanus,Bat
+366,Aselliscus tricuspidatus,Bat
+367,Atelerix albiventris,Hedgehog
+368,Atelerix algirus,Hedgehog
+369,Atelerix frontalis,Hedgehog
+370,Ateles belzebuth,Monkey
+371,Ateles chamek,Monkey
+372,Ateles fusciceps,Monkey
+373,Ateles geoffroyi,Spider Monkey
+374,Ateles hybridus,Monkey
+375,Ateles marginatus,Monkey
+376,Ateles paniscus,Spider Monkey
+377,Atelocynus microtis,Fox
+378,Atherurus africanus,Porcupine
+379,Atherurus macrourus,Porcupine
+380,Atilax paludinosus,Marsh Mongoose
+381,Atlantoxerus getulus,Squirrel
+382,Atopogale cubana,Shrew
+383,Auliscomys boliviensis,Mouse
+384,Auliscomys pictus,Mouse
+385,Auliscomys sublimis,Mouse
+386,Avahi betsileo,Lemur
+387,Avahi cleesei,Lemur
+388,Avahi laniger,Lemur
+389,Avahi meridionalis,Lemur
+390,Avahi occidentalis,Lemur
+391,Avahi peyrierasi,Lemur
+392,Avahi unicolor,Lemur
+393,Axis axis,Deer
+394,Axis kuhlii,Deer
+395,Axis porcinus,Hog Deer
+396,Babyrousa babyrussa,Babirusa
+397,Babyrousa celebensis,Babirusa
+400,Baiomys brunneus,Mouse
+401,Baiomys musculus,Mouse
+402,Baiomys taylori,Mouse
+404,Balaena mysticetus,Bowhead Whale
+405,Balaenoptera acutorostrata,Minke Whale
+406,Balaenoptera bonaerensis,Whale
+407,Balaenoptera borealis,Whale
+408,Balaenoptera brydei,Whale
+409,Balaenoptera edeni,Whale
+410,Balaenoptera musculus,Blue Whale
+411,Balaenoptera omurai,Whale
+412,Balaenoptera physalus,Fin Whale
+413,Balaenoptera ricei,Whale
+414,Balantiopteryx infusca,Bat
+415,Balantiopteryx io,Bat
+416,Balantiopteryx plicata,Bat
+417,Balionycteris maculata,Bat
+418,Bandicota bengalensis,Rat
+419,Bandicota indica,Rat
+420,Bandicota savilei,Rat
+421,Barbastella barbastellus,Bat
+422,Barbastella beijingensis,Bat
+423,Barbastella caspica,Bat
+424,Barbastella darjelingensis,Bat
+425,Barbastella leucomelas,Bat
+426,Barbastella pacifica,Bat
+427,Bassaricyon alleni,Olingo
+429,Bassaricyon gabbii,Olingo
+431,Bassaricyon neblina,Olinguito
+432,Bassariscus astutus,Ringtail
+433,Bassariscus sumichrasti,Raccoon
+434,Bathyergus janetta,Mole
+435,Bathyergus suillus,Mole
+436,Batomys granti,Mouse
+437,Batomys hamiguitan,Mouse
+438,Batomys russatus,Mouse
+439,Batomys salomonseni,Mouse
+440,Batomys uragon,Mouse
+441,Bauerus dubiaquercus,Bat
+442,Bdeogale crassicauda,Mongoose
+443,Bdeogale jacksoni,Mongoose
+444,Bdeogale nigripes,Mongoose
+445,Beamys hindei,Mouse
+446,Beamys major,Mouse
+447,Beatragus hunteri,Antelope
+448,Belomys pearsonii,Flying Squirrel
+449,Berardius arnuxii,Whale
+450,Berardius bairdii,Whale
+451,Berardius minimus,Whale
+452,Berylmys berdmorei,Rat
+453,Berylmys bowersi,Mouse
+454,Berylmys latouchei,Rat
+455,Berylmys mackenziei,Rat
+456,Berylmys manipulus,Rat
+458,Bettongia gaimardi,Bettong
+459,Bettongia lesueur,Boodie
+460,Bettongia penicillata,Bettong
+462,Bibimys chacoensis,Mouse
+463,Bibimys labiosus,Mouse
+464,Bibimys torresi,Mouse
+466,Bison antiquus,Bison
+467,Bison bison,Bison
+468,Bison bonasus,European Bison
+469,Bison priscus,Bison
+470,Bison schoetensacki,Bison
+471,Biswamoyopterus biswasi,Flying Squirrel
+472,Blanfordimys bucharensis,Mouse
+473,Blarina brevicauda,Shrew
+474,Blarina carolinensis,Shrew
+475,Blarina hylophaga,Shrew
+476,Blarinella quadraticauda,Shrew
+477,Blarinella wardi,Shrew
+478,Blarinomys breviceps,Mouse
+479,Blastocerus dichotomus,Deer
+481,Bootherium bombifrons,Muskox
+483,Bos frontalis,Gaur
+484,Bos gaurus,Gaur
+485,Bos grunniens,Yak
+486,Bos indicus,Zebu
+487,Bos javanicus,Banteng
+488,Bos mutus,Yak
+489,Bos primigenius,Cattle
+491,Bos taurus,Cow
+492,Boselaphus tragocamelus,Nilgai
+494,Brachylagus idahoensis,Pygmy Rabbit
+495,Brachyphylla cavernarum,Bat
+496,Brachyphylla nana,Bat
+497,Brachytarsomys albicauda,Mouse
+498,Brachytarsomys villosus,Mouse
+499,Brachyteles arachnoides,Monkey
+500,Brachyteles hypoxanthus,Monkey
+501,Brachyuromys betsileoensis,Mouse
+502,Brachyuromys ramirohitra,Mouse
+503,Bradypus crinitus,Sloth
+504,Bradypus pygmaeus,Sloth
+505,Bradypus torquatus,Sloth
+506,Bradypus tridactylus,Three-toed Sloth
+507,Bradypus variegatus,Sloth
+508,Bramus fuscocapillus,Mouse
+510,Brotomys voratus,Mouse
+511,Brucepattersonius griserufescens,Mouse
+512,Brucepattersonius igniventris,Mouse
+513,Brucepattersonius nebulosus,Mouse
+514,Brucepattersonius soricinus,Mouse
+515,Bubalus arnee,Water Buffalo
+516,Bubalus bubalis,Water Buffalo
+517,Bubalus depressicornis,Buffalo
+518,Bubalus kerabau,Water Buffalo
+519,Bubalus mephistopheles,Buffalo
+520,Bubalus mindorensis,Tamaraw
+521,Bubalus quarlesi,Buffalo
+523,Budorcas taxicolor,Takin
+524,Budorcas tibetana,Takin
+525,Bullimus bagobus,Rat
+526,Bullimus gamay,Rat
+527,Bullimus luzonicus,Rat
+528,Bunolagus monticularis,Rabbit
+529,Bunomys andrewsi,Mouse
+530,Bunomys chrysocomus,Mouse
+531,Bunomys coelestis,Mouse
+532,Bunomys penitus,Mouse
+533,Bunomys prolatus,Mouse
+534,Bunomys torajae,Mouse
+535,Burramys parvus,Mountain Pygmy Possum
+536,Cabassous centralis,Armadillo
+537,Cabassous chacoensis,Armadillo
+538,Cabassous tatouay,Armadillo
+539,Cabassous unicinctus,Armadillo
+540,Cacajao amuna,Monkey
+541,Cacajao ayresi,Monkey
+542,Cacajao calvus,Monkey
+543,Cacajao hosomi,Monkey
+544,Cacajao melanocephalus,Monkey
+545,Cacajao rubicundus,Monkey
+549,Caenolestes fuliginosus,Shrew Opossum
+551,Calassomys apicalis,Mouse
+552,Calcochloris obtusirostris,Golden Mole
+553,Callicebus caquetensis,Monkey
+554,Callicebus coimbrai,Monkey
+555,Callicebus dubius,Monkey
+556,Callicebus nigrifrons,Monkey
+557,Callicebus ornatus,Monkey
+558,Callicebus personatus,Monkey
+559,Callimico goeldii,Monkey
+561,Callithrix aurita,Monkey
+562,Callithrix flaviceps,Monkey
+563,Callithrix geoffroyi,Monkey
+564,Callithrix jacchus,Marmoset
+565,Callithrix kuhlii,Monkey
+566,Callithrix penicillata,Monkey
+567,Callorhinus ursinus,Northern Fur Seal
+568,Callosciurus adamsi,Squirrel
+569,Callosciurus albescens,Squirrel
+570,Callosciurus baluensis,Squirrel
+571,Callosciurus caniceps,Squirrel
+572,Callosciurus erythraeus,Squirrel
+573,Callosciurus finlaysonii,Squirrel
+574,Callosciurus honkhoaiensis,Squirrel
+575,Callosciurus inornatus,Squirrel
+576,Callosciurus melanogaster,Squirrel
+577,Callosciurus nigrovittatus,Squirrel
+578,Callosciurus notatus,Squirrel
+579,Callosciurus orestes,Squirrel
+580,Callosciurus phayrei,Squirrel
+581,Callosciurus prevostii,Squirrel
+582,Callosciurus pygerythrus,Squirrel
+583,Callosciurus quinquestriatus,Squirrel
+584,Callospermophilus lateralis,Chipmunk
+585,Callospermophilus madrensis,Squirrel
+586,Callospermophilus saturatus,Squirrel
+587,Calomys boliviae,Mouse
+588,Calomys callidus,Mouse
+589,Calomys callosus,Mouse
+590,Calomys cerqueirai,Mouse
+591,Calomys expulsus,Mouse
+592,Calomys fecundus,Mouse
+593,Calomys hummelincki,Mouse
+594,Calomys laucha,Mouse
+595,Calomys lepidus,Mouse
+596,Calomys musculinus,Mouse
+597,Calomys sorella,Mouse
+598,Calomys tener,Mouse
+599,Calomys tocantinsi,Mouse
+600,Calomys venustus,Mouse
+601,Calomyscus bailwardi,Mouse
+602,Calomyscus baluchi,Mouse
+603,Calomyscus behzadi,Mouse
+604,Calomyscus darvishi,Mouse
+605,Calomyscus elburzensis,Mouse
+606,Calomyscus grandis,Mouse
+607,Calomyscus hotsoni,Mouse
+608,Calomyscus kermanensis,Mouse
+609,Calomyscus kiabii,Mouse
+610,Calomyscus mystax,Mouse
+611,Calomyscus urartensis,Mouse
+613,Caluromys derbianus,Opossum
+614,Caluromys lanatus,Opossum
+615,Caluromys philander,Opossum
+618,Camelops hesternus,Camel
+619,Camelus bactrianus,Bactrian Camel
+620,Camelus dromedarius,Dromedary Camel
+621,Camelus ferus,Wild Bactrian Camel
+622,Camelus knoblochi,Camel
+623,Canis adustus,Jackal
+624,Canis aureus,Jackal
+625,Canis himalayensis,Himalayan Wolf
+626,Canis indica,Dog
+627,Canis latrans,Coyote
+628,Canis lupaster,Wolf
+629,Canis lupus,Wolf
+630,Canis mesomelas,Jackal
+631,Canis rufus,Red Wolf
+632,Canis simensis,Wolf
+634,Cansumys canus,Mouse
+635,Caperea marginata,Whale
+636,Capra aegagrus,Goat
+637,Capra caucasica,Goat
+638,Capra cylindricornis,Goat
+639,Capra falconeri,Markhor
+640,Capra hircus,Goat
+641,Capra ibex,Ibex
+642,Capra nubiana,Nubian Ibex
+643,Capra pyrenaica,Ibex
+644,Capra sibirica,Siberian Ibex
+645,Capra walie,Walia Ibex
+646,Capreolus capreolus,Roe Deer
+647,Capreolus pygargus,Roe Deer
+648,Capricornis crispus,Japanese Serow
+649,Capricornis milneedwardsii,Serow
+650,Capricornis rubidus,Serow
+651,Capricornis sumatraensis,Serow
+653,Capricornis thar,Serow
+654,Caprolagus hispidus,Hare
+657,Caracal caracal,Caracal
+658,Cardiocranius paradoxus,Mouse
+659,Cardioderma cor,Bat
+660,Carlito syrichta,Tarsier
+661,Carollia benkeithi,Bat
+662,Carollia brevicauda,Bat
+663,Carollia castanea,Bat
+664,Carollia manu,Bat
+665,Carollia perspicillata,Bat
+666,Carollia sowelli,Bat
+667,Carollia subrufa,Bat
+668,Carpitalpa arendsi,Mole
+669,Carpomys melanurus,Mouse
+670,Carpomys phaeurus,Mouse
+672,Casinycteris argynnis,Bat
+673,Casinycteris campomaanensis,Bat
+674,Casinycteris ophiodon,Bat
+675,Cassistrellus dimissus,Bat
+676,Cassistrellus yokdonensis,Bat
+677,Castor canadensis,Beaver
+678,Castor fiber,Beaver
+680,Castoroides ohioensis,Giant Beaver
+681,Catagonus wagneri,Peccary
+682,Catopuma badia,Cat
+683,Catopuma temminckii,Golden Cat
+684,Cavia aperea,Guinea Pig
+685,Cavia cutleri,Guinea Pig
+686,Cavia fulgida,Guinea Pig
+687,Cavia magna,Guinea Pig
+688,Cavia patzelti,Guinea Pig
+689,Cavia porcellus,Guinea Pig
+690,Cavia tschudii,Guinea Pig
+691,Cebuella niveiventris,Pygmy Marmoset
+692,Cebuella pygmaea,Pygmy Marmoset
+693,Cebus aequatorialis,Monkey
+694,Cebus albifrons,Monkey
+695,Cebus capucinus,Monkey
+696,Cebus castaneus,Monkey
+697,Cebus imitator,Monkey
+698,Cebus kaapori,Monkey
+699,Cebus olivaceus,Monkey
+700,Cebus unicolor,Monkey
+701,Cebus versicolor,Monkey
+702,Centronycteris centralis,Bat
+703,Centronycteris maximiliani,Bat
+704,Centurio senex,Bat
+705,Cephalopachus bancanus,Tarsier
+706,Cephalophorus callipygus,Duiker
+707,Cephalophorus leucogaster,Duiker
+708,Cephalophorus natalensis,Duiker
+709,Cephalophorus niger,Duiker
+710,Cephalophorus nigrifrons,Duiker
+711,Cephalophorus ogilbyi,Duiker
+715,Cephalophula zebra,Zebra Duiker
+716,Cephalophus dorsalis,Duiker
+717,Cephalophus harveyi,Antelope
+718,Cephalophus jentinki,Duiker
+719,Cephalophus silvicultor,Duiker
+720,Cephalophus spadix,Antelope
+721,Cephalorhynchus commersonii,Dolphin
+722,Cephalorhynchus eutropia,Dolphin
+723,Cephalorhynchus heavisidii,Dolphin
+724,Cephalorhynchus hectori,Dolphin
+725,Ceratotherium simum,White Rhinoceros
+726,Cercartetus caudatus,Possum
+727,Cercartetus concinnus,Mouse
+728,Cercartetus lepidus,Mouse
+729,Cercartetus nana,Pygmy Possum
+730,Cercocebus agilis,Monkey
+731,Cercocebus atys,Monkey
+732,Cercocebus chrysogaster,Monkey
+733,Cercocebus galeritus,Monkey
+734,Cercocebus lunulatus,Monkey
+735,Cercocebus torquatus,Monkey
+736,Cercopithecus albogularis,Monkey
+737,Cercopithecus ascanius,Monkey
+738,Cercopithecus campbelli,Monkey
+739,Cercopithecus cephus,Monkey
+740,Cercopithecus denti,Monkey
+741,Cercopithecus diana,Monkey
+742,Cercopithecus doggetti,Monkey
+743,Cercopithecus erythrogaster,Monkey
+744,Cercopithecus erythrotis,Monkey
+745,Cercopithecus hamlyni,Monkey
+746,Cercopithecus kandti,Monkey
+747,Cercopithecus lomamiensis,Monkey
+748,Cercopithecus mitis,Monkey
+749,Cercopithecus mona,Monkey
+750,Cercopithecus neglectus,Monkey
+751,Cercopithecus nictitans,Monkey
+752,Cercopithecus petaurista,Monkey
+753,Cercopithecus pogonias,Monkey
+754,Cercopithecus roloway,Monkey
+755,Cercopithecus sclateri,Monkey
+756,Cercopithecus wolfi,Monkey
+757,Cerdocyon thous,Fox
+758,Cerradomys akroai,Mouse
+759,Cerradomys goytaca,Mouse
+760,Cerradomys langguthi,Mouse
+761,Cerradomys maracajuensis,Mouse
+762,Cerradomys marinhus,Mouse
+763,Cerradomys scotti,Mouse
+764,Cerradomys subflavus,Mouse
+765,Cerradomys vivoi,Mouse
+766,Cervus albirostris,Deer
+767,Cervus canadensis,Elk
+768,Cervus elaphus,Deer
+769,Cervus hanglu,Deer
+770,Cervus nippon,Sika Deer
+772,Chaeropus ecaudatus,Pig-footed Bandicoot
+773,Chaetodipus ammophilus,Mouse
+774,Chaetodipus arenarius,Mouse
+775,Chaetodipus artus,Mouse
+776,Chaetodipus baileyi,Mouse
+777,Chaetodipus californicus,Mouse
+778,Chaetodipus collis,Mouse
+779,Chaetodipus dalquesti,Mouse
+780,Chaetodipus durangae,Mouse
+781,Chaetodipus eremicus,Mouse
+782,Chaetodipus fallax,Mouse
+783,Chaetodipus formosus,Mouse
+784,Chaetodipus goldmani,Mouse
+785,Chaetodipus hispidus,Mouse
+786,Chaetodipus intermedius,Mouse
+787,Chaetodipus nelsoni,Mouse
+788,Chaetodipus penicillatus,Pocket Mouse
+789,Chaetodipus pernix,Mouse
+790,Chaetodipus rudinoris,Mouse
+791,Chaetodipus spinatus,Mouse
+792,Chaetomys subspinosus,Porcupine
+793,Chaetophractus vellerosus,Armadillo
+794,Chaetophractus villosus,Armadillo
+795,Chalinolobus dwyeri,Bat
+796,Chalinolobus gouldii,Bat
+797,Chalinolobus morio,Bat
+798,Chalinolobus neocaledonicus,Bat
+799,Chalinolobus nigrogriseus,Bat
+800,Chalinolobus picatus,Bat
+801,Chalinolobus tuberculatus,Bat
+803,Cheirogaleus crossleyi,Mouse Lemur
+806,Cheirogaleus major,Dwarf Lemur
+807,Cheirogaleus medius,Mouse Lemur
+810,Cheirogaleus sibreei,Lemur
+811,Cheiromeles parvidens,Bat
+812,Cheiromeles torquatus,Bat
+813,Chelemys megalonyx,Mouse
+814,Cheracebus lucifer,Monkey
+815,Cheracebus lugens,Monkey
+816,Cheracebus medemi,Monkey
+817,Cheracebus purinus,Monkey
+818,Cheracebus regulus,Monkey
+819,Cheracebus torquatus,Monkey
+820,Chibchanomys orcesi,Mouse
+821,Chibchanomys trichotis,Mouse
+822,Chilomys instans,Mouse
+823,Chilonatalus micropus,Bat
+824,Chilonatalus tumidifrons,Bat
+826,Chimarrogale himalayica,Water Shrew
+827,Chimarrogale leander,Water Shrew
+828,Chimarrogale phaeura,Shrew
+829,Chimarrogale platycephalus,Water Shrew
+830,Chimarrogale styani,Water Shrew
+831,Chimarrogale varennei,Shrew
+832,Chinchilla chinchilla,Chinchilla
+833,Chinchilla lanigera,Chinchilla
+835,Chionomys gud,Mouse
+836,Chionomys nivalis,Mouse
+837,Chionomys roberti,Mouse
+838,Chiroderma doriae,Bat
+839,Chiroderma gorgasi,Bat
+840,Chiroderma improvisum,Bat
+841,Chiroderma salvini,Bat
+842,Chiroderma scopaeum,Bat
+843,Chiroderma trinitatum,Bat
+844,Chiroderma villosum,Bat
+845,Chiromyscus chiropus,Mouse
+846,Chiromyscus langbianis,Mouse
+847,Chiromyscus thomasi,Mouse
+848,Chironax melanocephalus,Bat
+849,Chironectes minimus,Water Opossum
+850,Chiropodomys gliroides,Mouse
+851,Chiropodomys major,Mouse
+852,Chiropodomys pusillus,Mouse
+853,Chiropotes albinasus,Monkey
+854,Chiropotes chiropotes,Monkey
+855,Chiropotes israelita,Monkey
+856,Chiropotes sagulatus,Monkey
+857,Chiropotes satanas,Monkey
+858,Chiropotes utahickae,Monkey
+859,Chiruromys vates,Mouse
+860,Chlamyphorus truncatus,Pink Fairy Armadillo
+861,Chlorocebus aethiops,Monkey
+862,Chlorocebus cynosuros,Monkey
+863,Chlorocebus djamdjamensis,Monkey
+864,Chlorocebus dryas,Monkey
+865,Chlorocebus pygerythrus,Monkey
+866,Chlorocebus sabaeus,Monkey
+867,Chlorocebus tantalus,Monkey
+868,Chlorotalpa duthieae,Mole
+869,Chlorotalpa sclateri,Mole
+872,Chodsigoa furva,Shrew
+874,Chodsigoa hypsibia,Shrew
+875,Chodsigoa parca,Shrew
+876,Chodsigoa parva,Shrew
+877,Chodsigoa smithii,Shrew
+878,Chodsigoa sodalis,Shrew
+879,Choeroniscus godmani,Bat
+880,Choeroniscus minor,Bat
+881,Choeronycteris mexicana,Bat
+882,Choloepus didactylus,Two-toed Sloth
+883,Choloepus hoffmanni,Sloth
+884,Chrotogale owstoni,Civet
+885,Chrotomys gonzalesi,Mouse
+886,Chrotomys mindorensis,Mouse
+887,Chrotomys sibuyanensis,Mouse
+888,Chrotomys silaceus,Mouse
+889,Chrotomys whiteheadi,Mouse
+890,Chrotopterus auritus,Bat
+891,Chrysochloris asiatica,Golden Mole
+893,Chrysocyon brachyurus,Maned Wolf
+894,Chrysospalax trevelyani,Golden Mole
+895,Chrysospalax villosus,Golden Mole
+896,Cistugo lesueuri,Bat
+897,Cistugo seabrae,Bat
+898,Civettictis civetta,Civet
+899,Clethrionomys centralis,Mouse
+900,Clethrionomys gapperi,Mouse
+901,Clethrionomys rutilus,Vole
+902,Cloeotis percivali,Bat
+911,Cnephaeus nilssonii,Bat
+916,Coccymys ruemmleri,Mouse
+917,Coelodonta antiquitatis,Woolly Rhinoceros
+918,Coelops frithii,Bat
+919,Coelops robinsoni,Bat
+920,Coendou baturitensis,Porcupine
+921,Coendou bicolor,Porcupine
+922,Coendou ichillus,Porcupine
+923,Coendou insidiosus,Porcupine
+924,Coendou melanurus,Porcupine
+925,Coendou mexicanus,Porcupine
+926,Coendou nycthemera,Porcupine
+927,Coendou prehensilis,Porcupine
+928,Coendou pruinosus,Porcupine
+929,Coendou quichua,Porcupine
+930,Coendou roosmalenorum,Porcupine
+931,Coendou rufescens,Porcupine
+932,Coendou speratus,Porcupine
+933,Coendou spinosus,Porcupine
+934,Coendou vestitus,Porcupine
+935,Coendou villosus,Porcupine
+936,Coleura afra,Bat
+937,Coleura kibomalandy,Bat
+938,Coleura seychellensis,Bat
+939,Colobus angolensis,Monkey
+940,Colobus guereza,Monkey
+941,Colobus polykomos,Monkey
+942,Colobus satanas,Monkey
+943,Colobus vellerosus,Monkey
+944,Colomys eisentrauti,Mouse
+945,Colomys goslingi,Mouse
+946,Colomys lumumbai,Mouse
+947,Colomys wologizi,Mouse
+948,Condylura cristata,Star-nosed Mole
+949,Conepatus chinga,Skunk
+950,Conepatus leuconotus,Skunk
+951,Conepatus mesoleucus,Skunk
+952,Conepatus semistriatus,Skunk
+953,Congomys verschureni,Mouse
+956,Conilurus albipes,Mouse
+957,Conilurus penicillatus,Mouse
+958,Connochaetes gnou,Wildebeest
+959,Connochaetes taurinus,Wildebeest
+960,Cormura brevirostris,Bat
+961,Corynorhinus mexicanus,Bat
+962,Corynorhinus rafinesquii,Bat
+963,Corynorhinus townsendii,Bat
+964,Craseomys andersoni,Vole
+965,Craseomys rex,Vole
+966,Craseomys smithii,Vole
+967,Craseonycteris thonglongyai,Bat
+971,Cratogeomys bursarius,Gopher
+972,Cratogeomys castanops,Gopher
+973,Cratogeomys estor,Gopher
+974,Cratogeomys fulvescens,Gopher
+975,Cratogeomys fumosus,Gopher
+976,Cratogeomys goldmani,Gopher
+977,Cratogeomys gymnurus,Gopher
+978,Cratogeomys merriami,Gopher
+979,Cratogeomys neglectus,Gopher
+980,Cratogeomys perotensis,Gopher
+981,Cratogeomys planiceps,Gopher
+982,Cratogeomys tylorhinus,Gopher
+983,Cratogeomys zinseri,Gopher
+984,Cremnomys cutchicus,Mouse
+985,Cricetomys ansorgei,Rat
+986,Cricetomys emini,Rat
+987,Cricetomys gambianus,Giant Pouched Rat
+988,Cricetulus barabensis,Hamster
+989,Cricetulus griseus,Hamster
+990,Cricetulus longicaudatus,Hamster
+991,Cricetulus sokolovi,Hamster
+992,Cricetus cricetus,Hamster
+993,Crocidura absconditus,Shrew
+994,Crocidura afeworkbekelei,Shrew
+995,Crocidura aleksandrisi,Shrew
+996,Crocidura andamanensis,Shrew
+997,Crocidura anhuiensis,Shrew
+998,Crocidura arispa,Shrew
+999,Crocidura armenica,Shrew
+1000,Crocidura attenuata,Shrew
+1001,Crocidura attila,Shrew
+1002,Crocidura australis,Shrew
+1003,Crocidura baileyi,Shrew
+1004,Crocidura baletei,Shrew
+1005,Crocidura balingka,Shrew
+1006,Crocidura baluensis,Shrew
+1007,Crocidura barapi,Shrew
+1008,Crocidura batakorum,Shrew
+1009,Crocidura batesi,Shrew
+1010,Crocidura beata,Shrew
+1011,Crocidura beccarii,Shrew
+1012,Crocidura bottegi,Shrew
+1013,Crocidura brevicauda,Shrew
+1014,Crocidura brunnea,Shrew
+1015,Crocidura buettikoferi,Shrew
+1016,Crocidura caliginea,Shrew
+1017,Crocidura canariensis,Shrew
+1018,Crocidura caspica,Shrew
+1019,Crocidura caudicrassa,Shrew
+1020,Crocidura caudipilosa,Shrew
+1021,Crocidura cinderella,Shrew
+1022,Crocidura crenata,Shrew
+1023,Crocidura crossei,Shrew
+1024,Crocidura cyanea,Shrew
+1025,Crocidura darvishi,Shrew
+1026,Crocidura denti,Shrew
+1027,Crocidura dewi,Shrew
+1028,Crocidura dolichura,Shrew
+1029,Crocidura dongyangjiangensis,Shrew
+1030,Crocidura douceti,Shrew
+1031,Crocidura dracula,Shrew
+1032,Crocidura dsinezumi,Shrew
+1033,Crocidura eburnea,Shrew
+1034,Crocidura elongata,Shrew
+1035,Crocidura fingui,Shrew
+1036,Crocidura flavescens,Shrew
+1037,Crocidura foetida,Shrew
+1038,Crocidura foxi,Shrew
+1039,Crocidura fuliginosa,Shrew
+1040,Crocidura fulvastra,Shrew
+1041,Crocidura fumosa,Shrew
+1042,Crocidura fuscomurina,Shrew
+1043,Crocidura glassi,Shrew
+1044,Crocidura goliath,Shrew
+1045,Crocidura grandiceps,Shrew
+1046,Crocidura grassei,Shrew
+1047,Crocidura grayi,Shrew
+1048,Crocidura harenna,Shrew
+1049,Crocidura hikmiya,Shrew
+1050,Crocidura hildegardeae,Shrew
+1051,Crocidura hirta,Shrew
+1052,Crocidura horsfieldii,Shrew
+1053,Crocidura hutanis,Shrew
+1054,Crocidura ichnusae,Shrew
+1055,Crocidura indochinensis,Shrew
+1056,Crocidura jouvenetae,Shrew
+1057,Crocidura kegoensis,Shrew
+1058,Crocidura kivuana,Shrew
+1059,Crocidura lamottei,Shrew
+1060,Crocidura lanosa,Shrew
+1061,Crocidura lasiura,Shrew
+1062,Crocidura latona,Shrew
+1063,Crocidura lea,Shrew
+1064,Crocidura lepidura,Shrew
+1065,Crocidura leucodon,Shrew
+1066,Crocidura levicula,Shrew
+1067,Crocidura littoralis,Shrew
+1068,Crocidura longipes,Shrew
+1069,Crocidura lucina,Shrew
+1070,Crocidura ludia,Shrew
+1071,Crocidura luna,Shrew
+1072,Crocidura lusitania,Shrew
+1073,Crocidura macmillani,Shrew
+1074,Crocidura makeda,Shrew
+1075,Crocidura malayana,Shrew
+1076,Crocidura maquassiensis,Shrew
+1077,Crocidura mariquensis,Shrew
+1078,Crocidura maurisca,Shrew
+1079,Crocidura maxi,Shrew
+1080,Crocidura mdumai,Shrew
+1081,Crocidura mediocris,Shrew
+1082,Crocidura microelongata,Shrew
+1083,Crocidura mindorus,Shrew
+1084,Crocidura miya,Shrew
+1085,Crocidura monacha,Shrew
+1086,Crocidura monax,Shrew
+1087,Crocidura monticola,Shrew
+1088,Crocidura montis,Shrew
+1089,Crocidura munissii,Shrew
+1090,Crocidura muricauda,Shrew
+1091,Crocidura musseri,Shrew
+1092,Crocidura mutesae,Shrew
+1093,Crocidura nana,Shrew
+1094,Crocidura nanilla,Shrew
+1095,Crocidura neglecta,Shrew
+1096,Crocidura negligens,Shrew
+1097,Crocidura negrina,Shrew
+1098,Crocidura newmarki,Shrew
+1099,Crocidura nicobarica,Shrew
+1100,Crocidura nigeriae,Shrew
+1101,Crocidura nigricans,Shrew
+1102,Crocidura nigripes,Shrew
+1103,Crocidura nimbae,Shrew
+1104,Crocidura nimbasilvanus,Shrew
+1105,Crocidura ninoyi,Shrew
+1106,Crocidura niobe,Shrew
+1107,Crocidura normalis,Shrew
+1108,Crocidura obscurior,Shrew
+1109,Crocidura odorata,Shrew
+1110,Crocidura olivieri,Shrew
+1111,Crocidura ordinaria,Shrew
+1112,Crocidura orientalis,Shrew
+1113,Crocidura orii,Shrew
+1114,Crocidura pachyura,Shrew
+1115,Crocidura palawanensis,Shrew
+1116,Crocidura pallida,Shrew
+1117,Crocidura panayensis,Shrew
+1118,Crocidura paradoxura,Shrew
+1119,Crocidura parva,Shrew
+1120,Crocidura parvipes,Shrew
+1121,Crocidura pergrisea,Shrew
+1122,Crocidura persica,Shrew
+1123,Crocidura phaeura,Shrew
+1124,Crocidura phanluongi,Shrew
+1125,Crocidura phuquocensis,Shrew
+1126,Crocidura poensis,Shrew
+1127,Crocidura pseudorhoditis,Shrew
+1128,Crocidura quasielongata,Shrew
+1129,Crocidura ramona,Shrew
+1130,Crocidura rapax,Shrew
+1131,Crocidura rhoditis,Shrew
+1132,Crocidura roosevelti,Shrew
+1133,Crocidura russula,Shrew
+1134,Crocidura sapaensis,Shrew
+1135,Crocidura serezkyensis,Shrew
+1136,Crocidura shantungensis,Shrew
+1137,Crocidura sibirica,Shrew
+1138,Crocidura sicula,Shrew
+1139,Crocidura silacea,Shrew
+1140,Crocidura similiturba,Shrew
+1141,Crocidura sokolovi,Shrew
+1142,Crocidura solita,Shrew
+1143,Crocidura somalica,Shrew
+1144,Crocidura stenocephala,Shrew
+1145,Crocidura suaveolens,Shrew
+1146,Crocidura tanakae,Shrew
+1147,Crocidura tansaniana,Shrew
+1148,Crocidura tarfayensis,Shrew
+1149,Crocidura telfordi,Shrew
+1150,Crocidura tenebrosa,Shrew
+1151,Crocidura thalia,Shrew
+1152,Crocidura theresae,Shrew
+1153,Crocidura trichura,Shrew
+1154,Crocidura turba,Shrew
+1155,Crocidura usambarae,Shrew
+1156,Crocidura viaria,Shrew
+1157,Crocidura voi,Shrew
+1158,Crocidura vorax,Shrew
+1159,Crocidura vosmaeri,Shrew
+1160,Crocidura watasei,Shrew
+1161,Crocidura wimmeri,Shrew
+1162,Crocidura wuchihensis,Shrew
+1163,Crocidura yaldeni,Shrew
+1164,Crocidura zaitsevi,Shrew
+1165,Crocidura zaodon,Shrew
+1166,Crocidura zarudnyi,Shrew
+1167,Crocidura zimmermanni,Shrew
+1168,Crocuta crocuta,Hyena
+1169,Crossarchus alexandri,Mongoose
+1170,Crossarchus ansorgei,Mongoose
+1171,Crossarchus obscurus,Mongoose
+1172,Crossarchus platycephalus,Mongoose
+1174,Crossomys moncktoni,Mouse
+1175,Crunomys celebensis,Mouse
+1176,Crunomys fallax,Mouse
+1177,Crunomys melanius,Mouse
+1178,Crunomys suncoides,Mouse
+1181,Cryptomys anomalus,Mole-rat
+1182,Cryptomys holosericeus,Mole Rat
+1183,Cryptomys hottentotus,Mole-rat
+1184,Cryptomys mahali,Mole-rat
+1185,Cryptomys nimrodi,Mole Rat
+1186,Cryptomys pretoriae,Mole-rat
+1187,Cryptonanus agricolai,Mouse
+1188,Cryptonanus chacoensis,Mouse
+1189,Cryptonanus guahybae,Mouse
+1190,Cryptonanus unduaviensis,Mouse
+1191,Cryptoprocta ferox,Fossa
+1192,Cryptotis alticolus,Shrew
+1193,Cryptotis berlandieri,Shrew
+1194,Cryptotis celaque,Shrew
+1195,Cryptotis evaristoi,Shrew
+1196,Cryptotis goldmani,Shrew
+1197,Cryptotis goodwini,Shrew
+1198,Cryptotis gracilis,Shrew
+1199,Cryptotis griseoventris,Shrew
+1200,Cryptotis lacertosus,Shrew
+1201,Cryptotis magnus,Shrew
+1202,Cryptotis mam,Shrew
+1203,Cryptotis mayensis,Shrew
+1204,Cryptotis mccarthyi,Shrew
+1205,Cryptotis merriami,Shrew
+1206,Cryptotis mexicanus,Shrew
+1207,Cryptotis montivagus,Shrew
+1208,Cryptotis nelsoni,Shrew
+1209,Cryptotis niausa,Shrew
+1210,Cryptotis nigrescens,Shrew
+1211,Cryptotis obscurus,Shrew
+1212,Cryptotis oreoryctes,Shrew
+1213,Cryptotis orophilus,Shrew
+1214,Cryptotis parvus,Shrew
+1215,Cryptotis peregrinus,Shrew
+1216,Cryptotis phillipsii,Shrew
+1217,Cryptotis soricinus,Shrew
+1218,Cryptotis thomasi,Shrew
+1219,Cryptotis tropicalis,Shrew
+1220,Ctenodactylus gundi,Gundi
+1262,Ctenomys minutus,Mouse
+1293,Cuniculus paca,Paca
+1295,Cuon alpinus,Dhole
+1297,Cyclopes didactylus,Silky Anteater
+1298,Cyclopes rufus,Anteater
+1299,Cyclopes xinguensis,Anteater
+1300,Cynictis penicillata,Mongoose
+1301,Cynocephalus volans,Flying Lemur
+1302,Cynogale bennetti,Otter
+1303,Cynomops abrasus,Bat
+1304,Cynomops greenhalli,Bat
+1305,Cynomops kuizha,Bat
+1306,Cynomops mexicanus,Bat
+1307,Cynomops paranus,Bat
+1308,Cynomops planirostris,Bat
+1309,Cynomys gunnisoni,Prairie Dog
+1310,Cynomys leucurus,Prairie Dog
+1311,Cynomys ludovicianus,Prairie Dog
+1312,Cynomys mexicanus,Prairie Dog
+1313,Cynomys parvidens,Prairie Dog
+1314,Cynopterus brachyotis,Bat
+1315,Cynopterus horsfieldii,Bat
+1316,Cynopterus nusatenggara,Bat
+1317,Cynopterus sphinx,Bat
+1318,Cynopterus titthaecheilus,Bat
+1319,Cystophora cristata,Hooded Seal
+1320,Cyttarops alecto,Bat
+1321,Dacnomys millardi,Mouse
+1326,Dactylopsila trivirgata,Striped Possum
+1327,Dama dama,Fallow Deer
+1328,Dama mesopotamica,Fallow Deer
+1329,Damaliscus lunatus,Hartebeest
+1330,Damaliscus pygargus,Antelope
+1331,Daptomys ferreirai,Mouse
+1332,Daptomys mussoi,Mouse
+1333,Dasycercus blythi,Marsupial Mouse
+1336,Dasymys incomtus,Mouse
+1337,Dasymys montanus,Mouse
+1338,Dasymys rufulus,Mouse
+1339,Dasyprocta azarae,Agouti
+1340,Dasyprocta fuliginosa,Agouti
+1341,Dasyprocta kalinowski,Agouti
+1342,Dasyprocta leporina,Agouti
+1343,Dasyprocta punctata,Agouti
+1344,Dasyprocta ruatanica,Agouti
+1345,Dasypus bellus,Armadillo
+1346,Dasypus beniensis,Armadillo
+1347,Dasypus guianensis,Armadillo
+1348,Dasypus hybridus,Armadillo
+1349,Dasypus kappleri,Armadillo
+1350,Dasypus novemcinctus,Armadillo
+1351,Dasypus pastasae,Armadillo
+1352,Dasypus pilosus,Armadillo
+1353,Dasypus sabanicola,Armadillo
+1354,Dasypus septemcinctus,Armadillo
+1355,Dasypus yepesi,Armadillo
+1356,Dasyuroides byrnei,Marsupial Mouse
+1357,Dasyurus albopunctatus,Quoll
+1358,Dasyurus geoffroii,Quoll
+1359,Dasyurus hallucatus,Quoll
+1360,Dasyurus maculatus,Quoll
+1361,Dasyurus spartacus,Quoll
+1362,Dasyurus viverrinus,Quoll
+1363,Daubentonia madagascariensis,Aye-aye
+1364,Delanymys brooksi,Mouse
+1365,Delomys altimontanus,Mouse
+1366,Delomys collinus,Mouse
+1367,Delomys dorsalis,Mouse
+1368,Delomys sublineatus,Mouse
+1369,Delphinapterus leucas,Beluga Whale
+1370,Delphinus bairdii,Dolphin
+1371,Delphinus capensis,Dolphin
+1372,Delphinus delphis,Dolphin
+1373,Delphinus tropicalis,Dolphin
+1374,Deltamys araucaria,Mouse
+1375,Deltamys kempi,Mouse
+1376,Dendrogale melanura,Tree Shrew
+1377,Dendrogale murina,Tree Shrew
+1378,Dendrohyrax arboreus,Hyrax
+1379,Dendrohyrax dorsalis,Hyrax
+1380,Dendrohyrax interfluvialis,Hyrax
+1381,Dendrolagus bennettianus,Tree Kangaroo
+1382,Dendrolagus dorianus,Tree Kangaroo
+1383,Dendrolagus goodfellowi,Tree Kangaroo
+1384,Dendrolagus inustus,Tree Kangaroo
+1385,Dendrolagus lumholtzi,Tree Kangaroo
+1386,Dendrolagus matschiei,Tree Kangaroo
+1387,Dendrolagus mbaiso,Tree Kangaroo
+1388,Dendrolagus notatus,Tree Kangaroo
+1389,Dendrolagus pulcherrimus,Tree Kangaroo
+1390,Dendrolagus scottae,Tree Kangaroo
+1391,Dendrolagus spadix,Tree Kangaroo
+1392,Dendrolagus stellarum,Tree Kangaroo
+1393,Dendrolagus ursinus,Tree Kangaroo
+1394,Dendromus insignis,Mouse
+1395,Dendromus kumasi,Mouse
+1396,Dendromus lachaisei,Mouse
+1397,Dendromus lovati,Mouse
+1398,Dendromus melanotis,Mouse
+1399,Dendromus mesomelas,Mouse
+1400,Dendromus messorius,Mouse
+1401,Dendromus mystacalis,Mouse
+1402,Dendromus nikolausi,Mouse
+1403,Dendromus nyasae,Mouse
+1404,Dendromus nyikae,Mouse
+1405,Dendromus oreas,Mouse
+1406,Dendromus pecilei,Mouse
+1407,Dendromus ruppi,Mouse
+1408,Deomys ferrugineus,Mouse
+1409,Dephomys defua,Mouse
+1410,Dermanura bogotensis,Bat
+1411,Dermanura gnomus,Bat
+1412,Dermanura incomitata,Bat
+1413,Dermanura phaeotis,Bat
+1414,Dermanura rava,Bat
+1415,Desmalopex leucoptera,Bat
+1416,Desmalopex microleucoptera,Bat
+1417,Desmana moschata,Russian Desman
+1418,Desmodilliscus braueri,Mouse
+1419,Desmodillus auricularis,Mouse
+1420,Desmodus rotundus,Vampire Bat
+1421,Desmomys harringtoni,Mouse
+1422,Diaemus youngi,Bat
+1423,Dicerorhinus sumatrensis,Sumatran Rhinoceros
+1424,Diceros bicornis,Black Rhinoceros
+1425,Diclidurus albus,Bat
+1426,Diclidurus ingens,Bat
+1427,Diclidurus isabella,Bat
+1428,Diclidurus scutatus,Bat
+1429,Dicotyles tajacu,Peccary
+1430,Dicrostonyx groenlandicus,Lemming
+1431,Dicrostonyx hudsonius,Lemming
+1432,Dicrostonyx richardsoni,Lemming
+1433,Dicrostonyx torquatus,Lemming
+1434,Didelphis albiventris,Opossum
+1435,Didelphis aurita,Opossum
+1436,Didelphis imperfecta,Opossum
+1437,Didelphis marsupialis,Opossum
+1438,Didelphis pernigra,Opossum
+1439,Didelphis virginiana,Opossum
+1440,Dinaromys bogdanovi,Mouse
+1441,Dinomys branickii,Pacarana
+1442,Diphylla ecaudata,Bat
+1444,Diplomesodon pulchellum,Shrew
+1446,Diplothrix legata,Rat
+1447,Dipodillus campestris,Mouse
+1448,Dipodillus dasyurus,Mouse
+1449,Dipodillus rupicola,Mouse
+1450,Dipodillus simoni,Mouse
+1451,Dipodomys agilis,Kangaroo Rat
+1452,Dipodomys californicus,Kangaroo Rat
+1453,Dipodomys compactus,Kangaroo Rat
+1454,Dipodomys deserti,Kangaroo Rat
+1455,Dipodomys elator,Kangaroo Rat
+1456,Dipodomys elephantinus,Kangaroo Rat
+1457,Dipodomys gravipes,Kangaroo Rat
+1458,Dipodomys heermanni,Kangaroo Rat
+1459,Dipodomys ingens,Kangaroo Rat
+1460,Dipodomys insularis,Kangaroo Rat
+1461,Dipodomys merriami,Kangaroo Rat
+1462,Dipodomys microps,Kangaroo Rat
+1463,Dipodomys nelsoni,Kangaroo Rat
+1464,Dipodomys nitratoides,Kangaroo Rat
+1465,Dipodomys ordii,Kangaroo Rat
+1466,Dipodomys panamintinus,Kangaroo Rat
+1467,Dipodomys phillipsii,Kangaroo Rat
+1468,Dipodomys simulans,Kangaroo Rat
+1469,Dipodomys spectabilis,Kangaroo Rat
+1470,Dipodomys stephensi,Kangaroo Rat
+1471,Dipodomys venustus,Kangaroo Rat
+1472,Dipus deasyi,Jerboa
+1473,Dipus sagitta,Jerboa
+1475,Dobsonia andersoni,Bat
+1476,Dobsonia inermis,Bat
+1477,Dobsonia magna,Bat
+1478,Dobsonia minor,Bat
+1479,Dobsonia moluccensis,Bat
+1480,Dobsonia pannietensis,Bat
+1481,Dobsonia praedatrix,Bat
+1482,Dobsonia viridis,Bat
+1483,Dolichotis patagonum,Patagonian Mara
+1485,Dorcatragus megalotis,Antelope
+1486,Dorcopsis hageni,Kangaroo
+1487,Dorcopsis veterum,Kangaroo
+1489,Doryrhina camerunensis,Bat
+1490,Doryrhina cyclops,Bat
+1491,Dremomys everetti,Squirrel
+1492,Dremomys gularis,Squirrel
+1493,Dremomys lokriah,Squirrel
+1494,Dremomys pernyi,Squirrel
+1495,Dremomys pyrrhomerus,Squirrel
+1496,Dremomys rufigenis,Squirrel
+1499,Drymoreomys albimaculatus,Mouse
+1500,Dryomys laniger,Dormouse
+1501,Dryomys nitedula,Dormouse
+1502,Dugong dugon,Dugong
+1505,Dyacopterus rickarti,Bat
+1506,Dyacopterus spadiceus,Bat
+1507,Dymecodon pilirostris,Shrew
+1510,Echinops telfairi,Hedgehog
+1511,Echinosciurus colliaei,Squirrel
+1512,Echinosciurus yucatanensis,Squirrel
+1513,Echinosorex gymnura,Moonrat
+1514,Echiothrix centrosa,Rat
+1515,Echiothrix leucura,Rat
+1517,Echymipera kalubu,Bandicoot
+1518,Echymipera rufescens,Bandicoot
+1519,Ectophylla alba,Bat
+1520,Eidolon dupreanum,Bat
+1521,Eidolon helvum,Bat
+1522,Eira barbara,Tayra
+1523,Elaphodus cephalophus,Tufted Deer
+1524,Elaphurus davidianus,Père David's Deer
+1525,Elasmodontomys obliquus,Mouse
+1527,Elephantulus brachyrhynchus,Elephant Shrew
+1528,Elephantulus edwardii,Elephant Shrew
+1529,Elephantulus fuscipes,Elephant Shrew
+1530,Elephantulus fuscus,Elephant Shrew
+1531,Elephantulus intufi,Elephant Shrew
+1532,Elephantulus myurus,Elephant Shrew
+1533,Elephantulus pilicaudus,Elephant Shrew
+1534,Elephantulus rupestris,Elephant Shrew
+1535,Elephas antiquus,Elephant
+1536,Elephas cypriotes,Elephant
+1537,Elephas maximus,Elephant
+1538,Eligmodontia bolsonensis,Mouse
+1539,Eligmodontia hirtipes,Mouse
+1540,Eligmodontia moreni,Mouse
+1541,Eligmodontia morgani,Mouse
+1542,Eligmodontia puerulus,Mouse
+1543,Eligmodontia typus,Mouse
+1544,Eliomys melanurus,Dormouse
+1545,Eliomys quercinus,Dormouse
+1546,Eliurus antsingy,Mouse
+1547,Eliurus carletoni,Mouse
+1548,Eliurus ellermani,Mouse
+1549,Eliurus grandidieri,Mouse
+1550,Eliurus majori,Mouse
+1551,Eliurus minor,Mouse
+1552,Eliurus myoxinus,Mouse
+1553,Eliurus tanala,Mouse
+1554,Eliurus tsingimbato,Mouse
+1555,Eliurus webbi,Mouse
+1556,Ellobius alaicus,Mouse
+1557,Ellobius talpinus,Mole Vole
+1558,Ellobius tancrei,Mouse
+1559,Emballonura alecto,Bat
+1560,Emballonura beccarii,Bat
+1561,Emballonura dianae,Bat
+1562,Emballonura monticola,Bat
+1563,Emballonura raffrayana,Bat
+1564,Emballonura semicaudata,Bat
+1565,Emballonura serii,Bat
+1566,Enhydra lutris,Sea Otter
+1567,Eoglaucomys fimbriatus,Squirrel
+1568,Eolagurus luteus,Mouse
+1569,Eolagurus przewalskii,Mouse
+1570,Eonycteris major,Bat
+1571,Eonycteris robusta,Bat
+1572,Eonycteris spelaea,Bat
+1573,Eospalax fontanierii,Mole
+1574,Eospalax rothschildi,Mole
+1575,Eospalax rufescens,Mole
+1576,Eospalax smithii,Mole
+1577,Eothenomys cachinus,Mouse
+1578,Eothenomys colurnus,Mouse
+1579,Eothenomys eleusis,Mouse
+1580,Eothenomys eva,Mouse
+1581,Eothenomys imaizumii,Mouse
+1582,Eothenomys inez,Mouse
+1583,Eothenomys luojishanensis,Mouse
+1584,Eothenomys melanogaster,Mouse
+1585,Eothenomys miletus,Mouse
+1586,Eothenomys shimianensis,Mouse
+1587,Eozapus setchuanus,Mouse
+1588,Episoriculus caudatus,Shrew
+1589,Episoriculus leucops,Shrew
+1590,Episoriculus macrurus,Shrew
+1591,Episoriculus soluensis,Shrew
+1592,Episoriculus umbrinus,Shrew
+1593,Epixerus wilsoni,Squirrel
+1594,Epomophorus anselli,Bat
+1595,Epomophorus crypturus,Bat
+1596,Epomophorus dobsonii,Bat
+1597,Epomophorus gambianus,Bat
+1598,Epomophorus labiatus,Bat
+1599,Epomophorus minor,Bat
+1600,Epomophorus pusillus,Bat
+1601,Epomophorus wahlbergi,Bat
+1602,Epomops buettikoferi,Bat
+1603,Epomops franqueti,Bat
+1604,Eptesicus dutertreus,Bat
+1605,Eptesicus fuscus,Bat
+1606,Equus asinus,Donkey
+1607,Equus caballus,Horse
+1609,Equus dalianensis,Horse
+1610,Equus ferus,Horse
+1611,Equus grevyi,Zebra
+1612,Equus hemionus,Wild Ass
+1613,Equus hydruntinus,Horse
+1614,Equus kiang,Kiang
+1615,Equus lambei,Horse
+1616,Equus mosbachensis,Horse
+1617,Equus neogeus,Horse
+1619,Equus przewalskii,Przewalski's Horse
+1620,Equus quagga,Zebra
+1621,Equus scotti,Horse
+1622,Equus zebra,Zebra
+1623,Eremitalpa granti,Mole
+1624,Eremodipus lichtensteini,Jerboa
+1625,Eremoryzomys polius,Mouse
+1626,Erethizon dorsatum,Porcupine
+1627,Erignathus barbatus,Bearded Seal
+1628,Erinaceus amurensis,Hedgehog
+1629,Erinaceus concolor,Hedgehog
+1630,Erinaceus europaeus,Hedgehog
+1631,Erinaceus roumanicus,Hedgehog
+1633,Erophylla bombifrons,Bat
+1634,Erophylla sezekorni,Bat
+1635,Erythrocebus patas,Monkey
+1636,Eschrichtius robustus,Gray Whale
+1637,Eubalaena australis,Whale
+1638,Eubalaena glacialis,Whale
+1639,Eubalaena japonica,Whale
+1640,Euchoreutes naso,Jerboa
+1641,Euderma maculatum,Bat
+1642,Eudiscopus denticulus,Bat
+1643,Eudorcas rufifrons,Gazelle
+1644,Eudorcas thomsonii,Thomson's Gazelle
+1645,Eulemur albifrons,Lemur
+1646,Eulemur cinereiceps,Lemur
+1647,Eulemur coronatus,Lemur
+1648,Eulemur flavifrons,Lemur
+1649,Eulemur fulvus,Lemur
+1650,Eulemur macaco,Lemur
+1651,Eulemur mongoz,Lemur
+1652,Eulemur rubriventer,Red-bellied Lemur
+1653,Eulemur rufifrons,Lemur
+1654,Eulemur rufus,Lemur
+1655,Eulemur sanfordi,Lemur
+1656,Eumetopias jubatus,Steller sea lion
+1657,Eumops auripendulus,Bat
+1658,Eumops bonariensis,Bat
+1659,Eumops chimaera,Bat
+1660,Eumops dabbenei,Bat
+1661,Eumops ferox,Bat
+1662,Eumops glaucinus,Bat
+1663,Eumops hansae,Bat
+1664,Eumops maurus,Bat
+1665,Eumops nanus,Bat
+1666,Eumops patagonicus,Bat
+1667,Eumops perotis,Bat
+1668,Eumops underwoodi,Bat
+1669,Eumops wilsoni,Bat
+1670,Euneomys chinchilloides,Mouse
+1671,Euneomys fossor,Mouse
+1672,Euneomys mordax,Mouse
+1674,Eupetaurus cinereus,Flying Squirrel
+1675,Eupetaurus nivamons,Flying Squirrel
+1676,Euphractus sexcinctus,Armadillo
+1678,Euroscaptor grandis,Mole
+1679,Euroscaptor klossi,Mole
+1680,Euroscaptor kuznetsovi,Mole
+1681,Euroscaptor longirostris,Mole
+1682,Euroscaptor malayana,Mole
+1683,Euroscaptor micrura,Mole
+1684,Euroscaptor orlovi,Mole
+1685,Euroscaptor parvidens,Mole
+1686,Euroscaptor subanura,Mole
+1687,Euryoryzomys emmonsae,Mouse
+1688,Euryoryzomys lamia,Mouse
+1689,Euryoryzomys legatus,Mouse
+1690,Euryoryzomys macconnelli,Mouse
+1691,Euryoryzomys nitidus,Mouse
+1692,Euryoryzomys russatus,Mouse
+1693,Euryzygomatomys spinosus,Mouse
+1694,Exilisciurus concinnus,Squirrel
+1695,Exilisciurus exilis,Squirrel
+1696,Exilisciurus whiteheadi,Squirrel
+1697,Falsistrellus mackenziei,Bat
+1698,Falsistrellus tasmaniensis,Bat
+1699,Felis catus,Cat
+1700,Felis chaus,Jungle Cat
+1701,Felis margarita,Sand Cat
+1702,Felis nigripes,Black-footed Cat
+1703,Felis silvestris,Wildcat
+1705,Feresa attenuata,Pygmy Killer Whale
+1707,Fossa fossana,Fossa
+1708,Frateromys fratrorum,Mouse
+1709,Fukomys amatus,Mole Rat
+1710,Fukomys anselli,Mole-rat
+1711,Fukomys bocagei,Mole-rat
+1712,Fukomys choma,Mole Rat
+1713,Fukomys damarensis,Mole Rat
+1714,Fukomys darlingi,Mole-rat
+1715,Fukomys foxi,Mole Rat
+1716,Fukomys hanangensis,Mole-rat
+1717,Fukomys kafuensis,Mole-rat
+1718,Fukomys livingstoni,Mole-rat
+1719,Fukomys mechowii,Mole-rat
+1720,Fukomys micklemi,Mole-rat
+1721,Fukomys ochraceocinereus,Mole-rat
+1722,Fukomys whytei,Mole-rat
+1723,Fukomys zechi,Mole Rat
+1724,Funambulus layardi,Squirrel
+1725,Funambulus palmarum,Squirrel
+1726,Funambulus pennantii,Squirrel
+1727,Funambulus sublineatus,Squirrel
+1728,Funambulus tristriatus,Squirrel
+1729,Funisciurus anerythrus,Squirrel
+1730,Funisciurus carruthersi,Squirrel
+1731,Funisciurus pyrropus,Squirrel
+1732,Furipterus horrens,Bat
+1733,Galago alleni,Bushbaby
+1734,Galago gabonensis,Bushbaby
+1735,Galago gallarum,Bushbaby
+1736,Galago matschiei,Bushbaby
+1737,Galago moholi,Bushbaby
+1738,Galago senegalensis,Bushbaby
+1739,Galagoides cocos,Bushbaby
+1740,Galagoides demidoff,Bushbaby
+1741,Galagoides orinus,Bushbaby
+1743,Galagoides thomasi,Bushbaby
+1744,Galea monasteriensis,Guinea Pig
+1745,Galea musteloides,Guinea Pig
+1746,Galea spixii,Cavy
+1748,Galegeeska rufescens,Elephant Shrew
+1749,Galemys pyrenaicus,Pyrenean Desman
+1750,Galenomys garleppii,Mouse
+1751,Galeopterus variegatus,Flying Lemur
+1752,Galerella nigrata,Mongoose
+1753,Galerella pulverulenta,Mongoose
+1754,Galerella sanguinea,Mongoose
+1755,Galictis cuja,Grison
+1756,Galictis vittata,Grison
+1757,Galidia elegans,Mongoose
+1760,Gardnerycteris crenulata,Bat
+1761,Gardnerycteris keenani,Bat
+1762,Gardnerycteris koepckeae,Bat
+1763,Gazella arabica,Gazelle
+1764,Gazella bennettii,Gazelle
+1765,Gazella cuvieri,Gazelle
+1766,Gazella dorcas,Gazelle
+1767,Gazella erlangeri,Gazelle
+1768,Gazella gazella,Gazelle
+1769,Gazella leptoceros,Gazelle
+1770,Gazella saudiya,Gazelle
+1771,Gazella spekei,Gazelle
+1772,Gazella subgutturosa,Gazelle
+1773,Genetta abyssinica,Genet
+1774,Genetta angolensis,Genet
+1775,Genetta bourloni,Genet
+1776,Genetta cristata,Genet
+1777,Genetta felina,Genet
+1778,Genetta genetta,Genet
+1779,Genetta johnstoni,Genet
+1780,Genetta maculata,Genet
+1781,Genetta pardina,Genet
+1782,Genetta piscivora,Genet
+1783,Genetta poensis,Genet
+1784,Genetta servalina,Genet
+1785,Genetta thierryi,Genet
+1786,Genetta tigrina,Genet
+1787,Genetta victoriae,Genet
+1792,Geogale aurita,Mouse
+1793,Geomys arenarius,Gopher
+1794,Geomys attwateri,Gopher
+1795,Geomys brazensis,Gopher
+1796,Geomys breviceps,Gopher
+1797,Geomys bursarius,Gopher
+1798,Geomys jugossicularis,Gopher
+1799,Geomys knoxjonesi,Gopher
+1800,Geomys personatus,Gopher
+1801,Geomys pinetis,Gopher
+1802,Geomys streckeri,Gopher
+1803,Geomys texensis,Gopher
+1804,Geomys tropicalis,Gopher
+1805,Georychus capensis,Mole Rat
+1806,Geoxus annectens,Mouse
+1807,Geoxus lafkenche,Mouse
+1808,Geoxus michaelseni,Mouse
+1809,Geoxus valdivianus,Mouse
+1810,Gerbilliscus afer,Gerbil
+1811,Gerbilliscus boehmi,Gerbil
+1812,Gerbilliscus brantsii,Gerbil
+1813,Gerbilliscus gambianus,Gambian Gerbil
+1814,Gerbilliscus guineae,Gerbil
+1815,Gerbilliscus inclusus,Gerbil
+1816,Gerbilliscus kempi,Gerbil
+1817,Gerbilliscus leucogaster,Gerbil
+1818,Gerbilliscus nigricaudus,Gerbil
+1819,Gerbilliscus phillipsi,Gerbil
+1820,Gerbilliscus robustus,Gerbil
+1821,Gerbilliscus taborae,Gerbil
+1822,Gerbilliscus validus,Gerbil
+1823,Gerbilliscus vicinus,Gerbil
+1824,Gerbillurus paeba,Mouse
+1825,Gerbillurus setzeri,Gerbil
+1826,Gerbillurus tytonis,Mouse
+1827,Gerbillurus vallinus,Mouse
+1828,Gerbillus amoenus,Mouse
+1829,Gerbillus andersoni,Gerbil
+1830,Gerbillus cheesmani,Mouse
+1831,Gerbillus floweri,Mouse
+1832,Gerbillus gerbillus,Gerbil
+1833,Gerbillus henleyi,Mouse
+1834,Gerbillus hesperinus,Mouse
+1835,Gerbillus hoogstrali,Gerbil
+1836,Gerbillus latastei,Gerbil
+1837,Gerbillus mesopotamiae,Gerbil
+1838,Gerbillus nancillus,Mouse
+1839,Gerbillus nanus,Mouse
+1840,Gerbillus nigeriae,Mouse
+1841,Gerbillus occiduus,Mouse
+1842,Gerbillus perpallidus,Gerbil
+1843,Gerbillus poecilops,Mouse
+1844,Gerbillus pusillus,Gerbil
+1845,Gerbillus pyramidum,Gerbil
+1846,Gerbillus tarabuli,Gerbil
+1847,Giraffa camelopardalis,Giraffe
+1848,Giraffa giraffa,Giraffe
+1849,Giraffa reticulata,Giraffe
+1850,Giraffa tippelskirchi,Giraffe
+1851,Glaucomys oregonensis,Flying Squirrel
+1852,Glaucomys sabrinus,Flying Squirrel
+1853,Glaucomys volans,Flying Squirrel
+1854,Glauconycteris alboguttata,Bat
+1855,Glauconycteris argentata,Bat
+1856,Glauconycteris atra,Bat
+1857,Glauconycteris beatrix,Bat
+1858,Glauconycteris curryae,Bat
+1859,Glauconycteris egeria,Bat
+1860,Glauconycteris humeralis,Bat
+1861,Glauconycteris poensis,Bat
+1862,Glauconycteris superba,Bat
+1863,Glauconycteris variegata,Bat
+1865,Glirulus japonicus,Dormouse
+1866,Glis glis,Dormouse
+1867,Glischropus aquilus,Bat
+1868,Glischropus bucephalus,Bat
+1869,Glischropus tylopus,Bat
+1870,Globicephala macrorhynchus,Whale
+1871,Globicephala melas,Whale
+1872,Glossophaga commissarisi,Bat
+1873,Glossophaga leachii,Bat
+1874,Glossophaga longirostris,Bat
+1875,Glossophaga morenoi,Bat
+1876,Glossophaga mutica,Bat
+1877,Glossophaga soricina,Bat
+1879,Glyphonycteris daviesi,Bat
+1880,Glyphonycteris sylvestris,Bat
+1881,Glyphotes simus,Monkey
+1882,Golunda ellioti,Mouse
+1883,Gorilla beringei,Gorilla
+1884,Gorilla gorilla,Gorilla
+1885,Gracilimus radix,Mouse
+1886,Gracilinanus aceramarcae,Mouse
+1887,Gracilinanus agilis,Mouse Opossum
+1888,Gracilinanus emiliae,Mouse Opossum
+1889,Gracilinanus marica,Mouse Opossum
+1890,Gracilinanus microtarsus,Mouse Opossum
+1891,Gracilinanus peruanus,Mouse Opossum
+1892,Grammomys cometes,Mouse
+1893,Grammomys dolichurus,Mouse
+1894,Grammomys dryas,Mouse
+1895,Grammomys gazellae,Mouse
+1896,Grammomys ibeanus,Mouse
+1897,Grammomys macmillani,Mouse
+1898,Grammomys poensis,Mouse
+1899,Grammomys polionops,Mouse
+1900,Grammomys selousi,Mouse
+1901,Grammomys surdaster,Mouse
+1902,Grampus griseus,Risso's Dolphin
+1903,Graomys centralis,Mouse
+1904,Graomys chacoensis,Mouse
+1905,Graomys domorum,Mouse
+1906,Graomys griseoflavus,Mouse
+1907,Graphiurus kelleni,Dormouse
+1908,Graphiurus lorraineus,Dormouse
+1909,Graphiurus microtis,Dormouse
+1910,Graphiurus murinus,Dormouse
+1911,Graphiurus ocularis,Dormouse
+1912,Graphiurus platyops,Dormouse
+1913,Guerlinguetus aestuans,Squirrel
+1914,Guerlinguetus brasiliensis,Squirrel
+1915,Gulo gulo,Wolverine
+1916,Gymnobelideus leadbeateri,Leadbeater's Possum
+1917,Gymnuromys roberti,Mouse
+1918,Habromys chinanteco,Mouse
+1919,Habromys delicatulus,Mouse
+1920,Habromys ixtlani,Mouse
+1921,Habromys lepturus,Mouse
+1922,Habromys lophurus,Mouse
+1923,Habromys schmidlyi,Mouse
+1924,Habromys simulatus,Mouse
+1926,Hadrosciurus igniventris,Squirrel
+1927,Hadrosciurus pyrrhinus,Squirrel
+1928,Hadrosciurus spadiceus,Squirrel
+1929,Haeromys minahassae,Mouse
+1930,Halichoerus grypus,Seal
+1932,Halmaheramys wallacei,Mouse
+1933,Handleyomys alfaroi,Mouse
+1934,Handleyomys chapmani,Mouse
+1935,Handleyomys fuscatus,Mouse
+1936,Handleyomys guerrerensis,Mouse
+1937,Handleyomys intectus,Mouse
+1938,Handleyomys melanotis,Mouse
+1939,Handleyomys rhabdops,Mouse
+1940,Handleyomys rostratus,Mouse
+1941,Handleyomys saturatior,Mouse
+1942,Hapalemur alaotrensis,Lemur
+1943,Hapalemur aureus,Golden Bamboo Lemur
+1944,Hapalemur gilberti,Lemur
+1945,Hapalemur griseus,Lemur
+1946,Hapalemur meridionalis,Lemur
+1947,Hapalemur occidentalis,Lemur
+1948,Hapalomys delacouri,Mouse
+1949,Hapalomys longicaudatus,Mouse
+1950,Hapalomys suntsovi,Mouse
+1951,Haplonycteris fischeri,Bat
+1952,Haringtonhippus francisci,Horse
+1953,Harpiocephalus harpia,Bat
+1954,Harpiocephalus mordax,Bat
+1955,Harpiola isodon,Bat
+1956,Harpyionycteris celebensis,Bat
+1957,Harpyionycteris whiteheadi,Bat
+1958,Heimyscus fumosus,Mouse
+1959,Helarctos malayanus,Sun Bear
+1960,Heliophobius argenteocinereus,Mole Rat
+1961,Heliophobius emini,Mole Rat
+1962,Heliosciurus gambianus,Squirrel
+1963,Heliosciurus rufobrachium,Squirrel
+1964,Heliosciurus ruwenzorii,Squirrel
+1965,Heliosciurus undulatus,Squirrel
+1966,Helogale hirtula,Mongoose
+1967,Helogale parvula,Mongoose
+1968,Hemibelideus lemuroides,Lemur
+1969,Hemicentetes nigriceps,Tenrec
+1970,Hemicentetes semispinosus,Tenrec
+1971,Hemiechinus auritus,Hedgehog
+1972,Hemigalus derbyanus,Civet
+1973,Hemitragus jemlahicus,Himalayan Tahr
+1974,Herpailurus yagouaroundi,Jaguarundi
+1975,Herpestes brachyurus,Mongoose
+1976,Herpestes edwardsi,Mongoose
+1977,Herpestes fuscus,Mongoose
+1978,Herpestes ichneumon,Mongoose
+1979,Herpestes semitorquatus,Mongoose
+1980,Herpestes smithii,Mongoose
+1981,Herpestes urva,Mongoose
+1982,Herpestes vitticollis,Mongoose
+1983,Hesperoptenus blanfordi,Bat
+1984,Hesperoptenus doriae,Bat
+1985,Hesperoptenus tickelli,Bat
+1986,Hesperoptenus tomesi,Bat
+1987,Hesperosciurus griseus,Squirrel
+1988,Heterocephalus glaber,Naked Mole Rat
+1989,Heterogeomys cavator,Gopher
+1992,Heterogeomys heterodus,Gopher
+1993,Heterogeomys hispidus,Gopher
+1994,Heterogeomys lanius,Gopher
+1996,Heterohyrax brucei,Hyrax
+1997,Heteromys adspersus,Mouse
+1998,Heteromys anomalus,Mouse
+1999,Heteromys australis,Mouse
+2000,Heteromys desmarestianus,Mouse
+2001,Heteromys gaumeri,Mouse
+2002,Heteromys goldmani,Mouse
+2003,Heteromys irroratus,Mouse
+2004,Heteromys nelsoni,Mouse
+2005,Heteromys nubicolens,Mouse
+2006,Heteromys oasicus,Mouse
+2007,Heteromys oresterus,Mouse
+2008,Heteromys pictus,Mouse
+2009,Heteromys salvini,Mouse
+2010,Heteromys spectabilis,Mouse
+2011,Hexaprotodon liberiensis,Pygmy Hippopotamus
+2015,Hippocamelus antisensis,Deer
+2016,Hippocamelus bisulcus,Deer
+2017,Hippopotamus amphibius,Hippopotamus
+2018,Hippopotamus minor,Hippopotamus
+2019,Hipposideros abae,Bat
+2020,Hipposideros alongensis,Bat
+2021,Hipposideros armiger,Bat
+2022,Hipposideros ater,Bat
+2023,Hipposideros beatus,Bat
+2024,Hipposideros bicolor,Bat
+2025,Hipposideros boeadii,Bat
+2026,Hipposideros caffer,Bat
+2027,Hipposideros calcaratus,Bat
+2028,Hipposideros cervinus,Bat
+2029,Hipposideros cineraceus,Bat
+2030,Hipposideros coronatus,Bat
+2031,Hipposideros coxi,Bat
+2032,Hipposideros demissus,Bat
+2033,Hipposideros diadema,Bat
+2034,Hipposideros dinops,Bat
+2035,Hipposideros doriae,Bat
+2036,Hipposideros durgadasi,Bat
+2037,Hipposideros dyacorum,Bat
+2038,Hipposideros einnaythu,Bat
+2039,Hipposideros fuliginosus,Bat
+2040,Hipposideros fulvus,Bat
+2041,Hipposideros galeritus,Bat
+2042,Hipposideros gentilis,Bat
+2043,Hipposideros grandis,Bat
+2044,Hipposideros griffini,Bat
+2045,Hipposideros halophyllus,Bat
+2046,Hipposideros hypophyllus,Bat
+2047,Hipposideros jonesi,Bat
+2048,Hipposideros khaokhouayensis,Bat
+2049,Hipposideros khasiana,Bat
+2050,Hipposideros kingstonae,Bat
+2051,Hipposideros kunzi,Bat
+2052,Hipposideros lamottei,Bat
+2053,Hipposideros lankadiva,Bat
+2054,Hipposideros larvatus,Bat
+2055,Hipposideros lekaguli,Bat
+2056,Hipposideros lylei,Bat
+2057,Hipposideros marisae,Bat
+2058,Hipposideros nicobarulae,Bat
+2059,Hipposideros obscurus,Bat
+2060,Hipposideros pelingensis,Bat
+2061,Hipposideros pendleburyi,Bat
+2062,Hipposideros pomona,Bat
+2063,Hipposideros poutensis,Bat
+2064,Hipposideros pratti,Bat
+2065,Hipposideros pygmaeus,Bat
+2066,Hipposideros ridleyi,Bat
+2067,Hipposideros rotalis,Bat
+2068,Hipposideros ruber,Bat
+2069,Hipposideros scutinares,Bat
+2070,Hipposideros speoris,Bat
+2071,Hipposideros turpis,Bat
+2072,Hippotragus equinus,Roan Antelope
+2074,Hippotragus niger,Sable Antelope
+2075,Histiotus diaphanopterus,Bat
+2076,Histiotus humboldti,Bat
+2077,Histiotus laephotis,Bat
+2078,Histiotus macrotus,Bat
+2079,Histiotus magellanicus,Bat
+2080,Histiotus mochica,Bat
+2081,Histiotus montanus,Bat
+2082,Histiotus velatus,Bat
+2083,Hodomys alleni,Mouse
+2084,Holochilus brasiliensis,Rat
+2085,Holochilus chacarius,Mouse
+2086,Holochilus nanus,Mouse
+2087,Holochilus sciureus,Rat
+2088,Holochilus vulpinus,Mouse
+2090,Homo sapiens,Human
+2092,Homotherium serum,Saber-toothed Cat
+2093,Hoolock hoolock,Gibbon
+2094,Hoolock leuconedys,Gibbon
+2095,Hoolock tianxing,Gibbon
+2096,Hoplomys gymnurus,Mouse
+2097,Hsunycteris cadenai,Bat
+2098,Hsunycteris dashe,Bat
+2099,Hsunycteris pattoni,Bat
+2100,Hsunycteris thomasi,Bat
+2101,Huetia leucorhinus,Monkey
+2102,Hyaena hyaena,Hyena
+2103,Hybomys badius,Mouse
+2104,Hybomys basilii,Mouse
+2105,Hybomys eisentrauti,Mouse
+2106,Hybomys lunaris,Mouse
+2107,Hybomys planifrons,Mouse
+2108,Hybomys rufocanus,Mouse
+2109,Hybomys trivirgatus,Mouse
+2110,Hybomys univittatus,Mouse
+2111,Hydrictis maculicollis,Otter
+2112,Hydrochoerus hydrochaeris,Capybara
+2113,Hydrodamalis gigas,Steller's Sea Cow
+2114,Hydromys chrysogaster,Water Rat
+2115,Hydromys neobrittanicus,Mouse
+2116,Hydropotes inermis,Water Deer
+2117,Hydrurga leptonyx,Leopard Seal
+2118,Hyelaphus porcinus,Hog Deer
+2119,Hyemoschus aquaticus,Water Chevrotain
+2121,Hylaeamys acritus,Mouse
+2122,Hylaeamys laticeps,Mouse
+2123,Hylaeamys megacephalus,Mouse
+2124,Hylaeamys perenensis,Mouse
+2125,Hylaeamys seuanezi,Mouse
+2126,Hylaeamys tatei,Mouse
+2127,Hylaeamys yunganus,Mouse
+2128,Hylobates agilis,Gibbon
+2129,Hylobates albibarbis,Gibbon
+2130,Hylobates funereus,Gibbon
+2131,Hylobates klossii,Gibbon
+2132,Hylobates lar,Gibbon
+2133,Hylobates moloch,Gibbon
+2134,Hylobates muelleri,Gibbon
+2135,Hylobates pileatus,Gibbon
+2136,Hylochoerus meinertzhageni,Giant Forest Hog
+2137,Hylomys dorsalis,Hedgehog
+2139,Hylomys maxi,Hedgehog
+2140,Hylomys megalotis,Hedgehog
+2141,Hylomys parvus,Hedgehog
+2142,Hylomys peguensis,Hedgehog
+2143,Hylomys suillus,Hedgehog
+2144,Hylomys vorax,Hedgehog
+2145,Hylomyscus aeta,Mouse
+2146,Hylomyscus alleni,Mouse
+2147,Hylomyscus anselli,Mouse
+2148,Hylomyscus arcimontensis,Mouse
+2149,Hylomyscus baeri,Mouse
+2150,Hylomyscus denniae,Mouse
+2151,Hylomyscus endorobae,Mouse
+2152,Hylomyscus grandis,Mouse
+2153,Hylomyscus heinrichorum,Mouse
+2154,Hylomyscus kaimosae,Mouse
+2155,Hylomyscus kerbispeterhansi,Mouse
+2156,Hylomyscus mpungamachagorum,Mouse
+2157,Hylomyscus pamfi,Mouse
+2158,Hylomyscus parvus,Mouse
+2159,Hylomyscus pygmaeus,Mouse
+2160,Hylomyscus simus,Mouse
+2161,Hylomyscus stanleyi,Mouse
+2162,Hylomyscus stella,Mouse
+2163,Hylomyscus thornesmithae,Mouse
+2164,Hylomyscus walterverheyeni,Mouse
+2165,Hylonycteris underwoodi,Bat
+2166,Hylopetes alboniger,Flying Squirrel
+2167,Hylopetes lepidus,Flying Squirrel
+2168,Hylopetes nigripes,Flying Squirrel
+2169,Hylopetes phayrei,Flying Squirrel
+2170,Hylopetes spadiceus,Flying Squirrel
+2171,Hyomys goliath,Rat
+2172,Hyorhinomys stuempkei,Mouse
+2173,Hyosciurus heinrichi,Squirrel
+2174,Hyosciurus ileile,Squirrel
+2175,Hyperacrius fertilis,Mouse
+2176,Hyperoodon ampullatus,Whale
+2177,Hyperoodon planifrons,Whale
+2178,Hypnomys morpheus,Mouse
+2179,Hypogeomys antimena,Mouse lemur
+2180,Hypsignathus monstrosus,Bat
+2181,Hypsiprymnodon moschatus,Musky Rat-Kangaroo
+2182,Hypsugo alaschanicus,Bat
+2183,Hypsugo arabicus,Bat
+2184,Hypsugo ariel,Bat
+2185,Hypsugo cadornae,Bat
+2186,Hypsugo dolichodon,Bat
+2187,Hypsugo macrotis,Bat
+2188,Hypsugo petersi,Bat
+2189,Hypsugo pulveratus,Bat
+2190,Hypsugo savii,Bat
+2191,Hypsugo stubbei,Bat
+2192,Hystrix africaeaustralis,Porcupine
+2193,Hystrix brachyura,Porcupine
+2194,Hystrix crassispinis,Porcupine
+2195,Hystrix cristata,Porcupine
+2196,Hystrix indica,Porcupine
+2197,Ia io,Bat
+2198,Ichneumia albicauda,White-tailed Mongoose
+2199,Ichthyomys hydrobates,Mouse
+2200,Ichthyomys orientalis,Mouse
+2201,Ichthyomys stolzmanni,Mouse
+2202,Ichthyomys tweedii,Mouse
+2203,Ictidomys mexicanus,Ground Squirrel
+2204,Ictidomys parvidens,Ground Squirrel
+2205,Ictidomys tridecemlineatus,Ground Squirrel
+2207,Ictonyx striatus,Striped Polecat
+2208,Idionycteris phyllotis,Bat
+2209,Idiurus macrotis,Flying Squirrel
+2210,Indopacetus pacificus,Whale
+2211,Indri indri,Indri
+2212,Inia araguaiaensis,River Dolphin
+2213,Inia boliviensis,River Dolphin
+2214,Inia geoffrensis,Amazon River Dolphin
+2215,Inia humboldtiana,River Dolphin
+2216,Iomys horsfieldi,Flying Squirrel
+2217,Irenomys tarsalis,Mouse
+2218,Isoodon auratus,Bandicoot
+2219,Isoodon fusciventer,Bandicoot
+2220,Isoodon macrourus,Bandicoot
+2221,Isoodon obesulus,Bandicoot
+2222,Isoodon peninsulae,Bandicoot
+2225,Isothrix negrensis,Mouse
+2226,Isothrix orinoci,Mouse
+2229,Isthmomys flavidus,Mouse
+2230,Isthmomys pirrensis,Mouse
+2231,Jaculus blanfordi,Jerboa
+2232,Jaculus deserti,Jerboa
+2233,Jaculus jaculus,Jerboa
+2234,Jaculus orientalis,Jerboa
+2235,Juliomys ossitenuis,Mouse
+2236,Juliomys pictipes,Mouse
+2237,Juliomys rimofrons,Mouse
+2238,Juliomys ximenezi,Mouse
+2239,Juscelinomys huanchacae,Mouse
+2240,Kadarsanomys sodyi,Mouse
+2242,Kerivoula argentata,Bat
+2243,Kerivoula cuprosa,Bat
+2244,Kerivoula depressa,Bat
+2245,Kerivoula dongduongana,Bat
+2246,Kerivoula furva,Bat
+2247,Kerivoula hardwickii,Bat
+2248,Kerivoula intermedia,Bat
+2249,Kerivoula kachinensis,Bat
+2250,Kerivoula krauensis,Bat
+2251,Kerivoula lanosa,Bat
+2252,Kerivoula lenis,Bat
+2253,Kerivoula minuta,Bat
+2254,Kerivoula papillosa,Bat
+2255,Kerivoula pellucida,Bat
+2256,Kerivoula phalaena,Bat
+2257,Kerivoula picta,Bat
+2258,Kerivoula smithii,Bat
+2259,Kerivoula titania,Bat
+2260,Kerivoula whiteheadi,Bat
+2262,Kerodon rupestris,Cavy
+2263,Kobus ellipsiprymnus,Waterbuck
+2264,Kobus kob,Antelope
+2265,Kobus leche,Lechwe
+2266,Kobus megaceros,Antelope
+2267,Kobus vardonii,Puku
+2268,Kogia breviceps,Whale
+2269,Kogia sima,Whale
+2270,Komodomys rintjanus,Mouse
+2271,Kunsia tomentosus,Mouse
+2272,Laephotis angolensis,Bat
+2273,Laephotis capensis,Bat
+2274,Laephotis kirinyaga,Bat
+2275,Laephotis malagasyensis,Bat
+2276,Laephotis matroka,Bat
+2277,Laephotis namibensis,Bat
+2278,Laephotis robertsi,Bat
+2279,Laephotis stanleyi,Bat
+2280,Laephotis wintoni,Bat
+2281,Lagenodelphis hosei,Dolphin
+2282,Lagenorhynchus albirostris,Dolphin
+2283,Lagidium peruanum,Chinchilla
+2284,Lagidium viscacia,Viscacha
+2285,Lagidium wolffsohni,Chinchilla
+2286,Lagorchestes conspicillatus,Wallaby
+2287,Lagorchestes hirsutus,Hare
+2288,Lagostomus maximus,Viscacha
+2290,Lagothrix cana,Monkey
+2291,Lagothrix flavicauda,Monkey
+2292,Lagothrix lagotricha,Monkey
+2293,Lagothrix lugens,Monkey
+2294,Lagothrix poeppigii,Monkey
+2295,Lagothrix tschudii,Monkey
+2296,Lagurus lagurus,Mouse
+2297,Lama glama,Llama
+2298,Lama guanicoe,Guanaco
+2299,Lamottemys okuensis,Mouse
+2301,Lariscus hosei,Squirrel
+2302,Lariscus insignis,Squirrel
+2303,Lariscus niobe,Squirrel
+2304,Lariscus obscurus,Squirrel
+2305,Lasionycteris noctivagans,Bat
+2306,Lasiopodomys anglicus,Mouse
+2307,Lasiopodomys brandtii,Mouse
+2308,Lasiopodomys mandarinus,Mouse
+2309,Lasiorhinus krefftii,Wombat
+2310,Lasiorhinus latifrons,Wombat
+2311,Lasiurus arequipae,Bat
+2312,Lasiurus atratus,Bat
+2313,Lasiurus blossevillii,Bat
+2314,Lasiurus borealis,Bat
+2315,Lasiurus cinereus,Bat
+2316,Lasiurus ega,Bat
+2317,Lasiurus egregius,Bat
+2318,Lasiurus frantzii,Bat
+2319,Lasiurus insularis,Bat
+2320,Lasiurus intermedius,Bat
+2321,Lasiurus minor,Bat
+2322,Lasiurus pfeifferi,Bat
+2323,Lasiurus seminolus,Bat
+2324,Lasiurus semotus,Bat
+2325,Lasiurus varius,Bat
+2326,Lasiurus villosissimus,Bat
+2327,Lasiurus xanthinus,Bat
+2328,Latidens salimalii,Bat
+2329,Lavia frons,Bat
+2330,Leggadina forresti,Mouse
+2331,Leggadina lakedownensis,Mouse
+2332,Leimacomys buettneri,Mouse
+2333,Leiuromys occasius,Mouse
+2334,Lemmiscus curtatus,Mouse
+2335,Lemmus amurensis,Lemming
+2336,Lemmus lemmus,Lemming
+2337,Lemmus sibiricus,Lemming
+2338,Lemmus trimucronatus,Lemming
+2339,Lemniscomys barbarus,Mouse
+2340,Lemniscomys bellieri,Mouse
+2341,Lemniscomys griselda,Mouse
+2342,Lemniscomys linulus,Mouse
+2343,Lemniscomys macculus,Mouse
+2344,Lemniscomys mittendorfi,Mouse
+2345,Lemniscomys rosalia,Mouse
+2346,Lemniscomys striatus,Mouse
+2347,Lemniscomys zebra,Mouse
+2348,Lemur catta,Ring-tailed Lemur
+2349,Lenomys meyeri,Mouse
+2350,Lenothrix cana,Rat
+2352,Leontocebus cruzlimai,Monkey
+2353,Leontocebus fuscicollis,Monkey
+2354,Leontocebus fuscus,Monkey
+2355,Leontocebus nigricollis,Monkey
+2356,Leontocebus tripartitus,Monkey
+2357,Leontopithecus chrysomelas,Golden Lion Tamarin
+2358,Leontopithecus chrysopygus,Monkey
+2359,Leontopithecus rosalia,Golden Lion Tamarin
+2360,Leopardus colocola,Cat
+2361,Leopardus geoffroyi,Geoffroy's Cat
+2362,Leopardus guigna,Cat
+2363,Leopardus guttulus,Ocelot
+2364,Leopardus jacobita,Andean Mountain Cat
+2365,Leopardus pardalis,Ocelot
+2366,Leopardus pardinoides,Leopard
+2367,Leopardus tigrinus,Tiger Cat
+2368,Leopardus wiedii,Margay
+2369,Leopoldamys ciliatus,Rat
+2370,Leopoldamys edwardsi,Rat
+2371,Leopoldamys herberti,Rat
+2372,Leopoldamys milleti,Mouse
+2373,Leopoldamys neilli,Rat
+2374,Leopoldamys revertens,Rat
+2375,Leopoldamys sabanus,Rat
+2376,Leopoldamys siporanus,Rat
+2377,Leopoldamys vociferans,Rat
+2378,Lepilemur aeeclis,Lemur
+2379,Lepilemur ahmansoni,Lemur
+2380,Lepilemur ankaranensis,Lemur
+2381,Lepilemur betsileo,Lemur
+2382,Lepilemur dorsalis,Lemur
+2383,Lepilemur edwardsi,Lemur
+2384,Lepilemur fleuretae,Lemur
+2385,Lepilemur grewcocki,Lemur
+2386,Lepilemur hollandorum,Lemur
+2387,Lepilemur hubbardi,Lemur
+2388,Lepilemur jamesi,Lemur
+2389,Lepilemur leucopus,Lemur
+2390,Lepilemur microdon,Lemur
+2391,Lepilemur milanoii,Lemur
+2392,Lepilemur mustelinus,Lemur
+2393,Lepilemur otto,Lemur
+2394,Lepilemur petteri,Lemur
+2395,Lepilemur randrianasoloi,Lemur
+2396,Lepilemur ruficaudatus,Lemur
+2397,Lepilemur sahamalaza,Lemur
+2398,Lepilemur scottorum,Lemur
+2399,Lepilemur seali,Lemur
+2400,Lepilemur septentrionalis,Lemur
+2401,Lepilemur tymerlachsoni,Lemur
+2402,Lepilemur wrighti,Lemur
+2404,Leporillus conditor,Rat
+2405,Leptailurus serval,Serval
+2406,Leptomys elegans,Mouse
+2407,Leptonychotes weddellii,Seal
+2408,Leptonycteris curasoae,Bat
+2409,Leptonycteris nivalis,Bat
+2410,Leptonycteris yerbabuenae,Bat
+2411,Leptosciurus mimulus,Squirrel
+2412,Leptosciurus otinus,Squirrel
+2413,Leptosciurus pucheranii,Squirrel
+2414,Leptosciurus similis,Squirrel
+2415,Lepus alleni,Hare
+2416,Lepus americanus,Hare
+2417,Lepus arcticus,Arctic Hare
+2418,Lepus brachyurus,Hare
+2419,Lepus californicus,Jackrabbit
+2420,Lepus callotis,Hare
+2421,Lepus capensis,Hare
+2422,Lepus castroviejoi,Hare
+2423,Lepus comus,Hare
+2424,Lepus coreanus,Hare
+2425,Lepus corsicanus,Hare
+2426,Lepus crawshayi,Hare
+2427,Lepus europaeus,Hare
+2428,Lepus fagani,Hare
+2429,Lepus flavigularis,Hare
+2430,Lepus granatensis,Hare
+2431,Lepus habessinicus,Hare
+2432,Lepus hainanus,Hainan Hare
+2433,Lepus insularis,Hare
+2434,Lepus mandshuricus,Hare
+2435,Lepus nigricollis,Hare
+2436,Lepus oiostolus,Hare
+2437,Lepus othus,Hare
+2438,Lepus peguensis,Hare
+2439,Lepus saharae,Hare
+2440,Lepus saxatilis,Hare
+2441,Lepus schlumbergeri,Hare
+2442,Lepus sinensis,Hare
+2443,Lepus starcki,Hare
+2444,Lepus tibetanus,Hare
+2445,Lepus timidus,Hare
+2446,Lepus tolai,Hare
+2447,Lepus townsendii,Hare
+2448,Lepus victoriae,Hare
+2449,Lepus yarkandensis,Hare
+2453,Leucopleurus acutus,Dolphin
+2455,Lichonycteris obscura,Bat
+2457,Limnomys bryophilus,Mouse
+2458,Limnomys sibuanus,Mouse
+2459,Lionycteris spurrelli,Bat
+2460,Lipotes vexillifer,Baiji
+2461,Lissodelphis borealis,Dolphin
+2462,Lissodelphis peronii,Dolphin
+2463,Litocranius walleri,Gerenuk
+2464,Lobodon carcinophaga,Crabeater Seal
+2465,Lonchophylla chocoana,Bat
+2466,Lonchophylla concava,Bat
+2467,Lonchophylla dekeyseri,Bat
+2468,Lonchophylla handleyi,Bat
+2469,Lonchophylla hesperia,Bat
+2470,Lonchophylla mordax,Bat
+2471,Lonchophylla orienticollina,Bat
+2472,Lonchophylla robusta,Bat
+2473,Lonchorhina aurita,Bat
+2474,Lonchorhina inusitata,Bat
+2475,Lonchorhina orinocensis,Bat
+2477,Lontra canadensis,River Otter
+2478,Lontra felina,Otter
+2479,Lontra longicaudis,Otter
+2480,Lontra provocax,Otter
+2482,Lophocebus albigena,Monkey
+2483,Lophocebus aterrimus,Monkey
+2484,Lophostoma brasiliense,Bat
+2485,Lophostoma carrikeri,Bat
+2486,Lophostoma evote,Bat
+2487,Lophostoma occidentale,Bat
+2488,Lophostoma schulzi,Bat
+2489,Lophostoma silvicola,Bat
+2490,Lophuromys angolensis,Mouse
+2491,Lophuromys ansorgei,Mouse
+2492,Lophuromys aquilus,Mouse
+2493,Lophuromys brevicaudus,Mouse
+2494,Lophuromys brunneus,Mouse
+2495,Lophuromys chercherensis,Mouse
+2496,Lophuromys chrysopus,Mouse
+2497,Lophuromys dudui,Mouse
+2498,Lophuromys flavopunctatus,Mouse
+2499,Lophuromys kilonzoi,Mouse
+2500,Lophuromys laticeps,Mouse
+2501,Lophuromys machangui,Mouse
+2502,Lophuromys makundii,Mouse
+2503,Lophuromys melanonyx,Mouse
+2504,Lophuromys menageshae,Mouse
+2505,Lophuromys nudicaudus,Mouse
+2506,Lophuromys pseudosikapusi,Mouse
+2507,Lophuromys rahmi,Mouse
+2508,Lophuromys sabuni,Mouse
+2509,Lophuromys sikapusi,Mouse
+2510,Lophuromys simensis,Mouse
+2511,Lophuromys stanleyi,Mouse
+2512,Lophuromys verhageni,Mouse
+2513,Lophuromys woosnami,Mouse
+2514,Lophuromys zena,Mouse
+2515,Lorentzimys nouhuysi,Mouse
+2516,Loris lydekkerianus,Loris
+2517,Loris tardigradus,Slow Loris
+2518,Loxodonta africana,Elephant
+2519,Loxodonta cyclotis,Elephant
+2520,Loxodontomys micropus,Mouse
+2521,Lundomys molitor,Mouse
+2522,Lutra lutra,Otter
+2523,Lutra nippon,Otter
+2524,Lutra sumatrana,Otter
+2525,Lutreolina crassicaudata,Opossum
+2527,Lutrogale perspicillata,Otter
+2528,Lycalopex culpaeus,Fox
+2529,Lycalopex fulvipes,Fox
+2530,Lycalopex griseus,Fox
+2531,Lycalopex gymnocercus,Fox
+2532,Lycalopex sechurae,Fox
+2533,Lycalopex vetulus,Fox
+2534,Lycaon pictus,African Wild Dog
+2535,Lyncodon patagonicus,Weasel
+2536,Lynx canadensis,Lynx
+2537,Lynx lynx,Lynx
+2538,Lynx pardinus,Lynx
+2539,Lynx rufus,Bobcat
+2540,Lyroderma lyra,Bat
+2541,Macaca arctoides,Monkey
+2542,Macaca assamensis,Monkey
+2543,Macaca balantak,Monkey
+2544,Macaca brunnescens,Monkey
+2545,Macaca cyclopis,Monkey
+2546,Macaca fascicularis,Monkey
+2547,Macaca fuscata,Monkey
+2548,Macaca hecki,Monkey
+2549,Macaca leonina,Monkey
+2550,Macaca leucogenys,Monkey
+2551,Macaca maura,Monkey
+2552,Macaca mulatta,Rhesus Monkey
+2553,Macaca munzala,Monkey
+2554,Macaca nemestrina,Monkey
+2555,Macaca nigra,Monkey
+2556,Macaca nigrescens,Monkey
+2557,Macaca ochreata,Monkey
+2558,Macaca pagensis,Monkey
+2559,Macaca radiata,Monkey
+2560,Macaca siberu,Monkey
+2561,Macaca silenus,Monkey
+2562,Macaca sinica,Monkey
+2563,Macaca sylvanus,Barbary Macaque
+2564,Macaca thibetana,Monkey
+2565,Macaca tonkeana,Monkey
+2567,Macroderma gigas,Bat
+2569,Macroglossus minimus,Bat
+2570,Macroglossus sobrinus,Bat
+2571,Macronycteris commersonii,Bat
+2572,Macronycteris cryptovalorona,Bat
+2573,Macronycteris gigas,Bat
+2574,Macronycteris vittatus,Bat
+2575,Macrophyllum macrophyllum,Bat
+2576,Macropus fuliginosus,Kangaroo
+2577,Macropus giganteus,Kangaroo
+2578,Macroscelides flavicaudatus,Elephant Shrew
+2579,Macroscelides micus,Elephant Shrew
+2580,Macroscelides proboscideus,Elephant Shrew
+2581,Macrotarsomys bastardi,Mouse
+2582,Macrotarsomys ingens,Mouse
+2583,Macrotis lagotis,Bilby
+2584,Macrotis leucura,Bilby
+2585,Macrotus californicus,Bat
+2586,Macrotus waterhousii,Bat
+2587,Macruromys major,Rat
+2588,Madoqua guentheri,Dik-dik
+2589,Madoqua kirkii,Dik-dik
+2590,Madoqua saltiana,Dik-dik
+2593,Malacomys cansdalei,Mouse
+2594,Malacomys edwardsi,Mouse
+2595,Malacomys longipes,Mouse
+2597,Mallomys aroaensis,Mouse
+2598,Mallomys istapantap,Mouse
+2599,Mallomys rothschildi,Rat
+2600,Malpaisomys insularis,Mouse
+2601,Mammelomys lanosus,Mouse
+2602,Mammelomys rattoides,Rat
+2603,Mammut americanum,Mastodon
+2604,Mammut pacificus,Mastodon
+2605,Mammuthus columbi,Columbian Mammoth
+2606,Mammuthus exilis,Mammoth
+2607,Mammuthus jeffersonii,Mammoth
+2608,Mammuthus primigenius,Woolly Mammoth
+2609,Mandrillus leucophaeus,Monkey
+2610,Mandrillus sphinx,Mandrill
+2611,Manis aurita,Pangolin
+2612,Manis crassicaudata,Pangolin
+2613,Manis culionensis,Pangolin
+2614,Manis javanica,Pangolin
+2615,Manis mysteria,Pangolin
+2616,Manis pentadactyla,Pangolin
+2617,Margaretamys beccarii,Mouse
+2618,Margaretamys christinae,Mouse
+2619,Margaretamys elegans,Mouse
+2620,Margaretamys parvus,Mouse
+2621,Marmosa alstoni,Mouse
+2622,Marmosa andersoni,Mouse
+2623,Marmosa budini,Mouse
+2624,Marmosa constantiae,Mouse
+2625,Marmosa demerarae,Mouse Opossum
+2626,Marmosa germana,Mouse Opossum
+2627,Marmosa jansae,Mouse
+2628,Marmosa lepida,Mouse Opossum
+2629,Marmosa limae,Mouse
+2630,Marmosa meridae,Mouse
+2631,Marmosa mexicana,Mouse
+2632,Marmosa murina,Mouse Opossum
+2633,Marmosa paraguayana,Mouse Opossum
+2634,Marmosa parda,Mouse Opossum
+2635,Marmosa perplexa,Mouse Opossum
+2636,Marmosa phaea,Mouse
+2637,Marmosa rapposa,Mouse
+2638,Marmosa regina,Mouse Opossum
+2639,Marmosa robinsoni,Mouse Opossum
+2640,Marmosa rubra,Mouse Opossum
+2641,Marmosa rutteri,Mouse Opossum
+2642,Marmosa tyleriana,Mouse
+2643,Marmosa xerophila,Mouse
+2644,Marmosops bishopi,Mouse Opossum
+2645,Marmosops carri,Mouse
+2646,Marmosops caucae,Mouse
+2647,Marmosops creightoni,Mouse
+2648,Marmosops dorothea,Mouse
+2649,Marmosops fuscatus,Mouse
+2650,Marmosops handleyi,Mouse Opossum
+2651,Marmosops impavidus,Mouse
+2652,Marmosops incanus,Mouse Opossum
+2653,Marmosops invictus,Mouse
+2654,Marmosops juninensis,Mouse Opossum
+2655,Marmosops marina,Mouse Opossum
+2656,Marmosops neblina,Mouse Opossum
+2657,Marmosops noctivagus,Mouse
+2658,Marmosops ocellatus,Mouse Opossum
+2659,Marmosops ojastii,Mouse
+2660,Marmosops pakaraimae,Mouse
+2661,Marmosops parvidens,Mouse Opossum
+2662,Marmosops paulensis,Mouse
+2663,Marmosops pinheiroi,Mouse
+2664,Marmosops soinii,Mouse
+2665,Marmota baibacina,Marmot
+2666,Marmota bobak,Marmot
+2667,Marmota broweri,Groundhog
+2668,Marmota caligata,Hoary Marmot
+2669,Marmota camtschatica,Marmot
+2670,Marmota caudata,Marmot
+2671,Marmota flaviventris,Yellow-bellied Marmot
+2672,Marmota himalayana,Himalayan Marmot
+2673,Marmota marmota,Marmot
+2674,Marmota menzbieri,Marmot
+2675,Marmota monax,Groundhog
+2676,Marmota olympus,Olympic Marmot
+2677,Marmota sibirica,Marmot
+2678,Marmota vancouverensis,Marmot
+2679,Martes americana,American Marten
+2680,Martes flavigula,Marten
+2681,Martes foina,Marten
+2682,Martes martes,Marten
+2683,Martes melampus,Marten
+2684,Martes zibellina,Sable
+2686,Mastacomys fuscus,Mouse
+2687,Mastomys angolensis,Mouse
+2688,Mastomys awashensis,Mouse
+2689,Mastomys coucha,Mouse
+2690,Mastomys erythroleucus,Mouse
+2691,Mastomys huberti,Mouse
+2692,Mastomys kollmannspergeri,Mouse
+2693,Mastomys natalensis,Mouse
+2694,Mastomys shortridgei,Mouse
+2695,Mastomys verheyeni,Mouse
+2696,Maxomys alticola,Mouse
+2697,Maxomys baeodon,Mouse
+2698,Maxomys bartelsii,Mouse
+2699,Maxomys dollmani,Mouse
+2700,Maxomys hellwaldii,Mouse
+2701,Maxomys hylomyoides,Mouse
+2702,Maxomys inas,Mouse
+2703,Maxomys inflatus,Mouse
+2704,Maxomys moi,Mouse
+2705,Maxomys musschenbroekii,Mouse
+2706,Maxomys ochraceiventer,Mouse
+2707,Maxomys pagensis,Mouse
+2708,Maxomys panglima,Mouse
+2709,Maxomys rajah,Mouse
+2710,Maxomys surifer,Mouse
+2711,Maxomys tajuddinii,Mouse
+2712,Maxomys wattsi,Mouse
+2713,Maxomys whiteheadi,Mouse
+2714,Mazama americana,Deer
+2715,Mazama bororo,Deer
+2716,Mazama bricenii,Deer
+2717,Mazama chunyi,Deer
+2718,Mazama jucunda,Deer
+2719,Mazama nana,Deer
+2720,Mazama rufa,Deer
+2721,Mazama rufina,Deer
+2722,Mazama temama,Deer
+2723,Megaderma spasma,Bat
+2724,Megadontomys cryophilus,Mouse
+2725,Megadontomys nelsoni,Mouse
+2726,Megadontomys thomasi,Mouse
+2727,Megaerops ecaudatus,Bat
+2728,Megaerops kusnotoi,Bat
+2729,Megaerops niphanae,Bat
+2731,Megaloceros giganteus,Irish Elk
+2732,Megaloglossus azagnyi,Bat
+2733,Megaloglossus woermanni,Bat
+2736,Megalonyx jeffersonii,Ground Sloth
+2737,Megaptera novaeangliae,Humpback Whale
+2738,Megasorex gigas,Shrew
+2739,Megatherium americanum,Giant Ground Sloth
+2740,Melanomys caliginosus,Mouse
+2741,Melanomys chrysomelas,Mouse
+2742,Melanomys columbianus,Mouse
+2743,Melanomys idoneus,Mouse
+2744,Melasmothrix naso,Mouse
+2745,Meles anakuma,Badger
+2746,Meles canescens,Badger
+2747,Meles leucurus,Badger
+2748,Meles meles,Badger
+2749,Mellivora capensis,Honey Badger
+2750,Melogale cucphuongensis,Badger
+2751,Melogale everetti,Badger
+2752,Melogale moschata,Ferret Badger
+2753,Melogale orientalis,Badger
+2754,Melogale personata,Ferret Badger
+2755,Melogale subaurantiaca,Badger
+2756,Melomys bannisteri,Mouse
+2757,Melomys burtoni,Mouse
+2758,Melomys capensis,Mouse
+2759,Melomys cervinipes,Mouse
+2760,Melomys cooperae,Mouse
+2761,Melomys halmaheraensis,Mouse
+2762,Melomys leucogaster,Mouse
+2763,Melomys lutillus,Mouse
+2764,Melomys paveli,Mouse
+2765,Melomys rubicola,Mouse
+2766,Melomys rufescens,Mouse
+2767,Melonycteris melanops,Bat
+2768,Melonycteris woodfordi,Bat
+2769,Melursus ursinus,Sloth Bear
+2770,Menetes berdmorei,Squirrel
+2771,Mephitis macroura,Skunk
+2772,Mephitis mephitis,Skunk
+2773,Meriones chengi,Gerbil
+2774,Meriones crassus,Gerbil
+2775,Meriones dahli,Gerbil
+2776,Meriones grandis,Gerbil
+2777,Meriones libycus,Gerbil
+2778,Meriones meridianus,Gerbil
+2779,Meriones penicilliger,Gerbil
+2780,Meriones persicus,Mouse
+2781,Meriones psammophilus,Mouse
+2782,Meriones rex,Mouse
+2783,Meriones shawi,Gerbil
+2784,Meriones tamariscinus,Gerbil
+2785,Meriones tristrami,Gerbil
+2786,Meriones unguiculatus,Gerbil
+2787,Meriones vinogradovi,Mouse
+2788,Mesechinus dauuricus,Hedgehog
+2789,Mesechinus hughi,Hedgehog
+2790,Mesechinus orientalis,Hedgehog
+2791,Mesechinus wangi,Hedgehog
+2792,Mesembriomys gouldii,Rat
+2793,Mesembriomys macrurus,Rat
+2798,Mesocricetus auratus,Hamster
+2799,Mesocricetus brandti,Hamster
+2800,Mesocricetus newtoni,Hamster
+2801,Mesocricetus raddei,Hamster
+2802,Mesomys hispidus,Mouse
+2803,Mesomys occultus,Mouse
+2804,Mesomys stimulax,Mouse
+2805,Mesophylla macconnelli,Bat
+2806,Mesoplodon bidens,Whale
+2807,Mesoplodon bowdoini,Whale
+2808,Mesoplodon carlhubbsi,Whale
+2809,Mesoplodon densirostris,Whale
+2810,Mesoplodon eueu,Whale
+2811,Mesoplodon europaeus,Whale
+2812,Mesoplodon ginkgodens,Whale
+2813,Mesoplodon grayi,Whale
+2814,Mesoplodon hectori,Whale
+2815,Mesoplodon hotaula,Whale
+2816,Mesoplodon layardii,Whale
+2817,Mesoplodon mirus,Whale
+2818,Mesoplodon perrini,Whale
+2819,Mesoplodon peruvianus,Whale
+2820,Mesoplodon stejnegeri,Whale
+2821,Mesoplodon traversii,Whale
+2822,Metachirus aritanai,Mouse Opossum
+2823,Metachirus myosuros,Mouse Opossum
+2824,Metachirus nudicaudatus,Opossum
+2825,Micaelamys granti,Mouse
+2826,Micaelamys namaquensis,Mouse
+2827,Mico argentatus,Monkey
+2828,Mico chrysoleucos,Monkey
+2829,Mico emiliae,Monkey
+2830,Mico humeralifer,Monkey
+2831,Mico humilis,Monkey
+2832,Mico intermedius,Monkey
+2833,Mico leucippe,Monkey
+2834,Mico marcai,Monkey
+2835,Mico mauesi,Monkey
+2836,Mico melanurus,Monkey
+2837,Mico munduruku,Monkey
+2838,Mico rondoni,Monkey
+2839,Mico saterei,Monkey
+2840,Mico schneideri,Monkey
+2841,Microakodontomys transitorius,Mouse
+2842,Microcavia australis,Cavy
+2843,Microcavia jayat,Cavy
+2844,Microcavia maenas,Cavy
+2845,Microcavia niata,Cavy
+2846,Microcavia shiptoni,Cavy
+2847,Microcebus arnholdi,Mouse Lemur
+2848,Microcebus berthae,Mouse Lemur
+2849,Microcebus bongolavensis,Mouse Lemur
+2850,Microcebus boraha,Mouse Lemur
+2851,Microcebus danfossi,Mouse Lemur
+2852,Microcebus ganzhorni,Mouse Lemur
+2853,Microcebus gerpi,Mouse Lemur
+2854,Microcebus griseorufus,Mouse Lemur
+2855,Microcebus jollyae,Mouse Lemur
+2856,Microcebus lehilahytsara,Mouse Lemur
+2857,Microcebus lokobensis,Mouse Lemur
+2858,Microcebus macarthurii,Mouse Lemur
+2859,Microcebus mamiratra,Mouse Lemur
+2860,Microcebus manitatra,Mouse Lemur
+2861,Microcebus margotmarshae,Mouse Lemur
+2862,Microcebus marohita,Mouse Lemur
+2863,Microcebus murinus,Mouse Lemur
+2864,Microcebus myoxinus,Mouse Lemur
+2865,Microcebus ravelobensis,Mouse Lemur
+2866,Microcebus rufus,Mouse Lemur
+2867,Microcebus sambiranensis,Mouse Lemur
+2868,Microcebus simmonsi,Mouse Lemur
+2869,Microcebus tanosi,Mouse Lemur
+2870,Microcebus tavaratra,Mouse Lemur
+2871,Microdipodops megacephalus,Kangaroo Rat
+2872,Microdipodops pallidus,Mouse
+2873,Microgale brevicaudata,Shrew
+2878,Microgale gracilis,Shrew
+2883,Microgale longicaudata,Shrew
+2888,Microgale principula,Shrew
+2890,Microgale pusilla,Shrew
+2891,Microgale soricoides,Shrew
+2894,Microhydromys richardsoni,Mouse
+2895,Micromys erythrotis,Mouse
+2896,Micromys minutus,Mouse
+2897,Micromys pygmaeus,Mouse
+2898,Micronomus norfolkensis,Bat
+2899,Micronycteris brachyotis,Bat
+2900,Micronycteris brosseti,Bat
+2901,Micronycteris buriri,Bat
+2902,Micronycteris giovanniae,Bat
+2903,Micronycteris hirsuta,Bat
+2904,Micronycteris homezi,Bat
+2905,Micronycteris matses,Bat
+2906,Micronycteris megalotis,Bat
+2907,Micronycteris microtis,Bat
+2908,Micronycteris minuta,Bat
+2909,Micronycteris nicefori,Bat
+2910,Micronycteris sanborni,Bat
+2911,Micronycteris schmidtorum,Bat
+2912,Micronycteris simmonsae,Bat
+2913,Micronycteris tresamici,Bat
+2914,Micronycteris yatesi,Bat
+2916,Microperoryctes longicauda,Bandicoot
+2917,Microperoryctes murina,Mouse
+2918,Microperoryctes ornatus,Bandicoot
+2922,Microryzomys altissimus,Mouse
+2923,Microryzomys minutus,Mouse
+2924,Microsciurus alfari,Squirrel
+2925,Microsciurus flaviventer,Squirrel
+2926,Microsciurus sabanillae,Squirrel
+2927,Microtus abbreviatus,Vole
+2928,Microtus afghanus,Mouse
+2929,Microtus agrestis,Vole
+2930,Microtus anatolicus,Mouse
+2931,Microtus arvalis,Vole
+2932,Microtus bavaricus,Mouse
+2933,Microtus brachycercus,Mouse
+2934,Microtus breweri,Mouse
+2935,Microtus cabrerae,Mouse
+2936,Microtus californicus,Mouse
+2937,Microtus canicaudus,Mouse
+2938,Microtus chrotorrhinus,Mouse
+2939,Microtus daghestanicus,Mouse
+2940,Microtus dogramacii,Mouse
+2941,Microtus drummondii,Mouse
+2942,Microtus duodecimcostatus,Mouse
+2943,Microtus felteni,Mouse
+2944,Microtus guatemalensis,Mouse
+2945,Microtus guentheri,Mouse
+2946,Microtus hartingi,Mouse
+2947,Microtus ilaeus,Mouse
+2948,Microtus irani,Mouse
+2949,Microtus kermanensis,Mouse
+2950,Microtus lavernedii,Mouse
+2951,Microtus levis,Vole
+2952,Microtus liechtensteini,Mouse
+2953,Microtus longicaudus,Mouse
+2954,Microtus lusitanicus,Mouse
+2955,Microtus majori,Mouse
+2956,Microtus mexicanus,Mouse
+2957,Microtus miurus,Mouse
+2958,Microtus mogollonensis,Mouse
+2959,Microtus montanus,Mouse
+2960,Microtus multiplex,Mouse
+2961,Microtus mustersi,Mouse
+2962,Microtus mystacinus,Mouse
+2963,Microtus oaxacensis,Mouse
+2964,Microtus obscurus,Vole
+2965,Microtus ochrogaster,Vole
+2966,Microtus oregoni,Mouse
+2967,Microtus paradoxus,Mouse
+2968,Microtus pennsylvanicus,Vole
+2969,Microtus pinetorum,Vole
+2970,Microtus pyrenaicus,Mouse
+2971,Microtus qazvinensis,Mouse
+2972,Microtus quasiater,Mouse
+2973,Microtus richardsoni,Vole
+2974,Microtus rossiaemeridionalis,Mouse
+2975,Microtus savii,Mouse
+2976,Microtus schelkovnikovi,Mouse
+2977,Microtus schidlovskii,Mouse
+2978,Microtus socialis,Mouse
+2979,Microtus subterraneus,Mouse
+2980,Microtus tatricus,Mouse
+2981,Microtus thomasi,Mouse
+2982,Microtus townsendii,Mouse
+2983,Microtus transcaspicus,Mouse
+2984,Microtus umbrosus,Mouse
+2985,Microtus xanthognathus,Mouse
+2986,Microtus yuldaschi,Mouse
+2988,Millardia kathleenae,Mouse
+2989,Millardia kondana,Mouse
+2990,Millardia meltada,Mouse
+2991,Mimetillus moloneyi,Bat
+2992,Mimon bennettii,Bat
+2993,Mimon cozumelae,Bat
+2994,Mindomys hammondi,Mouse
+2995,Mindomys kutuku,Mouse
+2996,Miniopterus aelleni,Bat
+2997,Miniopterus africanus,Bat
+2998,Miniopterus ambohitrensis,Bat
+2999,Miniopterus australis,Bat
+3000,Miniopterus brachytragos,Bat
+3001,Miniopterus egeri,Bat
+3002,Miniopterus fraterculus,Bat
+3003,Miniopterus fuliginosus,Bat
+3004,Miniopterus fuscus,Bat
+3005,Miniopterus gleni,Bat
+3006,Miniopterus griffithsi,Bat
+3007,Miniopterus griveaudi,Bat
+3008,Miniopterus inflatus,Bat
+3009,Miniopterus macrocneme,Bat
+3010,Miniopterus maghrebensis,Bat
+3011,Miniopterus magnater,Bat
+3012,Miniopterus mahafaliensis,Bat
+3013,Miniopterus majori,Bat
+3014,Miniopterus manavi,Bat
+3015,Miniopterus medius,Bat
+3016,Miniopterus minor,Bat
+3017,Miniopterus mossambicus,Bat
+3018,Miniopterus natalensis,Bat
+3019,Miniopterus newtonii,Bat
+3020,Miniopterus nimbae,Bat
+3021,Miniopterus orianae,Bat
+3022,Miniopterus paululus,Bat
+3023,Miniopterus petersoni,Bat
+3024,Miniopterus propitristis,Bat
+3025,Miniopterus pusillus,Bat
+3026,Miniopterus schreibersii,Bat
+3027,Miniopterus sororculus,Bat
+3028,Miniopterus tristis,Bat
+3029,Miniopterus villiersi,Bat
+3030,Miopithecus ogouensis,Monkey
+3031,Miopithecus talapoin,Monkey
+3032,Miracinonyx trumani,Cheetah
+3033,Mirimiri acrodonta,Bat
+3034,Mirostrellus joffrei,Bat
+3035,Mirounga angustirostris,Elephant Seal
+3036,Mirounga leonina,Elephant Seal
+3037,Mirza coquereli,Mouse Lemur
+3038,Mirza zaza,Lemur
+3040,Mogera etigo,Mole
+3041,Mogera hainana,Mole
+3042,Mogera imaizumii,Mole
+3043,Mogera insularis,Mole
+3044,Mogera kanoana,Mole
+3045,Mogera robusta,Mole
+3046,Mogera tokudae,Mole
+3047,Mogera wogura,Mole
+3048,Molossops griseiventer,Bat
+3049,Molossops mattogrossensis,Bat
+3050,Molossops neglectus,Bat
+3051,Molossops temminckii,Bat
+3052,Molossus alvarezi,Bat
+3053,Molossus ater,Bat
+3054,Molossus aztecus,Bat
+3055,Molossus barnesi,Bat
+3056,Molossus coibensis,Bat
+3057,Molossus currentium,Bat
+3058,Molossus fentoni,Bat
+3059,Molossus fluminensis,Bat
+3060,Molossus melini,Bat
+3061,Molossus milleri,Bat
+3062,Molossus molossus,Bat
+3063,Molossus nigricans,Bat
+3064,Molossus pretiosus,Bat
+3065,Molossus rufus,Bat
+3066,Molossus sinaloae,Bat
+3067,Molossus verrilli,Bat
+3068,Monachus monachus,Mediterranean Monk Seal
+3069,Monodelphis adusta,Opossum
+3070,Monodelphis americana,Opossum
+3072,Monodelphis brevicaudata,Opossum
+3073,Monodelphis dimidiata,Opossum
+3074,Monodelphis domestica,Opossum
+3075,Monodelphis emiliae,Opossum
+3076,Monodelphis gardneri,Opossum
+3077,Monodelphis glirina,Mouse Opossum
+3079,Monodelphis iheringi,Opossum
+3080,Monodelphis kunsi,Mouse Opossum
+3081,Monodelphis osgoodi,Opossum
+3082,Monodelphis palliolata,Opossum
+3083,Monodelphis peruviana,Opossum
+3084,Monodelphis pinocchio,Mouse Opossum
+3085,Monodelphis reigi,Opossum
+3087,Monodelphis sanctaerosae,Mouse Opossum
+3088,Monodelphis scalops,Opossum
+3089,Monodelphis sorex,Mouse Opossum
+3090,Monodelphis theresa,Opossum
+3091,Monodelphis touan,Opossum
+3094,Monodon monoceros,Narwhal
+3095,Monophyllus plethodon,Bat
+3096,Monophyllus redmani,Bat
+3097,Montemys delectorum,Mouse
+3098,Monticolomys koopmani,Mouse
+3099,Mops ansorgei,Bat
+3100,Mops atsinanana,Bat
+3101,Mops bakarii,Bat
+3102,Mops bivittatus,Bat
+3103,Mops brachypterus,Bat
+3104,Mops bregullae,Bat
+3105,Mops chapini,Bat
+3106,Mops condylurus,Bat
+3107,Mops jobensis,Bat
+3108,Mops jobimena,Bat
+3109,Mops leucogaster,Bat
+3110,Mops leucostigma,Bat
+3111,Mops midas,Bat
+3112,Mops mops,Bat
+3113,Mops nigeriae,Bat
+3114,Mops plicatus,Bat
+3115,Mops pumilus,Bat
+3116,Mops pusillus,Bat
+3117,Mops spurrelli,Bat
+3118,Mops thersites,Bat
+3119,Mormoops blainvillei,Bat
+3120,Mormoops megalophylla,Bat
+3121,Mormopterus acetabulosus,Bat
+3122,Mormopterus francoismoutoui,Bat
+3123,Mormopterus jugularis,Bat
+3124,Mormopterus kalinowskii,Bat
+3125,Moschiola indica,Mouse Deer
+3126,Moschiola kathygre,Mouse Deer
+3127,Moschiola meminna,Mouse Deer
+3128,Moschus anhuiensis,Musk Deer
+3129,Moschus berezovskii,Musk Deer
+3130,Moschus chrysogaster,Musk Deer
+3131,Moschus cupreus,Musk Deer
+3132,Moschus fuscus,Musk Deer
+3133,Moschus leucogaster,Musk Deer
+3134,Moschus moschiferus,Musk Deer
+3135,Mosia nigrescens,Bat
+3136,Mungos mungo,Mongoose
+3137,Mungotictis decemlineata,Mongoose
+3138,Muntiacus atherodes,Deer
+3139,Muntiacus crinifrons,Deer
+3140,Muntiacus feae,Deer
+3141,Muntiacus gongshanensis,Deer
+3142,Muntiacus muntjak,Muntjac
+3143,Muntiacus putaoensis,Deer
+3144,Muntiacus reevesi,Muntjac
+3145,Muntiacus rooseveltorum,Deer
+3146,Muntiacus truongsonensis,Deer
+3147,Muntiacus vaginalis,Barking Deer
+3148,Muntiacus vuquangensis,Deer
+3154,Muriculus imberbis,Mouse
+3155,Murina aenea,Bat
+3156,Murina bicolor,Bat
+3157,Murina chrysochaetes,Bat
+3158,Murina cyclotis,Bat
+3159,Murina eleryi,Bat
+3160,Murina fanjingshanensis,Bat
+3161,Murina feae,Bat
+3162,Murina florium,Bat
+3163,Murina gracilis,Bat
+3164,Murina harpioloides,Bat
+3165,Murina harrisoni,Bat
+3166,Murina hilgendorfi,Bat
+3167,Murina hkakaboraziensis,Bat
+3168,Murina huttoni,Bat
+3169,Murina huttonii,Bat
+3170,Murina jaintiana,Bat
+3171,Murina jinchui,Bat
+3172,Murina kontumensis,Bat
+3173,Murina leucogaster,Bat
+3174,Murina liboensis,Bat
+3175,Murina lorelieae,Bat
+3176,Murina peninsularis,Bat
+3177,Murina pluvialis,Bat
+3178,Murina puta,Bat
+3179,Murina recondita,Bat
+3180,Murina rongjiangensis,Bat
+3181,Murina rozendaali,Bat
+3182,Murina ryukyuana,Bat
+3183,Murina shuipuensis,Bat
+3184,Murina suilla,Bat
+3185,Murina tubinaris,Bat
+3186,Murina ussuriensis,Bat
+3187,Murina walstoni,Bat
+3188,Mus abbotti,Mouse
+3189,Mus baoulei,Mouse
+3190,Mus booduga,Mouse
+3191,Mus bufo,Mouse
+3192,Mus callewaerti,Mouse
+3193,Mus caroli,Mouse
+3194,Mus cervicolor,Mouse
+3195,Mus cookii,Mouse
+3196,Mus crociduroides,Mouse
+3197,Mus cypriacus,Mouse
+3198,Mus emesi,Mouse
+3199,Mus famulus,Mouse
+3200,Mus fernandoni,Mouse
+3201,Mus fragilicauda,Mouse
+3202,Mus gerbillus,Mouse
+3203,Mus gratus,Mouse
+3204,Mus harennensis,Mouse
+3205,Mus haussa,Mouse
+3206,Mus indutus,Mouse
+3207,Mus lepidoides,Mouse
+3208,Mus macedonicus,Mouse
+3209,Mus mahomet,Mouse
+3210,Mus mattheyi,Mouse
+3211,Mus mayori,Mouse
+3212,Mus minutoides,Mouse
+3213,Mus musculoides,Mouse
+3214,Mus musculus,Mouse
+3215,Mus neavei,Mouse
+3216,Mus nitidulus,Mouse
+3217,Mus pahari,Mouse
+3218,Mus platythrix,Mouse
+3219,Mus poschiavinus,Mouse
+3220,Mus saxicola,Mouse
+3221,Mus setulosus,Mouse
+3222,Mus shortridgei,Mouse
+3223,Mus sorella,Mouse
+3224,Mus spicilegus,Mouse
+3225,Mus spretus,Mouse
+3226,Mus tenellus,Mouse
+3227,Mus terricolor,Mouse
+3228,Mus triton,Mouse
+3229,Muscardinus avellanarius,Dormouse
+3230,Musonycteris harrisoni,Bat
+3231,Musseromys anacuao,Mouse
+3232,Musseromys beneficus,Mouse
+3233,Musseromys gulantang,Mouse
+3234,Musseromys inopinatus,Mouse
+3235,Mustela aistoodonnivalis,Weasel
+3236,Mustela altaica,Weasel
+3237,Mustela erminea,Stoat
+3238,Mustela eversmannii,Weasel
+3239,Mustela haidarum,Weasel
+3240,Mustela itatsi,Weasel
+3241,Mustela kathiah,Weasel
+3242,Mustela lutreola,European Mink
+3243,Mustela nigripes,Black-footed Ferret
+3244,Mustela nivalis,Weasel
+3245,Mustela nudipes,Weasel
+3246,Mustela putorius,Ferret
+3247,Mustela richardsonii,Weasel
+3248,Mustela sibirica,Siberian Weasel
+3249,Mustela strigidorsa,Weasel
+3250,Mydaus javanensis,Stink Badger
+3251,Mydaus marchei,Stink Badger
+3253,Mylomys dybowskii,Mouse
+3254,Myocastor coypus,Nutria
+3255,Myodes californicus,Mouse
+3256,Myodes glareolus,Vole
+3257,Myodes regulus,Vole
+3258,Myodes rufocanus,Vole
+3259,Myodes shanseius,Mouse
+3264,Myomimus roachi,Mouse
+3265,Myomyscus verreauxii,Mouse
+3266,Myonycteris angolensis,Bat
+3267,Myonycteris brachycephala,Bat
+3268,Myonycteris leptodon,Bat
+3269,Myonycteris relicta,Bat
+3270,Myonycteris torquata,Bat
+3271,Myoprocta acouchy,Agouti
+3272,Myoprocta pratti,Agouti
+3273,Myopterus daubentonii,Bat
+3274,Myopus schisticolor,Mouse
+3275,Myosciurus pumilio,Squirrel
+3276,Myosorex babaulti,Shrew
+3277,Myosorex blarina,Shrew
+3278,Myosorex cafer,Shrew
+3279,Myosorex geata,Shrew
+3280,Myosorex jejei,Shrew
+3281,Myosorex kihaulei,Shrew
+3282,Myosorex longicaudatus,Shrew
+3283,Myosorex meesteri,Shrew
+3284,Myosorex sclateri,Shrew
+3285,Myosorex varius,Shrew
+3286,Myosorex zinki,Shrew
+3287,Myospalax aspalax,Mole
+3288,Myospalax myospalax,Mole
+3289,Myospalax psilurus,Mole
+3290,Myotis adversus,Bat
+3291,Myotis albescens,Bat
+3292,Myotis alcathoe,Bat
+3293,Myotis altarium,Bat
+3294,Myotis ancricola,Bat
+3295,Myotis anjouanensis,Bat
+3296,Myotis annamiticus,Bat
+3297,Myotis annatessae,Bat
+3298,Myotis annectans,Bat
+3299,Myotis arescens,Bat
+3300,Myotis armiensis,Bat
+3301,Myotis atacamensis,Bat
+3302,Myotis ater,Bat
+3303,Myotis attenboroughi,Bat
+3304,Myotis auriculus,Bat
+3305,Myotis austroriparius,Bat
+3306,Myotis badius,Bat
+3307,Myotis barquezi,Bat
+3308,Myotis bechsteinii,Bat
+3309,Myotis blythii,Bat
+3310,Myotis bocagii,Bat
+3311,Myotis bombinus,Bat
+3312,Myotis borneoensis,Bat
+3313,Myotis brandtii,Bat
+3314,Myotis bucharensis,Bat
+3315,Myotis californicus,Bat
+3316,Myotis capaccinii,Bat
+3317,Myotis caucensis,Bat
+3318,Myotis chiloensis,Bat
+3319,Myotis chinensis,Bat
+3320,Myotis ciliolabrum,Bat
+3321,Myotis clydejonesi,Bat
+3322,Myotis crypticus,Bat
+3323,Myotis csorbai,Bat
+3324,Myotis dasycneme,Bat
+3325,Myotis daubentonii,Bat
+3326,Myotis davidii,Bat
+3327,Myotis diminutus,Bat
+3328,Myotis dinellii,Bat
+3329,Myotis dominicensis,Bat
+3330,Myotis elegans,Bat
+3331,Myotis emarginatus,Bat
+3332,Myotis escalerai,Bat
+3333,Myotis evotis,Bat
+3334,Myotis federatus,Bat
+3335,Myotis fimbriatus,Bat
+3336,Myotis findleyi,Bat
+3337,Myotis flavus,Bat
+3338,Myotis formosus,Bat
+3339,Myotis fortidens,Bat
+3340,Myotis frater,Bat
+3341,Myotis gomantongensis,Bat
+3342,Myotis goudotii,Bat
+3343,Myotis grisescens,Bat
+3344,Myotis handleyi,Bat
+3345,Myotis hasseltii,Bat
+3346,Myotis horsfieldii,Bat
+3347,Myotis hoveli,Bat
+3348,Myotis huariorum,Bat
+3349,Myotis hyrcanicus,Bat
+3350,Myotis ikonnikovi,Bat
+3351,Myotis indochinensis,Bat
+3352,Myotis izecksohni,Bat
+3353,Myotis keaysi,Bat
+3354,Myotis keenii,Bat
+3355,Myotis laniger,Bat
+3356,Myotis larensis,Bat
+3357,Myotis lavali,Bat
+3358,Myotis leibii,Bat
+3359,Myotis levis,Bat
+3360,Myotis longicaudatus,Bat
+3361,Myotis longipes,Bat
+3362,Myotis lucifugus,Bat
+3363,Myotis macrodactylus,Bat
+3364,Myotis macropus,Bat
+3365,Myotis macrotarsus,Bat
+3366,Myotis martiniquensis,Bat
+3367,Myotis melanorhinus,Bat
+3368,Myotis midastactus,Bat
+3369,Myotis moluccarum,Bat
+3370,Myotis montivagus,Bat
+3371,Myotis moratellii,Bat
+3372,Myotis muricola,Bat
+3373,Myotis myotis,Bat
+3374,Myotis myotis/blythii,Bat
+3375,Myotis mystacinus,Bat
+3376,Myotis nattereri,Bat
+3377,Myotis nesopolus,Bat
+3378,Myotis nigricans,Bat
+3379,Myotis nimbaensis,Bat
+3380,Myotis nipalensis,Bat
+3381,Myotis nustrale,Bat
+3382,Myotis occultus,Bat
+3383,Myotis oxygnathus,Bat
+3384,Myotis oxyotus,Bat
+3385,Myotis peninsularis,Bat
+3386,Myotis pequinius,Bat
+3387,Myotis petax,Bat
+3388,Myotis peytoni,Bat
+3389,Myotis phanluongi,Bat
+3390,Myotis pilosatibialis,Bat
+3391,Myotis pilosus,Bat
+3392,Myotis planiceps,Bat
+3393,Myotis pruinosus,Bat
+3394,Myotis punicus,Bat
+3395,Myotis ridleyi,Bat
+3396,Myotis riparius,Bat
+3397,Myotis rosseti,Bat
+3398,Myotis ruber,Bat
+3399,Myotis rufoniger,Bat
+3400,Myotis schaubi,Bat
+3401,Myotis scotti,Bat
+3402,Myotis secundus,Bat
+3403,Myotis septentrionalis,Bat
+3404,Myotis sibiricus,Bat
+3405,Myotis sicarius,Bat
+3406,Myotis siligorensis,Bat
+3407,Myotis simus,Bat
+3408,Myotis sodalis,Bat
+3409,Myotis soror,Bat
+3410,Myotis thysanodes,Bat
+3411,Myotis tricolor,Bat
+3412,Myotis tschuliensis,Bat
+3413,Myotis velifer,Bat
+3414,Myotis vivesi,Bat
+3415,Myotis volans,Bat
+3416,Myotis watasei,Bat
+3417,Myotis welwitschii,Bat
+3418,Myotis yanbarensis,Bat
+3419,Myotis yumanensis,Bat
+3420,Myotis zenatius,Bat
+3422,Myrmecobius fasciatus,Numbat
+3423,Myrmecophaga tridactyla,Giant Anteater
+3425,Mystacina tuberculata,Bat
+3426,Mystromys albicaudatus,Mouse
+3427,Myzopoda aurita,Bat
+3428,Myzopoda schliemanni,Bat
+3429,Naemorhedus baileyi,Goral
+3430,Naemorhedus caudatus,Goral
+3431,Naemorhedus cranbrooki,Goral
+3432,Naemorhedus evansi,Goral
+3433,Naemorhedus goral,Goral
+3434,Naemorhedus griseus,Goral
+3436,Nanger dama,Gazelle
+3437,Nanger granti,Gazelle
+3438,Nanger soemmerringii,Gazelle
+3439,Nannosciurus melanotis,Squirrel
+3440,Nannospalax bulgaricus,Mole Rat
+3441,Nannospalax ceyhanus,Mole Rat
+3442,Nannospalax cilicicus,Mole Rat
+3443,Nannospalax ehrenbergi,Mole Rat
+3444,Nannospalax galili,Mole Rat
+3445,Nannospalax golani,Mole Rat
+3446,Nannospalax hellenicus,Mole Rat
+3447,Nannospalax hungaricus,Mole Rat
+3448,Nannospalax insularis,Mole Rat
+3449,Nannospalax judaei,Mole Rat
+3450,Nannospalax leucodon,Mole Rat
+3451,Nannospalax montanoserbicus,Mole Rat
+3452,Nannospalax monticola,Mole Rat
+3453,Nannospalax nehringi,Mole Rat
+3454,Nannospalax serbicus,Mole Rat
+3456,Nannospalax turcicus,Mole Rat
+3457,Nanonycteris veldkampii,Bat
+3458,Napaeozapus insignis,Jumping Mouse
+3459,Nasalis larvatus,Proboscis Monkey
+3460,Nasua narica,Coati
+3461,Nasua nasua,Coati
+3462,Nasuella meridensis,Coati
+3463,Nasuella olivacea,Coati
+3464,Natalus jamaicensis,Bat
+3465,Natalus macrourus,Bat
+3466,Natalus major,Bat
+3467,Natalus mexicanus,Bat
+3468,Natalus saturatus,Bat
+3469,Natalus stramineus,Bat
+3470,Natalus tumidirostris,Bat
+3471,Neacomys amoenus,Mouse
+3472,Neacomys auriventer,Mouse
+3473,Neacomys dubosti,Mouse
+3474,Neacomys elieceri,Mouse
+3475,Neacomys guianae,Mouse
+3476,Neacomys marajoara,Mouse
+3477,Neacomys minutus,Mouse
+3478,Neacomys paracou,Mouse
+3479,Neacomys rosalindae,Mouse
+3480,Neacomys spinosus,Mouse
+3481,Neacomys tenuipes,Mouse
+3482,Neacomys vargasllosai,Mouse
+3483,Neacomys vossi,Mouse
+3484,Neacomys xingu,Mouse
+3485,Neamblysomus gunningi,Golden Mole
+3487,Necromys amoenus,Mouse
+3488,Necromys benefactus,Mouse
+3489,Necromys lactens,Mouse
+3490,Necromys lasiurus,Mouse
+3491,Necromys lenguarum,Mouse
+3492,Necromys lilloi,Mouse
+3493,Necromys obscurus,Mouse
+3494,Necromys temchuki,Mouse
+3495,Necromys urichi,Mouse
+3496,Nectogale elegans,Water Shrew
+3497,Nectogale sikhimensis,Water Shrew
+3498,Nectomys apicalis,Mouse
+3499,Nectomys rattus,Mouse
+3500,Nectomys squamipes,Mouse
+3501,Nelsonia goldmani,Mouse
+3502,Nelsonia neotomodon,Mouse
+3505,Neodon bershulaensis,Mouse
+3506,Neodon chayuensis,Mouse
+3507,Neodon clarkei,Mouse
+3508,Neodon forresti,Mouse
+3509,Neodon fuscus,Mouse
+3510,Neodon irene,Mouse
+3511,Neodon leucurus,Mouse
+3512,Neodon liaoruii,Mouse
+3513,Neodon linzhiensis,Mouse
+3514,Neodon medogensis,Mouse
+3515,Neodon namchabarwaensis,Mouse
+3516,Neodon nyalamensis,Mouse
+3517,Neodon shergylaensis,Mouse
+3518,Neodon sikimensis,Mouse
+3519,Neoeptesicus andinus,Bat
+3520,Neoeptesicus brasiliensis,Bat
+3521,Neoeptesicus chiriquinus,Bat
+3522,Neoeptesicus diminutus,Bat
+3523,Neoeptesicus furinalis,Bat
+3524,Neoeptesicus innoxius,Bat
+3525,Neoeptesicus orinocensis,Bat
+3526,Neoeptesicus ulapesensis,Bat
+3527,Neofelis diardi,Clouded Leopard
+3528,Neofelis nebulosa,Clouded Leopard
+3529,Neofiber alleni,Round-tailed Muskrat
+3530,Neogale africana,Weasel
+3532,Neogale frenata,Weasel
+3533,Neogale vison,Mink
+3536,Neomicroxus bogotensis,Mouse
+3537,Neomonachus schauinslandi,Hawaiian Monk Seal
+3538,Neomonachus tropicalis,Monk Seal
+3539,Neomys anomalus,Shrew
+3540,Neomys fodiens,Water Shrew
+3541,Neomys teres,Shrew
+3543,Neophoca cinerea,Australian Sea Lion
+3544,Neophocaena asiaeorientalis,Porpoise
+3545,Neophocaena phocaenoides,Porpoise
+3546,Neophocaena sunameri,Porpoise
+3548,Neoromicia anchietae,Bat
+3549,Neoromicia bemainty,Bat
+3550,Neoromicia guineensis,Bat
+3551,Neoromicia helios,Bat
+3552,Neoromicia hlandzeni,Bat
+3553,Neoromicia somalicus,Bat
+3554,Neoromicia zuluensis,Bat
+3555,Neotamias alpinus,Chipmunk
+3556,Neotamias bulleri,Chipmunk
+3557,Neotamias cinereicollis,Chipmunk
+3558,Neotamias cratericus,Chipmunk
+3559,Neotamias durangae,Chipmunk
+3560,Neotamias grisescens,Chipmunk
+3561,Neotamias ochrogenys,Chipmunk
+3562,Neotamias panamintinus,Chipmunk
+3563,Neotamias ruficaudus,Chipmunk
+3564,Neotamias siskiyou,Chipmunk
+3565,Neotetracus sinensis,Hedgehog
+3566,Neotoma albigula,Woodrat
+3567,Neotoma angustapalata,Mouse
+3568,Neotoma bryanti,Woodrat
+3569,Neotoma cinerea,Woodrat
+3570,Neotoma devia,Mouse
+3571,Neotoma ferruginea,Woodrat
+3572,Neotoma floridana,Woodrat
+3573,Neotoma fuscipes,Woodrat
+3574,Neotoma goldmani,Woodrat
+3575,Neotoma isthmica,Mouse
+3576,Neotoma lepida,Woodrat
+3577,Neotoma leucodon,Woodrat
+3578,Neotoma macrotis,Woodrat
+3579,Neotoma magister,Woodrat
+3580,Neotoma melanura,Mouse
+3581,Neotoma mexicana,Woodrat
+3582,Neotoma micropus,Woodrat
+3583,Neotoma nelsoni,Mouse
+3584,Neotoma phenax,Woodrat
+3585,Neotoma picta,Mouse
+3586,Neotoma stephensi,Mouse
+3587,Neotomodon alstoni,Mouse
+3588,Neotomys ebriosus,Mouse
+3589,Neotragus batesi,Antelope
+3590,Neotragus moschatus,Suni
+3591,Neotragus pygmaeus,Dik-dik
+3592,Nephelomys albigularis,Mouse
+3593,Nephelomys childi,Mouse
+3594,Nephelomys devius,Mouse
+3595,Nephelomys keaysi,Mouse
+3596,Nephelomys levipes,Mouse
+3597,Nephelomys meridensis,Mouse
+3598,Nephelomys moerex,Mouse
+3599,Nephelomys pectoralis,Mouse
+3600,Nephelomys ricardopalmai,Mouse
+3601,Nesiotites hidalgo,Mouse
+3604,Nesokia indica,Rat
+3605,Nesolagus netscheri,Rabbit
+3606,Nesolagus timminsi,Rabbit
+3607,Nesomys audeberti,Mouse
+3608,Nesomys rufus,Mouse
+3609,Nesonycteris ardoulisi,Bat
+3610,Nesonycteris fardoulisi,Bat
+3611,Nesonycteris maccoyi,Bat
+3612,Nesonycteris mengermani,Bat
+3613,Nesoryzomys fernandinae,Mouse
+3614,Nesoryzomys indefessus,Mouse
+3615,Nesoryzomys narboroughi,Mouse
+3616,Nesoryzomys swarthi,Mouse
+3617,Neurotrichus gibbsii,Shrew
+3619,Neusticomys monticolus,Mouse
+3620,Neusticomys oyapocki,Mouse
+3621,Neusticomys peruviensis,Mouse
+3622,Neusticomys vossi,Mouse
+3623,Nilgiritragus hylocrius,Nilgiri Tahr
+3628,Niviventer andersoni,Mouse
+3629,Niviventer brahma,Mouse
+3630,Niviventer bukit,Mouse
+3631,Niviventer confucianus,Mouse
+3632,Niviventer coninga,Mouse
+3633,Niviventer cremoriventer,Mouse
+3634,Niviventer culturatus,Mouse
+3635,Niviventer eha,Mouse
+3636,Niviventer excelsior,Mouse
+3637,Niviventer fengi,Mouse
+3638,Niviventer fulvescens,Mouse
+3639,Niviventer gladiusmaculus,Mouse
+3640,Niviventer hinpoon,Mouse
+3641,Niviventer huang,Mouse
+3642,Niviventer lepturus,Mouse
+3643,Niviventer lotipes,Mouse
+3644,Niviventer mekongis,Mouse
+3645,Niviventer niviventer,Mouse
+3646,Niviventer rapit,Mouse
+3647,Niviventer sacer,Mouse
+3648,Niviventer tenaster,Mouse
+3649,Noctilio albiventris,Bat
+3650,Noctilio leporinus,Bat
+3651,Nomascus annamensis,Gibbon
+3652,Nomascus concolor,Gibbon
+3653,Nomascus gabriellae,Gibbon
+3654,Nomascus hainanus,Gibbon
+3655,Nomascus leucogenys,Gibbon
+3656,Nomascus nasutus,Gibbon
+3657,Nomascus siki,Gibbon
+3658,Notamacropus agilis,Kangaroo
+3659,Notamacropus dorsalis,Wallaby
+3660,Notamacropus eugenii,Wallaby
+3661,Notamacropus greyi,Wallaby
+3662,Notamacropus irma,Kangaroo
+3663,Notamacropus parma,Parma Wallaby
+3664,Notamacropus parryi,Wallaby
+3665,Notamacropus rufogriseus,Wallaby
+3666,Nothocricetulus migratorius,Hamster
+3668,Notiomastodon platensis,Mastodon
+3669,Notiomys edwardsii,Mouse
+3670,Notiosorex cockrumi,Shrew
+3671,Notiosorex crawfordi,Shrew
+3672,Notiosorex evotis,Shrew
+3673,Notocitellus adocetus,Squirrel
+3674,Notocitellus annulatus,Squirrel
+3675,Notomys alexis,Mouse
+3676,Notomys amplus,Mouse
+3677,Notomys aquilo,Mouse
+3678,Notomys cervinus,Mouse
+3679,Notomys fuscus,Mouse
+3680,Notomys longicaudatus,Mouse
+3681,Notomys macrotis,Mouse
+3682,Notomys mitchellii,Mouse
+3683,Notopteris macdonaldii,Bat
+3685,Notoryctes typhlops,Marsupial Mole
+3686,Nyctalus aviator,Bat
+3687,Nyctalus azoreum,Bat
+3688,Nyctalus lasiopterus,Bat
+3689,Nyctalus leisleri,Bat
+3690,Nyctalus noctula,Bat
+3691,Nyctalus plancyi,Bat
+3692,Nyctereutes procyonoides,Raccoon Dog
+3693,Nyctereutes viverrinus,Raccoon Dog
+3694,Nycteris arge,Bat
+3695,Nycteris grandis,Bat
+3696,Nycteris hispida,Bat
+3697,Nycteris javanica,Bat
+3698,Nycteris macrotis,Bat
+3699,Nycteris madagascariensis,Bat
+3700,Nycteris major,Bat
+3701,Nycteris thebaica,Bat
+3702,Nycteris tragata,Bat
+3703,Nycticebus bengalensis,Slow Loris
+3704,Nycticebus borneanus,Slow Loris
+3705,Nycticebus coucang,Slow Loris
+3706,Nycticebus hilleri,Slow Loris
+3707,Nycticebus javanicus,Slow Loris
+3708,Nycticebus kayan,Slow Loris
+3709,Nycticebus menagensis,Slow Loris
+3710,Nycticeinops bellieri,Bat
+3711,Nycticeinops crassulus,Bat
+3712,Nycticeinops eisentrauti,Bat
+3713,Nycticeinops grandidieri,Bat
+3714,Nycticeinops happoldorum,Bat
+3715,Nycticeinops macrocephalus,Bat
+3716,Nycticeinops schlieffeni,Bat
+3717,Nycticeius humeralis,Bat
+3718,Nyctiellus lepidus,Bat
+3719,Nyctimene aello,Bat
+3720,Nyctimene albiventer,Bat
+3721,Nyctimene cephalotes,Bat
+3722,Nyctimene certans,Bat
+3723,Nyctimene major,Bat
+3724,Nyctimene rabori,Bat
+3725,Nyctimene robinsoni,Bat
+3726,Nyctimene vizcaccia,Bat
+3727,Nyctinomops aurispinosus,Bat
+3728,Nyctinomops femorosaccus,Bat
+3729,Nyctinomops laticaudatus,Bat
+3730,Nyctinomops macrotis,Bat
+3731,Nyctomys sumichrasti,Mouse
+3732,Nyctophilus arnhemensis,Bat
+3733,Nyctophilus bifax,Bat
+3734,Nyctophilus corbeni,Bat
+3735,Nyctophilus daedalus,Bat
+3736,Nyctophilus geoffroyi,Bat
+3737,Nyctophilus gouldi,Bat
+3738,Nyctophilus holtorum,Bat
+3739,Nyctophilus microdon,Bat
+3740,Nyctophilus microtis,Bat
+3741,Ochotona alpina,Pika
+3742,Ochotona annectens,Pika
+3743,Ochotona argentata,Pika
+3744,Ochotona brookei,Pika
+3745,Ochotona cansus,Pika
+3746,Ochotona collaris,Pika
+3747,Ochotona coreana,Pika
+3748,Ochotona curzoniae,Pika
+3749,Ochotona dauurica,Pika
+3750,Ochotona erythrotis,Pika
+3751,Ochotona forresti,Pika
+3752,Ochotona gaoligongensis,Pika
+3753,Ochotona gloveri,Pika
+3754,Ochotona himalayana,Pika
+3755,Ochotona hoffmanni,Pika
+3756,Ochotona huangensis,Pika
+3757,Ochotona huanglongensis,Pika
+3758,Ochotona hyperborea,Pika
+3759,Ochotona iliensis,Pika
+3760,Ochotona koslowi,Pika
+3761,Ochotona ladacensis,Pika
+3762,Ochotona macrotis,Pika
+3763,Ochotona mantchurica,Pika
+3764,Ochotona muliensis,Pika
+3765,Ochotona nigritia,Pika
+3766,Ochotona nubrica,Pika
+3767,Ochotona pallasi,Pika
+3768,Ochotona princeps,Pika
+3769,Ochotona pusilla,Pika
+3770,Ochotona roylei,Pika
+3771,Ochotona rufescens,Pika
+3772,Ochotona rutila,Pika
+3773,Ochotona sikimaria,Pika
+3774,Ochotona syrinx,Pika
+3775,Ochotona thibetana,Pika
+3776,Ochotona thomasi,Pika
+3777,Ochotona turuchanensis,Pika
+3778,Ochotona vizier,Pika
+3779,Ochromyscus brockmani,Mouse
+3780,Ochromyscus yemeni,Mouse
+3781,Ochrotomys nuttalli,Mouse
+3782,Octodon bridgesii,Degu
+3783,Octodon degus,Degu
+3788,Octomys mimax,Mouse
+3789,Odobenus rosmarus,Walrus
+3790,Odocoileus hemionus,Mule Deer
+3791,Odocoileus pandora,Deer
+3792,Odocoileus virginianus,White-tailed Deer
+3793,Oecomys auyantepui,Mouse
+3794,Oecomys bicolor,Mouse
+3795,Oecomys catherinae,Mouse
+3796,Oecomys cleberi,Mouse
+3797,Oecomys concolor,Mouse
+3798,Oecomys flavicans,Mouse
+3799,Oecomys franciscorum,Mouse
+3800,Oecomys mamorae,Mouse
+3801,Oecomys matogrossensis,Mouse
+3802,Oecomys osgoodi,Mouse
+3803,Oecomys paricola,Mouse
+3804,Oecomys phaeotis,Mouse
+3805,Oecomys rex,Mouse
+3806,Oecomys roberti,Mouse
+3807,Oecomys rutilus,Mouse
+3808,Oecomys speciosus,Mouse
+3809,Oecomys superans,Mouse
+3810,Oecomys sydandersoni,Mouse
+3811,Oecomys tapajinus,Mouse
+3812,Oecomys trabeatus,Mouse
+3813,Oecomys trinitatis,Mouse
+3814,Oenomys hypoxanthus,Mouse
+3815,Okapia johnstoni,Okapi
+3816,Olallamys albicauda,Mouse
+3817,Oligoryzomys andinus,Mouse
+3818,Oligoryzomys arenalis,Mouse
+3819,Oligoryzomys brendae,Mouse
+3820,Oligoryzomys chacoensis,Mouse
+3821,Oligoryzomys costaricensis,Mouse
+3822,Oligoryzomys destructor,Mouse
+3823,Oligoryzomys flavescens,Mouse
+3824,Oligoryzomys fornesi,Mouse
+3825,Oligoryzomys fulvescens,Mouse
+3826,Oligoryzomys longicaudatus,Mouse
+3827,Oligoryzomys magellanicus,Mouse
+3828,Oligoryzomys mattogrossae,Mouse
+3829,Oligoryzomys messorius,Mouse
+3830,Oligoryzomys microtis,Mouse
+3831,Oligoryzomys moojeni,Mouse
+3832,Oligoryzomys nigripes,Mouse
+3833,Oligoryzomys occidentalis,Mouse
+3834,Oligoryzomys rupestris,Mouse
+3835,Oligoryzomys stramineus,Mouse
+3836,Oligoryzomys utiaritensis,Mouse
+3837,Oligoryzomys vegetus,Mouse
+3838,Ommatophoca rossii,Seal
+3839,Ondatra zibethicus,Muskrat
+3840,Onychogalea frenata,Wallaby
+3841,Onychogalea unguifera,Wallaby
+3842,Onychomys arenicola,Mouse
+3843,Onychomys leucogaster,Mouse
+3844,Onychomys torridus,Mouse
+3845,Orcaella brevirostris,Dolphin
+3846,Orcaella heinsohni,Dolphin
+3847,Orcinus orca,Killer Whale
+3848,Oreamnos americanus,Mountain Goat
+3850,Oreoryzomys balneator,Mouse
+3851,Oreoscaptor mizura,Mole
+3852,Oreotragus oreotragus,Klipspringer
+3853,Orientallactaga balikunica,Jerboa
+3854,Orientallactaga bullata,Jerboa
+3855,Orientallactaga sibirica,Jerboa
+3856,Ornithorhynchus anatinus,Platypus
+3857,Orthogeomys cuniculus,Pocket Gopher
+3858,Orthogeomys grandis,Gopher
+3859,Orycteropus afer,Aardvark
+3860,Oryctolagus cuniculus,Rabbit
+3861,Oryx beisa,Oryx
+3862,Oryx dammah,Oryx
+3863,Oryx gazella,Oryx
+3864,Oryx leucoryx,Oryx
+3865,Oryzomys couesi,Mouse
+3866,Oryzomys mexicanus,Mouse
+3867,Oryzomys palustris,Mouse
+3868,Oryzomys texensis,Mouse
+3871,Osgoodomys banderanus,Mouse
+3872,Osphranter antilopinus,Kangaroo
+3873,Osphranter bernardus,Wallaroo
+3874,Osphranter robustus,Kangaroo
+3875,Osphranter rufus,Kangaroo
+3876,Otaria byronia,Sea Lion
+3877,Otocolobus manul,Pallas's Cat
+3878,Otocyon megalotis,Bat-eared Fox
+3879,Otolemur crassicaudatus,Bushbaby
+3880,Otolemur garnettii,Bushbaby
+3881,Otolemur monteiri,Bushbaby
+3882,Otomops harrisoni,Bat
+3883,Otomops madagascariensis,Bat
+3884,Otomops martiensseni,Bat
+3885,Otomops wroughtoni,Bat
+3886,Otomys anchietae,Mouse
+3887,Otomys angoniensis,Mouse
+3888,Otomys auratus,Mouse
+3889,Otomys barbouri,Mouse
+3890,Otomys burtoni,Mouse
+3891,Otomys dartmouthi,Mouse
+3892,Otomys denti,Mouse
+3893,Otomys irroratus,Mouse
+3894,Otomys jacksoni,Mouse
+3895,Otomys lacustris,Mouse
+3896,Otomys laminatus,Mouse
+3897,Otomys maximus,Mouse
+3898,Otomys occidentalis,Mouse
+3899,Otomys orestes,Mouse
+3900,Otomys saundersiae,Mouse
+3901,Otomys simiensis,Mouse
+3902,Otomys sloggetti,Mouse
+3903,Otomys tropicalis,Mouse
+3904,Otomys typus,Mouse
+3905,Otomys unisulcatus,Mouse
+3906,Otomys uzungwensis,Mouse
+3907,Otonycteris hemprichii,Bat
+3908,Otonycteris leucophaea,Bat
+3909,Otonyctomys hatti,Mouse
+3910,Otopteropus cartilagonodus,Bat
+3911,Otospermophilus atricapillus,Squirrel
+3912,Otospermophilus beecheyi,Ground Squirrel
+3913,Otospermophilus variegatus,Squirrel
+3914,Ototylomys chiapensis,Mouse
+3915,Ototylomys phyllotis,Mouse
+3916,Ourebia ourebi,Oribi
+3917,Ovibos moschatus,Muskox
+3918,Ovis ammon,Argali
+3919,Ovis aries,Sheep
+3920,Ovis canadensis,Bighorn Sheep
+3921,Ovis dalli,Sheep
+3922,Ovis gmelinii,Sheep
+3923,Ovis nivicola,Sheep
+3924,Ovis orientalis,Sheep
+3925,Ovis vignei,Sheep
+3926,Oxymycterus akodontius,Mouse
+3927,Oxymycterus amazonicus,Mouse
+3928,Oxymycterus dasytrichus,Mouse
+3929,Oxymycterus delator,Mouse
+3930,Oxymycterus hiska,Mouse
+3931,Oxymycterus hispidus,Mouse
+3932,Oxymycterus iheringi,Mouse
+3933,Oxymycterus inca,Mouse
+3934,Oxymycterus itapeby,Mouse
+3935,Oxymycterus josei,Mouse
+3936,Oxymycterus juliacae,Mouse
+3937,Oxymycterus nasutus,Mouse
+3938,Oxymycterus nigrifrons,Mouse
+3939,Oxymycterus paramensis,Mouse
+3940,Oxymycterus quaestor,Mouse
+3941,Oxymycterus rufus,Mouse
+3942,Oxymycterus wayku,Mouse
+3943,Oxymycterus willkaurco,Mouse
+3944,Ozimops beccarii,Bat
+3945,Ozimops cobourgianus,Bat
+3946,Ozimops halli,Bat
+3947,Ozimops kitcheneri,Bat
+3948,Ozimops loriae,Bat
+3949,Ozimops lumsdenae,Bat
+3950,Ozimops petersi,Bat
+3951,Ozimops planiceps,Bat
+3952,Ozimops ridei,Bat
+3953,Ozotoceros bezoarticus,Deer
+3954,Pachylemur jullyi,Lemur
+3955,Pachyuromys duprasi,Fat-tailed Gerbil
+3956,Paguma larvata,Civet
+3959,Palawanomys furvus,Mouse
+3961,Pan paniscus,Bonobo
+3962,Pan troglodytes,Chimpanzee
+3963,Panthera leo,Lion
+3964,Panthera onca,Jaguar
+3965,Panthera pardus,Leopard
+3966,Panthera spelaea,Cave Lion
+3967,Panthera tigris,Tiger
+3968,Panthera uncia,Snow Leopard
+3969,Pantholops hodgsonii,Tibetan Antelope
+3970,Papagomys armandvillei,Rat
+3971,Papio anubis,Baboon
+3972,Papio cynocephalus,Baboon
+3973,Papio hamadryas,Baboon
+3974,Papio kindae,Monkey
+3975,Papio papio,Baboon
+3976,Papio ursinus,Baboon
+3977,Pappogeomys alcorni,Gopher
+3978,Pappogeomys bulleri,Gopher
+3979,Parablarinella griselda,Mouse
+3980,Paracrocidura maxima,Shrew
+3981,Paracrocidura schoutedeni,Shrew
+3983,Paradipus ctenodactylus,Jerboa
+3984,Paradoxurus hermaphroditus,Civet
+3985,Paradoxurus jerdoni,Civet
+3986,Paradoxurus montanus,Civet
+3987,Paradoxurus musangus,Civet
+3988,Paradoxurus zeylonensis,Civet
+3989,Paraechinus aethiopicus,Hedgehog
+3990,Paraechinus hypomelas,Hedgehog
+3991,Paraechinus micropus,Hedgehog
+3992,Paraechinus nudiventris,Hedgehog
+3993,Paragalago cocos,Bushbaby
+3994,Paragalago granti,Bushbaby
+3995,Paragalago zanzibaricus,Bushbaby
+3996,Parahyaena brunnea,Brown Hyena
+3997,Parahydromys asper,Rat
+3998,Paraleptomys wilhelmina,Mouse
+3999,Paramelomys levipes,Mouse
+4000,Paramelomys lorentzii,Mouse
+4001,Paramelomys moncktoni,Mouse
+4002,Paramelomys platyops,Mouse
+4003,Paramelomys rubex,Mouse
+4004,Paramylodon harlani,Ground Sloth
+4006,Paranyctimene raptor,Bat
+4007,Parascalops breweri,Mole
+4008,Parascaptor leucura,Mole
+4009,Parasciurus arizonensis,Squirrel
+4010,Parasciurus nayaritensis,Squirrel
+4011,Parastrellus hesperus,Bat
+4012,Paratriaenops auritus,Bat
+4013,Paratriaenops furcula,Bat
+4014,Paraxerus alexandri,Squirrel
+4015,Paraxerus cepapi,Squirrel
+4016,Paraxerus ochraceus,Squirrel
+4017,Paraxerus vexillarius,Squirrel
+4018,Pardofelis marmorata,Cat
+4019,Paremballonura atrata,Bat
+4020,Paremballonura tiavato,Bat
+4022,Parotomys brantsii,Mouse
+4023,Parotomys littledalei,Mouse
+4028,Paynomys macronyx,Mouse
+4030,Pedetes capensis,Springhare
+4031,Pekania pennanti,Fisher
+4032,Pelea capreolus,Antelope
+4033,Pelomys campanae,Mouse
+4034,Pelomys fallax,Mouse
+4035,Pelomys isseli,Mouse
+4036,Pelomys minor,Mouse
+4037,Pennatomys nivalis,Mouse
+4038,Pentalagus furnessi,Rabbit
+4039,Penthetor lucasii,Bat
+4040,Peponocephala electra,Whale
+4041,Perameles bougainville,Bandicoot
+4042,Perameles eremiana,Bandicoot
+4043,Perameles gunnii,Bandicoot
+4044,Perameles nasuta,Bandicoot
+4045,Perameles notina,Bandicoot
+4046,Perameles pallescens,Bandicoot
+4047,Perimyotis subflavus,Bat
+4048,Perodicticus potto,Potto
+4049,Perognathus alticolus,Mouse
+4050,Perognathus amplus,Mouse
+4051,Perognathus fasciatus,Mouse
+4052,Perognathus flavescens,Mouse
+4053,Perognathus flavus,Mouse
+4054,Perognathus inornatus,Mouse
+4055,Perognathus longimembris,Mouse
+4056,Perognathus merriami,Mouse
+4057,Perognathus mollipilosus,Mouse
+4058,Perognathus parvus,Mouse
+4059,Peromyscus amplus,Mouse
+4060,Peromyscus arcticus,Mouse
+4061,Peromyscus attwateri,Mouse
+4062,Peromyscus avius,Mouse
+4063,Peromyscus aztecus,Mouse
+4064,Peromyscus beatae,Mouse
+4065,Peromyscus boylii,Mouse
+4066,Peromyscus californicus,Mouse
+4067,Peromyscus caniceps,Mouse
+4068,Peromyscus carletoni,Mouse
+4069,Peromyscus carolpattonae,Mouse
+4070,Peromyscus collatus,Mouse
+4071,Peromyscus collinus,Mouse
+4072,Peromyscus crinitus,Mouse
+4073,Peromyscus dickeyi,Mouse
+4074,Peromyscus difficilis,Mouse
+4075,Peromyscus ensinki,Mouse
+4076,Peromyscus eremicus,Mouse
+4077,Peromyscus eva,Mouse
+4078,Peromyscus felipensis,Mouse
+4079,Peromyscus fraterculus,Mouse
+4080,Peromyscus furvus,Mouse
+4081,Peromyscus gambelii,Mouse
+4082,Peromyscus gossypinus,Mouse
+4083,Peromyscus grandis,Mouse
+4084,Peromyscus gratus,Mouse
+4085,Peromyscus greenbaumi,Mouse
+4086,Peromyscus guardia,Mouse
+4087,Peromyscus guatemalensis,Mouse
+4088,Peromyscus gymnotis,Mouse
+4089,Peromyscus hooperi,Mouse
+4090,Peromyscus hylocetes,Mouse
+4091,Peromyscus interparietalis,Mouse
+4092,Peromyscus keeni,Mouse
+4093,Peromyscus kilpatricki,Mouse
+4094,Peromyscus labecula,Mouse
+4095,Peromyscus laceianus,Mouse
+4096,Peromyscus leucopus,Mouse
+4097,Peromyscus levipes,Mouse
+4098,Peromyscus madrensis,Mouse
+4099,Peromyscus maniculatus,Mouse
+4100,Peromyscus mayensis,Mouse
+4101,Peromyscus megalops,Mouse
+4102,Peromyscus mekisturus,Mouse
+4103,Peromyscus melanocarpus,Mouse
+4104,Peromyscus melanophrys,Mouse
+4105,Peromyscus melanotis,Mouse
+4106,Peromyscus merriami,Mouse
+4107,Peromyscus mexicanus,Mouse
+4108,Peromyscus nasutus,Mouse
+4109,Peromyscus nudipes,Mouse
+4110,Peromyscus ochraventer,Mouse
+4111,Peromyscus pectoralis,Mouse
+4112,Peromyscus pembertoni,Mouse
+4113,Peromyscus perfulvus,Mouse
+4114,Peromyscus polionotus,Mouse
+4115,Peromyscus polius,Mouse
+4116,Peromyscus pseudocrinitus,Mouse
+4117,Peromyscus purepechus,Mouse
+4118,Peromyscus sagax,Mouse
+4119,Peromyscus schmidlyi,Mouse
+4120,Peromyscus sejugis,Mouse
+4121,Peromyscus simulus,Mouse
+4122,Peromyscus slevini,Mouse
+4123,Peromyscus sonoriensis,Mouse
+4124,Peromyscus spicilegus,Mouse
+4125,Peromyscus stephani,Mouse
+4126,Peromyscus stirtoni,Mouse
+4127,Peromyscus truei,Mouse
+4128,Peromyscus winkelmanni,Mouse
+4129,Peromyscus yucatanicus,Mouse
+4130,Peromyscus zarhynchus,Mouse
+4131,Peropteryx kappleri,Bat
+4132,Peropteryx leucoptera,Bat
+4133,Peropteryx macrotis,Bat
+4134,Peropteryx pallidoptera,Bat
+4135,Peropteryx trinitatis,Bat
+4136,Peroryctes broadbenti,Bandicoot
+4137,Peroryctes raffrayana,Bandicoot
+4138,Petaurillus kinlochii,Flying Squirrel
+4139,Petaurista albiventer,Flying Squirrel
+4140,Petaurista alborufus,Flying Squirrel
+4141,Petaurista caniceps,Flying Squirrel
+4142,Petaurista elegans,Flying Squirrel
+4143,Petaurista grandis,Flying Squirrel
+4144,Petaurista hainana,Flying Squirrel
+4145,Petaurista lena,Flying Squirrel
+4146,Petaurista leucogenys,Flying Squirrel
+4147,Petaurista petaurista,Flying Squirrel
+4148,Petaurista philippensis,Flying Squirrel
+4149,Petaurista xanthotis,Flying Squirrel
+4150,Petaurista yunanensis,Flying Squirrel
+4151,Petauroides volans,Glider
+4152,Petaurus abidi,Glider
+4153,Petaurus ariel,Glider
+4154,Petaurus australis,Glider
+4155,Petaurus breviceps,Sugar Glider
+4156,Petaurus gracilis,Glider
+4157,Petaurus norfolcensis,Glider
+4158,Petaurus notatus,Sugar Glider
+4159,Petaurus papuanus,Glider
+4160,Petinomys fuscocapillus,Flying Squirrel
+4161,Petinomys setosus,Flying Squirrel
+4162,Petrodromus tetradactylus,Elephant Shrew
+4163,Petrogale assimilis,Wallaby
+4164,Petrogale brachyotis,Wallaby
+4165,Petrogale burbidgei,Wallaby
+4166,Petrogale coenensis,Wallaby
+4167,Petrogale concinna,Rock Wallaby
+4168,Petrogale godmani,Wallaby
+4169,Petrogale herberti,Wallaby
+4170,Petrogale inornata,Wallaby
+4171,Petrogale lateralis,Wallaby
+4172,Petrogale mareeba,Wallaby
+4173,Petrogale penicillata,Wallaby
+4174,Petrogale persephone,Rock Wallaby
+4175,Petrogale purpureicollis,Rock Wallaby
+4176,Petrogale rothschildi,Wallaby
+4177,Petrogale sharmani,Wallaby
+4178,Petrogale wilkinsi,Wallaby
+4179,Petrogale xanthopus,Rock Wallaby
+4181,Petromyscus collinus,Mouse
+4182,Petromyscus monticularis,Mouse
+4184,Phacochoerus aethiopicus,Warthog
+4185,Phacochoerus africanus,Warthog
+4186,Phaenomys ferrugineus,Mouse
+4187,Phalanger carmelitae,Possum
+4188,Phalanger gymnotis,Possum
+4189,Phalanger lullulae,Possum
+4190,Phalanger maculatus,Cuscus
+4191,Phalanger matanim,Possum
+4192,Phalanger orientalis,Cuscus
+4193,Phalanger sericeus,Possum
+4194,Phalanger vestitus,Possum
+4195,Phaner electromontis,Lemur
+4196,Phaner furcifer,Lemur
+4198,Phaner parienti,Lemur
+4199,Phascogale calura,Red-tailed Phascogale
+4201,Phascogale tapoatafa,Brush-tailed Phascogale
+4202,Phascolarctos cinereus,Koala
+4205,Phataginus tetradactyla,Pangolin
+4206,Phataginus tricuspis,Pangolin
+4207,Phenacomys intermedius,Mouse
+4208,Phenacomys ungava,Mouse
+4209,Philander andersoni,Opossum
+4210,Philander canus,Opossum
+4211,Philander frenatus,Opossum
+4212,Philander mcilhennyi,Opossum
+4213,Philander melanurus,Opossum
+4214,Philander nigratus,Opossum
+4215,Philander opossum,Opossum
+4216,Philander pallidus,Opossum
+4217,Philander pebas,Opossum
+4218,Philander quica,Opossum
+4219,Philantomba maxwellii,Duiker
+4220,Philantomba monticola,Duiker
+4222,Philetor brachypterus,Bat
+4223,Phloeomys cumingi,Rat
+4224,Phloeomys pallidus,Rat
+4225,Phoca fasciata,Seal
+4226,Phoca groenlandica,Harp Seal
+4227,Phoca largha,Seal
+4228,Phoca vitulina,Seal
+4229,Phocarctos hookeri,Seal
+4230,Phocoena dioptrica,Porpoise
+4231,Phocoena phocoena,Harbor Porpoise
+4232,Phocoena sinus,Vaquita
+4233,Phocoena spinipinnis,Porpoise
+4234,Phocoenoides dalli,Porpoise
+4235,Phodopus campbelli,Hamster
+4236,Phodopus roborovskii,Hamster
+4237,Phodopus sungorus,Dwarf Hamster
+4238,Phoniscus jagorii,Bat
+4239,Phylloderma stenops,Bat
+4243,Phyllomys dasythrix,Mouse
+4246,Phyllomys lundi,Mouse
+4252,Phyllonycteris aphylla,Bat
+4253,Phyllonycteris obtusa,Bat
+4254,Phyllonycteris poeyi,Bat
+4255,Phyllops falcatus,Bat
+4256,Phyllostomus discolor,Bat
+4257,Phyllostomus elongatus,Bat
+4258,Phyllostomus hastatus,Bat
+4259,Phyllostomus latifolius,Bat
+4260,Phyllotis alisosiensis,Mouse
+4261,Phyllotis amicus,Mouse
+4262,Phyllotis andium,Mouse
+4263,Phyllotis anitae,Mouse
+4264,Phyllotis bonariensis,Mouse
+4265,Phyllotis caprinus,Mouse
+4266,Phyllotis darwinii,Mouse
+4267,Phyllotis definitus,Mouse
+4268,Phyllotis gerbillus,Mouse
+4269,Phyllotis haggardi,Mouse
+4270,Phyllotis limatus,Mouse
+4271,Phyllotis magister,Mouse
+4272,Phyllotis osgoodi,Mouse
+4273,Phyllotis osilae,Mouse
+4274,Phyllotis pearsoni,Mouse
+4275,Phyllotis rupestris,Mouse
+4276,Phyllotis stenops,Mouse
+4277,Phyllotis vaccarum,Mouse
+4278,Phyllotis wolffsohni,Mouse
+4279,Phyllotis xanthopygus,Mouse
+4280,Physeter macrocephalus,Sperm Whale
+4281,Piliocolobus badius,Monkey
+4282,Piliocolobus foai,Monkey
+4283,Piliocolobus gordonorum,Monkey
+4284,Piliocolobus kirkii,Monkey
+4285,Piliocolobus pennantii,Monkey
+4286,Piliocolobus preussi,Monkey
+4287,Piliocolobus rufomitratus,Monkey
+4288,Piliocolobus tephrosceles,Monkey
+4289,Piliocolobus tholloni,Monkey
+4290,Pipanacoctomys aureus,Mouse
+4291,Pipistrellus abramus,Bat
+4292,Pipistrellus ceylonicus,Bat
+4293,Pipistrellus coromandra,Bat
+4294,Pipistrellus dhofarensis,Bat
+4295,Pipistrellus endoi,Bat
+4296,Pipistrellus hanaki,Bat
+4297,Pipistrellus hesperidus,Bat
+4298,Pipistrellus javanicus,Bat
+4299,Pipistrellus kuhlii,Bat
+4300,Pipistrellus maderensis,Bat
+4301,Pipistrellus nanulus,Bat
+4302,Pipistrellus nathusii,Bat
+4303,Pipistrellus paterculus,Bat
+4304,Pipistrellus pipistrellus,Bat
+4305,Pipistrellus pygmaeus,Bat
+4306,Pipistrellus raceyi,Bat
+4307,Pipistrellus rusticus,Bat
+4308,Pipistrellus stenopterus,Bat
+4309,Pipistrellus tenuis,Bat
+4310,Pithecheir melanurus,Monkey
+4311,Pithecheir parva,Monkey
+4312,Pithecia aequatorialis,Monkey
+4313,Pithecia albicans,Monkey
+4314,Pithecia chrysocephala,Monkey
+4315,Pithecia hirsuta,Monkey
+4316,Pithecia irrorata,Monkey
+4317,Pithecia mittermeieri,Monkey
+4318,Pithecia monachus,Monkey
+4319,Pithecia pissinatti,Monkey
+4320,Pithecia pithecia,Monkey
+4321,Pithecia vanzolinii,Monkey
+4326,Planigale maculata,Mouse
+4327,Planigale novaeguineae,Mouse
+4329,Planigale tenuirostris,Mouse
+4331,Platalina genovensium,Bat
+4332,Platanista gangetica,River Dolphin
+4333,Platanista indi,Dolphin
+4334,Platanista minor,Dolphin
+4335,Platygonus compressus,Peccary
+4336,Platyrrhinus albericoi,Bat
+4337,Platyrrhinus angustirostris,Bat
+4338,Platyrrhinus aurarius,Bat
+4339,Platyrrhinus brachycephalus,Bat
+4340,Platyrrhinus chocoensis,Bat
+4341,Platyrrhinus dorsalis,Bat
+4342,Platyrrhinus fusciventris,Bat
+4343,Platyrrhinus guianensis,Bat
+4344,Platyrrhinus helleri,Bat
+4345,Platyrrhinus incarum,Bat
+4346,Platyrrhinus infuscus,Bat
+4347,Platyrrhinus ismaeli,Bat
+4348,Platyrrhinus lineatus,Bat
+4349,Platyrrhinus masu,Bat
+4350,Platyrrhinus matapalensis,Bat
+4351,Platyrrhinus recifinus,Bat
+4352,Platyrrhinus umbratus,Bat
+4353,Platyrrhinus vittatus,Bat
+4354,Plecotus auritus,Bat
+4355,Plecotus austriacus,Bat
+4356,Plecotus balensis,Bat
+4357,Plecotus christii,Bat
+4358,Plecotus gaisleri,Bat
+4359,Plecotus gobiensis,Bat
+4360,Plecotus homochrous,Bat
+4361,Plecotus kolombatovici,Bat
+4362,Plecotus kozlovi,Bat
+4363,Plecotus macrobullaris,Bat
+4364,Plecotus ognevi,Bat
+4365,Plecotus sacrimontis,Bat
+4366,Plecotus sardus,Bat
+4367,Plecotus strelkovi,Bat
+4368,Plecotus teneriffae,Bat
+4369,Plecotus turkmenicus,Bat
+4370,Plecotus wardi,Bat
+4371,Plecturocebus bernhardi,Monkey
+4372,Plecturocebus brunneus,Monkey
+4373,Plecturocebus caligatus,Monkey
+4374,Plecturocebus cinerascens,Monkey
+4375,Plecturocebus cupreus,Monkey
+4376,Plecturocebus discolor,Monkey
+4377,Plecturocebus donacophilus,Monkey
+4378,Plecturocebus dubius,Monkey
+4379,Plecturocebus grovesi,Monkey
+4380,Plecturocebus hoffmannsi,Monkey
+4381,Plecturocebus miltoni,Monkey
+4382,Plecturocebus moloch,Monkey
+4383,Plecturocebus oenanthe,Monkey
+4384,Plecturocebus toppini,Monkey
+4385,Plecturocebus vieirai,Monkey
+4386,Plerotes anchietae,Bat
+4389,Podomys floridanus,Mouse
+4390,Podoxymys roraimae,Mouse
+4392,Poelagus marjorita,Rabbit
+4393,Pogonomelomys mayeri,Mouse
+4394,Pogonomys loriae,Mouse
+4395,Pogonomys macrourus,Mouse
+4396,Pogonomys mollipilosus,Mouse
+4397,Pogonomys sylvestris,Mouse
+4399,Poliocitellus franklinii,Ground Squirrel
+4400,Pongo abelii,Orangutan
+4401,Pongo pygmaeus,Orangutan
+4402,Pongo tapanuliensis,Orangutan
+4403,Pontoporia blainvillei,Dolphin
+4404,Porcula salvania,Pig
+4405,Potamochoerus larvatus,Bushpig
+4406,Potamochoerus porcus,Red River Hog
+4407,Potamogale velox,Otter Shrew
+4411,Potorous tridactylus,Rat-kangaroo
+4412,Potos flavus,Kinkajou
+4413,Praomys coetzeei,Mouse
+4414,Praomys daltoni,Mouse
+4415,Praomys degraaffi,Mouse
+4416,Praomys derooi,Mouse
+4417,Praomys erythroleucus,Mouse
+4418,Praomys fumatus,Mouse
+4419,Praomys hartwigi,Mouse
+4420,Praomys jacksoni,Mouse
+4421,Praomys lukolelae,Mouse
+4422,Praomys mattheyi,Mouse
+4423,Praomys minor,Mouse
+4424,Praomys misonnei,Mouse
+4425,Praomys morio,Mouse
+4426,Praomys mutoni,Mouse
+4427,Praomys obscurus,Mouse
+4428,Praomys petteri,Mouse
+4429,Praomys rostratus,Mouse
+4430,Praomys taitae,Mouse
+4431,Praomys tullbergi,Mouse
+4432,Presbytis bicolor,Monkey
+4433,Presbytis chrysomelas,Monkey
+4434,Presbytis comata,Monkey
+4435,Presbytis femoralis,Monkey
+4436,Presbytis frontata,Monkey
+4437,Presbytis hosei,Monkey
+4438,Presbytis melalophos,Monkey
+4439,Presbytis potenziani,Monkey
+4440,Presbytis rubicunda,Monkey
+4441,Presbytis senex,Monkey
+4442,Presbytis siberu,Monkey
+4443,Presbytis sumatrana,Monkey
+4444,Presbytis thomasi,Monkey
+4445,Priapomys leonardi,Mouse
+4446,Priodontes maximus,Giant Armadillo
+4447,Prionailurus bengalensis,Leopard Cat
+4448,Prionailurus iriomotensis,Iriomote Cat
+4449,Prionailurus planiceps,Flat-headed Cat
+4450,Prionailurus rubiginosus,Rusty-spotted Cat
+4451,Prionailurus viverrinus,Fishing Cat
+4454,Procapra gutturosa,Gazelle
+4455,Procapra picticaudata,Tibetan Gazelle
+4456,Procapra przewalskii,Przewalski's Gazelle
+4457,Procavia capensis,Hyrax
+4458,Procavia johnstoni,Hyrax
+4459,Procolobus verus,Monkey
+4460,Procyon cancrivorus,Raccoon
+4461,Procyon lotor,Raccoon
+4462,Procyon minor,Raccoon
+4463,Procyon pygmaeus,Raccoon
+4464,Proechimys brevicauda,Rat
+4465,Proechimys cuvieri,Rat
+4466,Proechimys echinothrix,Rat
+4467,Proechimys gardneri,Mouse
+4468,Proechimys goeldii,Mouse
+4469,Proechimys guairae,Mouse
+4470,Proechimys gularis,Mouse
+4471,Proechimys guyannensis,Mouse
+4472,Proechimys hoplomyoides,Mouse
+4473,Proechimys kulinae,Mouse
+4474,Proechimys longicaudatus,Mouse
+4475,Proechimys mincae,Mouse
+4476,Proechimys oris,Mouse
+4477,Proechimys pattoni,Mouse
+4478,Proechimys poliopus,Mouse
+4479,Proechimys quadruplicatus,Mouse
+4480,Proechimys roberti,Mouse
+4481,Proechimys semispinosus,Rat
+4482,Proechimys simonsi,Mouse
+4483,Proechimys steerei,Rat
+4484,Proechimys trinitatis,Mouse
+4485,Proedromys bedfordi,Mouse
+4486,Profelis aurata,Cat
+4488,Prolemur simus,Lemur
+4489,Prometheomys schaposchnikovi,Mouse
+4490,Promops centralis,Bat
+4491,Promops davisoni,Bat
+4492,Promops nasutus,Bat
+4493,Pronolagus crassicaudatus,Rabbit
+4494,Pronolagus randensis,Rabbit
+4495,Pronolagus rupestris,Rabbit
+4496,Pronolagus saundersiae,Rabbit
+4497,Propithecus candidus,Lemur
+4498,Propithecus coquereli,Lemur
+4499,Propithecus deckenii,Sifaka
+4500,Propithecus diadema,Sifaka
+4501,Propithecus edwardsi,Lemur
+4502,Propithecus perrieri,Lemur
+4503,Propithecus tattersalli,Lemur
+4504,Propithecus verreauxi,Lemur
+4505,Prosciurillus abstrusus,Squirrel
+4506,Prosciurillus leucomus,Squirrel
+4507,Prosciurillus murinus,Squirrel
+4508,Prosciurillus weberi,Squirrel
+4509,Proteles cristata,Aardwolf
+4510,Proteles septentrionalis,Aardwolf
+4511,Protemnodon anak,Kangaroo
+4512,Protoxerus stangeri,Squirrel
+4513,Psammomys obesus,Mouse
+4514,Psammomys vexillaris,Mouse
+4521,Pseudocheirus occidentalis,Possum
+4522,Pseudocheirus peregrinus,Possum
+4523,Pseudochirops albertisii,Possum
+4524,Pseudochirops archeri,Possum
+4525,Pseudochirops corinnae,Possum
+4526,Pseudochirops cupreus,Possum
+4527,Pseudochirops dahlii,Possum
+4528,Pseudochirulus canescens,Possum
+4529,Pseudochirulus caroli,Possum
+4532,Pseudochirulus mayeri,Possum
+4533,Pseudohydromys ellermani,Mouse
+4534,Pseudohydromys musseri,Mouse
+4536,Pseudois nayaur,Blue Sheep
+4537,Pseudois schaeferi,Blue Sheep
+4538,Pseudomys albocinereus,Mouse
+4539,Pseudomys apodemoides,Mouse
+4540,Pseudomys australis,Mouse
+4541,Pseudomys bolami,Mouse
+4542,Pseudomys calabyi,Mouse
+4543,Pseudomys chapmani,Mouse
+4544,Pseudomys delicatulus,Mouse
+4545,Pseudomys desertor,Mouse
+4546,Pseudomys fieldi,Mouse
+4547,Pseudomys fumeus,Mouse
+4548,Pseudomys gouldii,Mouse
+4549,Pseudomys gracilicaudatus,Mouse
+4550,Pseudomys hermannsburgensis,Mouse
+4551,Pseudomys higginsi,Mouse
+4552,Pseudomys johnsoni,Mouse
+4553,Pseudomys laborifex,Mouse
+4554,Pseudomys nanus,Mouse
+4555,Pseudomys novaehollandiae,Mouse
+4556,Pseudomys occidentalis,Mouse
+4557,Pseudomys oralis,Mouse
+4558,Pseudomys patrius,Mouse
+4559,Pseudomys pilligaensis,Mouse
+4560,Pseudomys shortridgei,Mouse
+4562,Pseudorca crassidens,False Killer Whale
+4563,Pseudoromicia brunnea,Bat
+4564,Pseudoromicia isabella,Bat
+4565,Pseudoromicia kityoi,Bat
+4566,Pseudoromicia mbamminkom,Bat
+4567,Pseudoromicia nyanza,Bat
+4568,Pseudoromicia principis,Bat
+4569,Pseudoromicia rendalli,Bat
+4570,Pseudoromicia roseveari,Bat
+4571,Pseudoromicia tenuipinnis,Bat
+4573,Pseudoryzomys simplex,Mouse
+4574,Pseudosoriculus fumidus,Shrew
+4575,Ptenochirus jagorii,Bat
+4576,Ptenochirus minor,Bat
+4577,Ptenochirus wetmorei,Bat
+4578,Pteralopex atrata,Bat
+4579,Pteralopex taki,Bat
+4580,Pteromys momonga,Flying Squirrel
+4581,Pteromys volans,Flying Squirrel
+4582,Pteromyscus pulverulentus,Squirrel
+4583,Pteronotus alitonus,Bat
+4584,Pteronotus davyi,Bat
+4585,Pteronotus fuliginosus,Bat
+4586,Pteronotus fulvus,Bat
+4587,Pteronotus gymnonotus,Bat
+4588,Pteronotus macleayii,Bat
+4589,Pteronotus mesoamericanus,Bat
+4590,Pteronotus parnellii,Bat
+4591,Pteronotus personatus,Bat
+4592,Pteronotus psilotis,Bat
+4593,Pteronotus pusillus,Bat
+4594,Pteronotus quadridens,Bat
+4595,Pteronotus rubiginosus,Bat
+4596,Pteronura brasiliensis,Giant Otter
+4597,Pteropus admiralitatum,Bat
+4598,Pteropus aldabrensis,Bat
+4599,Pteropus alecto,Bat
+4600,Pteropus anetianus,Bat
+4601,Pteropus caniceps,Bat
+4602,Pteropus capistratus,Bat
+4603,Pteropus chrysoproctus,Bat
+4604,Pteropus cognatus,Bat
+4605,Pteropus conspicillatus,Bat
+4606,Pteropus dasymallus,Bat
+4607,Pteropus faunulus,Bat
+4608,Pteropus fundatus,Bat
+4609,Pteropus gilliardi,Bat
+4610,Pteropus griseus,Bat
+4611,Pteropus hypomelanus,Bat
+4612,Pteropus livingstonii,Bat
+4613,Pteropus lombocensis,Bat
+4614,Pteropus lylei,Bat
+4615,Pteropus macrotis,Bat
+4616,Pteropus mahaganus,Bat
+4617,Pteropus mariannus,Bat
+4618,Pteropus medius,Bat
+4619,Pteropus melanopogon,Bat
+4620,Pteropus melanotus,Bat
+4621,Pteropus molossinus,Bat
+4622,Pteropus neohibernicus,Bat
+4623,Pteropus niger,Bat
+4624,Pteropus nitendiensis,Bat
+4625,Pteropus ocularis,Bat
+4626,Pteropus ornatus,Bat
+4627,Pteropus pelagicus,Bat
+4628,Pteropus pelewensis,Bat
+4629,Pteropus personatus,Bat
+4630,Pteropus pohlei,Bat
+4631,Pteropus poliocephalus,Bat
+4632,Pteropus pselaphon,Bat
+4633,Pteropus pumilus,Bat
+4634,Pteropus rayneri,Bat
+4635,Pteropus rennelli,Bat
+4636,Pteropus rodricensis,Bat
+4637,Pteropus rufus,Bat
+4638,Pteropus samoensis,Bat
+4639,Pteropus scapulatus,Bat
+4640,Pteropus seychellensis,Bat
+4641,Pteropus speciosus,Bat
+4642,Pteropus temminckii,Bat
+4643,Pteropus tokudae,Bat
+4644,Pteropus tonganus,Bat
+4645,Pteropus tuberculatus,Bat
+4646,Pteropus ualanus,Bat
+4647,Pteropus vampyrus,Bat
+4648,Pteropus vetulus,Bat
+4649,Pteropus voeltzkowi,Bat
+4650,Pteropus woodfordi,Bat
+4651,Ptilocercus lowii,Tree Shrew
+4652,Pudu mephistophiles,Pudu
+4653,Pudu puda,Pudu
+4654,Puma concolor,Cougar
+4655,Punomys kofordi,Mouse
+4656,Punomys lemminus,Mouse
+4657,Pusa caspica,Caspian Seal
+4658,Pusa hispida,Seal
+4659,Pusa saimensis,Seal
+4660,Pusa sibirica,Seal
+4661,Pygathrix cinerea,Monkey
+4662,Pygathrix nemaeus,Monkey
+4663,Pygathrix nigripes,Monkey
+4664,Pygeretmus platyurus,Jerboa
+4665,Pygeretmus pumilio,Jerboa
+4666,Pygeretmus shitkovi,Jerboa
+4667,Pygoderma bilabiatum,Bat
+4668,Rangifer tarandus,Reindeer
+4669,Raphicerus campestris,Steenbok
+4670,Raphicerus melanotis,Antelope
+4671,Raphicerus sharpei,Sharpe's Grysbok
+4672,Rattus andamanensis,Rat
+4673,Rattus annandalei,Rat
+4674,Rattus argentiventer,Rat
+4675,Rattus baluensis,Rat
+4676,Rattus colletti,Rat
+4677,Rattus detentus,Rat
+4678,Rattus everetti,Rat
+4679,Rattus exulans,Rat
+4680,Rattus facetus,Rat
+4681,Rattus flavipectus,Rat
+4682,Rattus fuscipes,Rat
+4683,Rattus giluwensis,Rat
+4684,Rattus hoffmanni,Rat
+4685,Rattus hoogerwerfi,Rat
+4686,Rattus korinchi,Rat
+4687,Rattus leucopus,Rat
+4688,Rattus losea,Rat
+4689,Rattus lutreolus,Rat
+4690,Rattus macleari,Rat
+4691,Rattus mindorensis,Rat
+4692,Rattus moluccarius,Rat
+4693,Rattus montanus,Rat
+4694,Rattus mordax,Rat
+4695,Rattus morotaiensis,Rat
+4696,Rattus nativitatis,Rat
+4697,Rattus niobe,Rat
+4698,Rattus nitidus,Rat
+4699,Rattus norvegicus,Rat
+4700,Rattus novaeguineae,Rat
+4701,Rattus praetor,Rat
+4702,Rattus pyctoris,Rat
+4703,Rattus ranjiniae,Rat
+4704,Rattus rattus,Rat
+4705,Rattus sakeratensis,Rat
+4706,Rattus satarae,Rat
+4707,Rattus sordidus,Rat
+4708,Rattus steini,Rat
+4709,Rattus tanezumi,Rat
+4710,Rattus timorensis,Rat
+4711,Rattus tiomanicus,Rat
+4712,Rattus tunneyi,Rat
+4713,Rattus verecundus,Rat
+4714,Rattus villosissimus,Rat
+4715,Rattus xanthurus,Rat
+4716,Ratufa affinis,Squirrel
+4717,Ratufa bicolor,Giant Squirrel
+4718,Ratufa indica,Giant Squirrel
+4719,Ratufa macroura,Squirrel
+4720,Redunca arundinum,Reedbuck
+4721,Redunca fulvorufula,Antelope
+4722,Redunca redunca,Antelope
+4723,Reithrodon auritus,Mouse
+4724,Reithrodon typicus,Mouse
+4725,Reithrodontomys bakeri,Mouse
+4726,Reithrodontomys brevirostris,Mouse
+4727,Reithrodontomys cherrii,Mouse
+4728,Reithrodontomys chrysopsis,Mouse
+4729,Reithrodontomys creper,Mouse
+4730,Reithrodontomys darienensis,Mouse
+4731,Reithrodontomys fulvescens,Mouse
+4732,Reithrodontomys garichensis,Mouse
+4733,Reithrodontomys gracilis,Mouse
+4734,Reithrodontomys hirsutus,Mouse
+4735,Reithrodontomys humulis,Mouse
+4736,Reithrodontomys megalotis,Mouse
+4737,Reithrodontomys mexicanus,Mouse
+4738,Reithrodontomys microdon,Mouse
+4739,Reithrodontomys montanus,Mouse
+4740,Reithrodontomys raviventris,Mouse
+4741,Reithrodontomys spectabilis,Mouse
+4742,Reithrodontomys sumichrasti,Mouse
+4743,Reithrodontomys tenuirostris,Mouse
+4744,Reithrodontomys wagneri,Mouse
+4745,Reithrodontomys zacatecae,Mouse
+4746,Rhabdomys bechuanae,Mouse
+4747,Rhabdomys chakae,Mouse
+4748,Rhabdomys dilectus,Mouse
+4749,Rhabdomys intermedius,Mouse
+4750,Rhabdomys pumilio,Mouse
+4751,Rhagomys jequitiba,Mouse
+4752,Rhagomys longilingua,Mouse
+4753,Rhagomys rufescens,Mouse
+4754,Rheithrosciurus macrotis,Squirrel
+4755,Rheomys mexicanus,Mouse
+4756,Rheomys raptor,Mouse
+4757,Rheomys thomasi,Mouse
+4758,Rhinoceros sondaicus,Javan Rhinoceros
+4759,Rhinoceros unicornis,Indian Rhinoceros
+4760,Rhinolophus acuminatus,Bat
+4761,Rhinolophus affinis,Bat
+4762,Rhinolophus alcyone,Bat
+4763,Rhinolophus andamanensis,Bat
+4764,Rhinolophus arcuatus,Bat
+4765,Rhinolophus beddomei,Bat
+4766,Rhinolophus blasii,Bat
+4767,Rhinolophus bocharicus,Bat
+4768,Rhinolophus borneensis,Bat
+4769,Rhinolophus capensis,Bat
+4770,Rhinolophus celebensis,Bat
+4771,Rhinolophus chaseni,Bat
+4772,Rhinolophus chiewkweeae,Bat
+4773,Rhinolophus clivosus,Bat
+4774,Rhinolophus coelophyllus,Bat
+4775,Rhinolophus cognatus,Bat
+4776,Rhinolophus cornutus,Bat
+4777,Rhinolophus creaghi,Bat
+4778,Rhinolophus damarensis,Bat
+4779,Rhinolophus darlingi,Bat
+4780,Rhinolophus deckenii,Bat
+4781,Rhinolophus denti,Bat
+4782,Rhinolophus eloquens,Bat
+4783,Rhinolophus euryale,Bat
+4784,Rhinolophus euryotis,Bat
+4785,Rhinolophus ferrumequinum,Bat
+4786,Rhinolophus formosae,Bat
+4787,Rhinolophus francisi,Bat
+4788,Rhinolophus fumigatus,Bat
+4789,Rhinolophus gorongosae,Bat
+4790,Rhinolophus hildebrandti,Bat
+4791,Rhinolophus hilli,Bat
+4792,Rhinolophus hipposideros,Bat
+4793,Rhinolophus indorouxii,Bat
+4794,Rhinolophus inops,Bat
+4795,Rhinolophus inops/arcuatus,Bat
+4796,Rhinolophus inops/subrufus,Bat
+4797,Rhinolophus kahuzi,Bat
+4798,Rhinolophus landeri,Bat
+4799,Rhinolophus lepidus,Bat
+4800,Rhinolophus lobatus,Bat
+4801,Rhinolophus luctoides,Bat
+4802,Rhinolophus luctus,Bat
+4803,Rhinolophus mabuensis,Bat
+4804,Rhinolophus maclaudi,Bat
+4805,Rhinolophus macrotis,Bat
+4806,Rhinolophus malayanus,Bat
+4807,Rhinolophus marshalli,Bat
+4808,Rhinolophus megaphyllus,Bat
+4809,Rhinolophus mehelyi,Bat
+4810,Rhinolophus microglobosus,Bat
+4811,Rhinolophus monoceros,Bat
+4812,Rhinolophus monticolus,Bat
+4813,Rhinolophus morio,Bat
+4814,Rhinolophus mossambicus,Bat
+4815,Rhinolophus nippon,Bat
+4816,Rhinolophus osgoodi,Bat
+4817,Rhinolophus pearsonii,Bat
+4818,Rhinolophus perditus,Bat
+4819,Rhinolophus perniger,Bat
+4820,Rhinolophus philippinensis,Bat
+4821,Rhinolophus pumilus,Bat
+4822,Rhinolophus pusillus,Bat
+4823,Rhinolophus rex,Bat
+4824,Rhinolophus rhodesiae,Bat
+4825,Rhinolophus robinsoni,Bat
+4826,Rhinolophus rouxii,Bat
+4827,Rhinolophus rufus,Bat
+4828,Rhinolophus ruwenzorii,Bat
+4829,Rhinolophus sakejiensis,Bat
+4830,Rhinolophus sedulus,Bat
+4831,Rhinolophus shameli,Bat
+4832,Rhinolophus shortridgei,Bat
+4833,Rhinolophus siamensis,Bat
+4834,Rhinolophus simulator,Bat
+4835,Rhinolophus sinicus,Bat
+4836,Rhinolophus stheno,Bat
+4837,Rhinolophus subrufus,Bat
+4838,Rhinolophus subrufus/arcuatus,Bat
+4839,Rhinolophus swinnyi,Bat
+4840,Rhinolophus thailandensis,Bat
+4841,Rhinolophus thomasi,Bat
+4842,Rhinolophus trifoliatus,Bat
+4843,Rhinolophus virgo,Bat
+4844,Rhinolophus webalai,Bat
+4845,Rhinolophus willardi,Bat
+4846,Rhinolophus xinanzhongguoensis,Bat
+4847,Rhinolophus yonghoiseni,Bat
+4848,Rhinolophus yunanensis,Bat
+4849,Rhinonicteris aurantia,Bat
+4850,Rhinophylla alethina,Bat
+4851,Rhinophylla fischerae,Bat
+4852,Rhinophylla pumilio,Bat
+4853,Rhinopithecus avunculus,Monkey
+4854,Rhinopithecus bieti,Monkey
+4855,Rhinopithecus brelichi,Monkey
+4856,Rhinopithecus roxellana,Golden Snub-nosed Monkey
+4857,Rhinopithecus strykeri,Monkey
+4858,Rhinopoma cystops,Bat
+4859,Rhinopoma hadramauticum,Bat
+4860,Rhinopoma hardwickii,Bat
+4861,Rhinopoma macinnesi,Bat
+4862,Rhinopoma microphyllum,Bat
+4863,Rhinopoma muscatellum,Bat
+4864,Rhinosciurus laticaudatus,Shrew
+4865,Rhipidomys albujai,Mouse
+4866,Rhipidomys austrinus,Mouse
+4867,Rhipidomys cariri,Mouse
+4868,Rhipidomys emiliae,Mouse
+4869,Rhipidomys gardneri,Mouse
+4870,Rhipidomys ipukensis,Mouse
+4871,Rhipidomys itoan,Mouse
+4872,Rhipidomys latimanus,Mouse
+4873,Rhipidomys leucodactylus,Mouse
+4874,Rhipidomys macconnelli,Mouse
+4875,Rhipidomys macrurus,Mouse
+4876,Rhipidomys mastacalis,Mouse
+4877,Rhipidomys nitela,Mouse
+4878,Rhipidomys scandens,Mouse
+4879,Rhipidomys tribei,Mouse
+4880,Rhipidomys venezuelae,Mouse
+4881,Rhipidomys venustus,Mouse
+4882,Rhipidomys wetzeli,Mouse
+4883,Rhipidomys ybyrae,Mouse
+4884,Rhizomys pruinosus,Rat
+4885,Rhizomys sinensis,Rat
+4886,Rhizomys sumatrensis,Rat
+4887,Rhogeessa aenea,Bat
+4888,Rhogeessa bickhami,Bat
+4889,Rhogeessa genowaysi,Bat
+4890,Rhogeessa io,Bat
+4891,Rhogeessa menchuae,Bat
+4892,Rhogeessa mira,Bat
+4893,Rhogeessa parvula,Bat
+4894,Rhogeessa permutandis,Bat
+4895,Rhogeessa tumida,Bat
+4896,Rhogeessa velilla,Bat
+4897,Rhombomys opimus,Gerbil
+4898,Rhynchocyon chrysopygus,Elephant Shrew
+4899,Rhynchocyon cirnei,Elephant Shrew
+4900,Rhynchocyon petersi,Elephant Shrew
+4901,Rhynchocyon stuhlmanni,Elephant Shrew
+4902,Rhynchocyon udzungwensis,Elephant Shrew
+4903,Rhynchogale melleri,Meller's Mongoose
+4904,Rhyncholestes raphanurus,Shrew
+4906,Rhynchomys banahao,Mouse
+4907,Rhynchomys isarogensis,Mouse
+4908,Rhynchomys labo,Mouse
+4909,Rhynchomys soricoides,Mouse
+4910,Rhynchomys tapulao,Mouse
+4911,Rhynchonycteris naso,Bat
+4912,Rhyneptesicus nasutus,Bat
+4913,Romerolagus diazi,Rabbit
+4914,Rousettus aegyptiacus,Bat
+4915,Rousettus amplexicaudatus,Bat
+4916,Rousettus celebensis,Bat
+4917,Rousettus leschenaultii,Bat
+4918,Rousettus linduensis,Bat
+4919,Rousettus madagascariensis,Bat
+4920,Rousettus obliviosus,Bat
+4921,Rousettus spinalatus,Bat
+4922,Rubrisciurus rubriventer,Squirrel
+4923,Rucervus duvaucelii,Swamp Deer
+4924,Rucervus eldii,Eld's Deer
+4925,Rucervus schomburgki,Deer
+4926,Rungwecebus kipunji,Monkey
+4927,Rupicapra pyrenaica,Chamois
+4928,Rupicapra rupicapra,Chamois
+4929,Rusa alfredi,Deer
+4930,Rusa marianna,Deer
+4931,Rusa timorensis,Deer
+4932,Rusa unicolor,Sambar Deer
+4933,Ruwenzorisorex suncoides,Shrew
+4934,Saccolaimus flaviventris,Bat
+4935,Saccolaimus saccolaimus,Bat
+4936,Saccopteryx bilineata,Bat
+4937,Saccopteryx canescens,Bat
+4938,Saccopteryx gymnura,Bat
+4939,Saccopteryx leptura,Bat
+4940,Saccostomus campestris,Mouse
+4941,Saccostomus mashonae,Mouse
+4942,Saccostomus mearnsi,Mouse
+4943,Saccostomus umbriventer,Mouse
+4944,Sagmatias australis,Dolphin
+4945,Sagmatias cruciger,Dolphin
+4946,Sagmatias obliquidens,Dolphin
+4947,Sagmatias obscurus,Dolphin
+4948,Saguinus bicolor,Tamarin
+4949,Saguinus geoffroyi,Tamarin
+4950,Saguinus graellsi,Monkey
+4951,Saguinus imperator,Emperor Tamarin
+4952,Saguinus inustus,Monkey
+4953,Saguinus labiatus,Tamarin
+4954,Saguinus leucopus,Monkey
+4955,Saguinus martinsi,Monkey
+4956,Saguinus melanoleucus,Monkey
+4957,Saguinus midas,Monkey
+4958,Saguinus mystax,Tamarin
+4959,Saguinus niger,Monkey
+4960,Saguinus oedipus,Tamarin
+4961,Saguinus ursulus,Monkey
+4962,Saguinus weddelli,Monkey
+4963,Saiga tatarica,Saiga
+4964,Saimiri boliviensis,Monkey
+4965,Saimiri cassiquiarensis,Monkey
+4966,Saimiri macrodon,Monkey
+4967,Saimiri oerstedii,Monkey
+4968,Saimiri sciureus,Squirrel Monkey
+4969,Saimiri ustus,Monkey
+4970,Saimiri vanzolinii,Monkey
+4973,Salinomys delicatus,Mouse
+4974,Salpingotus crassicauda,Jerboa
+4975,Salpingotus kozlovi,Jerboa
+4976,Santamartamys rufodorsalis,Mouse
+4977,Sapajus apella,Capuchin Monkey
+4978,Sapajus cay,Monkey
+4979,Sapajus flavius,Monkey
+4980,Sapajus libidinosus,Monkey
+4981,Sapajus nigritus,Monkey
+4982,Sapajus xanthosternos,Monkey
+4983,Sarcophilus harrisii,Tasmanian Devil
+4984,Sauromys petrophilus,Bat
+4986,Scalopus aquaticus,Mole
+4987,Scapanulus oweni,Shrew
+4988,Scapanus anthonyi,Mole
+4989,Scapanus latimanus,Mole
+4990,Scapanus occultus,Mole
+4991,Scapanus orarius,Mole
+4992,Scapanus townsendii,Mole
+4993,Scapteromys aquaticus,Mouse
+4994,Scapteromys meridionalis,Mouse
+4995,Scapteromys tumidus,Mouse
+4996,Scaptochirus moschatus,Mole
+4997,Scaptonyx fusicauda,Mole
+5000,Scarturus elater,Jerboa
+5001,Scarturus euphraticus,Jerboa
+5002,Scarturus heptneri,Jerboa
+5003,Scarturus hotsoni,Jerboa
+5007,Scarturus vinogradovi,Jerboa
+5009,Sciurillus pusillus,Squirrel
+5010,Sciurotamias davidianus,Squirrel
+5011,Sciurotamias forresti,Squirrel
+5012,Sciurus aberti,Squirrel
+5013,Sciurus alleni,Squirrel
+5014,Sciurus anomalus,Squirrel
+5015,Sciurus aureogaster,Squirrel
+5016,Sciurus carolinensis,Squirrel
+5017,Sciurus deppei,Squirrel
+5018,Sciurus flammifer,Squirrel
+5019,Sciurus gilvigularis,Squirrel
+5020,Sciurus granatensis,Squirrel
+5021,Sciurus ignitus,Squirrel
+5022,Sciurus lis,Squirrel
+5023,Sciurus meridionalis,Squirrel
+5024,Sciurus niger,Squirrel
+5025,Sciurus oculatus,Squirrel
+5026,Sciurus variegatoides,Squirrel
+5027,Sciurus vulgaris,Squirrel
+5028,Scolomys juruaense,Mouse
+5029,Scolomys melanops,Mouse
+5030,Scolomys ucayalensis,Mouse
+5031,Scotinomys teguina,Mouse
+5032,Scotinomys xerampelinus,Mouse
+5033,Scotoecus albofuscus,Bat
+5034,Scotoecus hindei,Bat
+5035,Scotoecus hirundo,Bat
+5036,Scotomanes ornatus,Bat
+5037,Scotonycteris bergmansi,Bat
+5038,Scotonycteris occidentalis,Bat
+5039,Scotonycteris zenkeri,Bat
+5040,Scotophilus andrewreborii,Bat
+5041,Scotophilus borbonicus,Bat
+5042,Scotophilus dinganii,Bat
+5043,Scotophilus heathii,Bat
+5044,Scotophilus kuhlii,Bat
+5045,Scotophilus leucogaster,Bat
+5046,Scotophilus livingstonii,Bat
+5047,Scotophilus marovaza,Bat
+5048,Scotophilus nigrita,Bat
+5049,Scotophilus nucella,Bat
+5050,Scotophilus nux,Bat
+5051,Scotophilus robustus,Bat
+5052,Scotophilus tandrefana,Bat
+5053,Scotophilus trujilloi,Bat
+5054,Scotophilus viridis,Bat
+5055,Scotozous dormeri,Bat
+5056,Scutisorex congicus,Shrew
+5057,Scutisorex somereni,Shrew
+5058,Scutisorex thori,Shrew
+5059,Sekeetamys calurus,Mouse
+5061,Semnopithecus ajax,Monkey
+5062,Semnopithecus entellus,Monkey
+5063,Semnopithecus hector,Monkey
+5064,Semnopithecus hypoleucos,Monkey
+5065,Semnopithecus priam,Monkey
+5066,Semnopithecus schistaceus,Monkey
+5067,Serengetimys pernanus,Mouse
+5068,Setifer setosus,Hedgehog
+5069,Setirostris eleryi,Bat
+5070,Setonix brachyurus,Quokka
+5071,Sicista armenica,Mouse
+5072,Sicista betulina,Mouse
+5073,Sicista caucasica,Mouse
+5074,Sicista caudata,Mouse
+5075,Sicista cimlanica,Mouse
+5076,Sicista concolor,Mouse
+5077,Sicista kazbegica,Mouse
+5078,Sicista kluchorica,Mouse
+5079,Sicista lorigera,Mouse
+5080,Sicista napaea,Mouse
+5081,Sicista nordmanni,Mouse
+5082,Sicista severtzovi,Mouse
+5083,Sicista strandi,Mouse
+5084,Sicista subtilis,Mouse
+5085,Sicista tianschanica,Mouse
+5086,Sicista trizona,Mouse
+5087,Sigmodon alleni,Cotton Rat
+5088,Sigmodon alstoni,Mouse
+5089,Sigmodon arizonae,Mouse
+5090,Sigmodon fulviventer,Mouse
+5091,Sigmodon hirsutus,Rat
+5092,Sigmodon hispidus,Cotton Rat
+5093,Sigmodon leucotis,Mouse
+5094,Sigmodon mascotensis,Mouse
+5095,Sigmodon ochrognathus,Mouse
+5096,Sigmodon peruanus,Mouse
+5097,Sigmodon toltecus,Cotton Rat
+5098,Sigmodon zanjonensis,Mouse
+5099,Sigmodontomys alfari,Mouse
+5100,Sigmodontomys aphrastus,Mouse
+5101,Simias concolor,Monkey
+5102,Simosciurus nebouxii,Squirrel
+5103,Simosciurus stramineus,Squirrel
+5104,Simosthenurus occidentalis,Kangaroo
+5105,Sinomegaceros ordosianus,Deer
+5107,Smilodon fatalis,Saber-toothed Cat
+5108,Smilodon populator,Saber-toothed Tiger
+5110,Sminthopsis archeri,Mouse
+5111,Sminthopsis bindi,Mouse
+5113,Sminthopsis crassicaudata,Dunnart
+5114,Sminthopsis dolichura,Mouse
+5115,Sminthopsis douglasi,Mouse
+5116,Sminthopsis froggatti,Mouse
+5117,Sminthopsis gilberti,Mouse
+5118,Sminthopsis granulipes,Mouse
+5119,Sminthopsis griseoventer,Mouse
+5120,Sminthopsis hirtipes,Mouse
+5121,Sminthopsis leucopus,Mouse
+5122,Sminthopsis longicaudata,Mouse
+5123,Sminthopsis macroura,Dunnart
+5124,Sminthopsis murina,Mouse
+5125,Sminthopsis ooldea,Mouse
+5126,Sminthopsis psammophila,Dunnart
+5127,Sminthopsis stalkeri,Mouse
+5128,Sminthopsis virginiae,Dunnart
+5129,Sminthopsis youngsoni,Mouse
+5130,Smutsia gigantea,Pangolin
+5131,Smutsia temminckii,Pangolin
+5132,Solenodon paradoxus,Solenodon
+5136,Sommeromys macrorhinos,Mouse
+5137,Sooretamys angouya,Crab
+5138,Sorex albibarbis,Shrew
+5139,Sorex alpinus,Shrew
+5140,Sorex antinorii,Shrew
+5141,Sorex araneus,Shrew
+5142,Sorex arcticus,Shrew
+5143,Sorex arizonae,Shrew
+5144,Sorex asper,Shrew
+5145,Sorex bairdi,Shrew
+5146,Sorex bedfordiae,Shrew
+5147,Sorex bendirii,Shrew
+5148,Sorex buchariensis,Shrew
+5149,Sorex caecutiens,Shrew
+5150,Sorex camtschatica,Shrew
+5151,Sorex cansulus,Shrew
+5152,Sorex chiapensis,Shrew
+5153,Sorex cinereus,Shrew
+5154,Sorex coronatus,Shrew
+5155,Sorex cylindricauda,Shrew
+5156,Sorex daphaenodon,Shrew
+5157,Sorex dispar,Shrew
+5158,Sorex emarginatus,Shrew
+5159,Sorex excelsus,Shrew
+5160,Sorex fumeus,Shrew
+5161,Sorex gaspensis,Shrew
+5162,Sorex gracillimus,Shrew
+5163,Sorex granarius,Shrew
+5164,Sorex haydeni,Shrew
+5165,Sorex hosonoi,Shrew
+5166,Sorex hoyi,Shrew
+5167,Sorex hydrodromus,Shrew
+5168,Sorex isodon,Shrew
+5169,Sorex jacksoni,Shrew
+5170,Sorex leucogaster,Shrew
+5171,Sorex longirostris,Shrew
+5172,Sorex lyelli,Shrew
+5173,Sorex macrodon,Shrew
+5174,Sorex maritimensis,Shrew
+5175,Sorex milleri,Shrew
+5176,Sorex minutissimus,Shrew
+5177,Sorex minutus,Shrew
+5178,Sorex mirabilis,Shrew
+5179,Sorex monticolus,Shrew
+5180,Sorex mutabilis,Shrew
+5181,Sorex nanus,Shrew
+5182,Sorex neomexicanus,Shrew
+5183,Sorex ornatus,Shrew
+5184,Sorex pacificus,Shrew
+5185,Sorex palustris,Shrew
+5186,Sorex portenkoi,Shrew
+5187,Sorex preblei,Shrew
+5188,Sorex raddei,Shrew
+5189,Sorex roboratus,Shrew
+5190,Sorex rohweri,Shrew
+5191,Sorex samniticus,Shrew
+5192,Sorex satunini,Shrew
+5193,Sorex saussurei,Shrew
+5194,Sorex shinto,Shrew
+5195,Sorex sinalis,Shrew
+5196,Sorex sonomae,Shrew
+5197,Sorex tenellus,Shrew
+5198,Sorex thibetanus,Shrew
+5199,Sorex thompsoni,Shrew
+5200,Sorex trowbridgii,Shrew
+5201,Sorex tundrensis,Shrew
+5202,Sorex ugyunak,Shrew
+5203,Sorex unguiculatus,Shrew
+5204,Sorex vagrans,Shrew
+5205,Sorex ventralis,Shrew
+5206,Sorex veraepacis,Shrew
+5207,Sorex volnuchini,Shrew
+5208,Sorex yukonicus,Shrew
+5209,Soricomys kalinga,Mouse
+5210,Soricomys leonardocoi,Mouse
+5211,Soricomys montanus,Mouse
+5212,Soricomys musseri,Mouse
+5213,Soriculus beibengensis,Shrew
+5214,Soriculus nigrescens,Shrew
+5215,Sotalia fluviatilis,Dolphin
+5216,Sotalia guianensis,Dolphin
+5217,Sousa chinensis,Dolphin
+5218,Sousa plumbea,Dolphin
+5219,Sousa sahulensis,Dolphin
+5220,Sousa teuszii,Dolphin
+5222,Spalax antiquus,Mole Rat
+5223,Spalax arenarius,Mole
+5224,Spalax carmeli,Mole Rat
+5225,Spalax giganteus,Mole Rat
+5226,Spalax graecus,Mole
+5227,Spalax istricus,Mole
+5228,Spalax microphthalmus,Mole Rat
+5229,Spalax uralensis,Mole Rat
+5230,Spalax zemni,Mole Rat
+5231,Speothos venaticus,Bush Dog
+5232,Spermophilopsis leptodactylus,Ground Squirrel
+5233,Spermophilus alashanicus,Squirrel
+5234,Spermophilus brevicauda,Ground Squirrel
+5235,Spermophilus citellus,Ground Squirrel
+5236,Spermophilus dauricus,Ground Squirrel
+5237,Spermophilus erythrogenys,Ground Squirrel
+5238,Spermophilus fulvus,Ground Squirrel
+5239,Spermophilus major,Ground Squirrel
+5240,Spermophilus musicus,Ground Squirrel
+5241,Spermophilus odessanus,Ground Squirrel
+5242,Spermophilus pallidicauda,Ground Squirrel
+5243,Spermophilus pygmaeus,Ground Squirrel
+5244,Spermophilus ralli,Ground Squirrel
+5245,Spermophilus relictus,Ground Squirrel
+5246,Spermophilus suslicus,Ground Squirrel
+5247,Spermophilus taurensis,Ground Squirrel
+5248,Spermophilus xanthoprymnus,Ground Squirrel
+5249,Sphaerias blanfordi,Bat
+5250,Sphaeronycteris toxophyllum,Bat
+5251,Spilocuscus kraemeri,Cuscus
+5252,Spilocuscus maculatus,Cuscus
+5253,Spilocuscus rufoniger,Cuscus
+5254,Spilogale angustifrons,Skunk
+5255,Spilogale gracilis,Skunk
+5256,Spilogale interrupta,Skunk
+5257,Spilogale putorius,Skunk
+5258,Spilogale pygmaea,Skunk
+5259,Srilankamys ohiensis,Mouse
+5260,Steatomys krebsii,Mouse
+5261,Steatomys parvus,Mouse
+5262,Steatomys pratensis,Mouse
+5263,Stenella attenuata,Dolphin
+5264,Stenella clymene,Dolphin
+5265,Stenella coeruleoalba,Dolphin
+5266,Stenella frontalis,Dolphin
+5267,Stenella longirostris,Dolphin
+5268,Stenella plagiodon,Dolphin
+5269,Steno bredanensis,Dolphin
+5270,Stenocephalemys albipes,Mouse
+5271,Stenocephalemys albocaudata,Mouse
+5272,Stenocephalemys griseicauda,Mouse
+5273,Stenocephalemys ruppi,Mouse
+5274,Stenocephalemys sokolovi,Mouse
+5275,Stenocephalemys zimai,Mouse
+5276,Stenocranius gregalis,Mouse
+5277,Stenocranius raddei,Mouse
+5278,Stenoderma rufum,Bat
+5279,Stenonycteris lanosa,Bat
+5281,Stochomys longicaudatus,Mouse
+5282,Strigocuscus celebensis,Cuscus
+5283,Strigocuscus pelengensis,Cuscus
+5284,Sturnira adrianae,Bat
+5285,Sturnira angeli,Bat
+5286,Sturnira aratathomasi,Bat
+5287,Sturnira bakeri,Bat
+5288,Sturnira bidens,Bat
+5289,Sturnira bogotensis,Bat
+5290,Sturnira burtonlimi,Bat
+5291,Sturnira erythromos,Bat
+5292,Sturnira giannae,Bat
+5293,Sturnira hondurensis,Bat
+5294,Sturnira koopmanhilli,Bat
+5295,Sturnira lilium,Bat
+5296,Sturnira ludovici,Bat
+5297,Sturnira luisi,Bat
+5298,Sturnira magna,Bat
+5299,Sturnira mordax,Bat
+5300,Sturnira nana,Bat
+5301,Sturnira oporaphilum,Bat
+5302,Sturnira parvidens,Bat
+5303,Sturnira perla,Bat
+5304,Sturnira tildae,Bat
+5305,Styloctenium mindorense,Bat
+5306,Styloctenium wallacei,Bat
+5307,Stylodipus andrewsi,Jerboa
+5308,Stylodipus sungorus,Jerboa
+5309,Stylodipus telum,Jerboa
+5310,Submyotodon caliginosus,Bat
+5311,Submyotodon latirostris,Bat
+5312,Submyotodon moupinensis,Bat
+5313,Subulo gouazoubira,Deer
+5314,Suncus ater,Shrew
+5315,Suncus dayi,Shrew
+5316,Suncus etruscus,Shrew
+5317,Suncus fellowesgordoni,Shrew
+5318,Suncus hututsi,Shrew
+5319,Suncus infinitesimus,Shrew
+5320,Suncus lixus,Shrew
+5321,Suncus madagascariensis,Shrew
+5322,Suncus malayanus,Shrew
+5323,Suncus megalura,Shrew
+5324,Suncus montanus,Shrew
+5325,Suncus murinus,Shrew
+5326,Suncus niger,Shrew
+5327,Suncus remyi,Shrew
+5328,Suncus sorella,Shrew
+5329,Suncus stoliczkanus,Shrew
+5330,Suncus varilla,Shrew
+5331,Sundamys annandalei,Rat
+5332,Sundamys infraluteus,Rat
+5333,Sundamys maxi,Rat
+5334,Sundamys muelleri,Rat
+5335,Sundasciurus altitudinis,Squirrel
+5336,Sundasciurus brookei,Squirrel
+5337,Sundasciurus fraterculus,Squirrel
+5338,Sundasciurus hippurus,Squirrel
+5339,Sundasciurus hoogstraali,Squirrel
+5340,Sundasciurus jentinki,Squirrel
+5341,Sundasciurus juvencus,Squirrel
+5342,Sundasciurus lowii,Squirrel
+5343,Sundasciurus mindanensis,Squirrel
+5344,Sundasciurus moellendorffi,Squirrel
+5345,Sundasciurus philippinensis,Squirrel
+5346,Sundasciurus rabori,Squirrel
+5347,Sundasciurus robinsoni,Squirrel
+5348,Sundasciurus samarensis,Squirrel
+5349,Sundasciurus steerii,Squirrel
+5350,Sundasciurus tahan,Squirrel
+5351,Sundasciurus tenuis,Squirrel
+5352,Surdisorex norae,Shrew
+5354,Suricata suricatta,Meerkat
+5355,Sus barbatus,Bearded Pig
+5356,Sus bucculentus,Pig
+5357,Sus cebifrons,Pig
+5358,Sus celebensis,Pig
+5359,Sus philippensis,Pig
+5360,Sus scrofa,Wild Boar
+5361,Sus verrucosus,Pig
+5362,Syconycteris australis,Bat
+5363,Sylvicapra grimmia,Duiker
+5364,Sylvilagus andinus,Rabbit
+5365,Sylvilagus aquaticus,Swamp Rabbit
+5366,Sylvilagus audubonii,Cottontail Rabbit
+5367,Sylvilagus audubonii/nuttallii,Rabbit
+5368,Sylvilagus bachmani,Rabbit
+5369,Sylvilagus brasiliensis,Rabbit
+5370,Sylvilagus cunicularius,Rabbit
+5371,Sylvilagus dicei,Rabbit
+5372,Sylvilagus floridanus,Rabbit
+5373,Sylvilagus nuttallii,Rabbit
+5374,Sylvilagus obscurus,Rabbit
+5375,Sylvilagus palustris,Rabbit
+5376,Sylvilagus robustus,Rabbit
+5377,Sylvilagus transitionalis,Rabbit
+5378,Sylvisorex akaibei,Shrew
+5379,Sylvisorex granti,Shrew
+5380,Sylvisorex howelli,Shrew
+5381,Sylvisorex johnstoni,Shrew
+5382,Sylvisorex konganensis,Shrew
+5383,Sylvisorex lunaris,Shrew
+5384,Sylvisorex morio,Shrew
+5385,Sylvisorex ollula,Shrew
+5386,Sylvisorex oriundus,Shrew
+5387,Sylvisorex vulcanorum,Shrew
+5388,Symphalangus syndactylus,Siamang
+5389,Synaptomys borealis,Lemming
+5390,Synaptomys cooperi,Lemming
+5391,Syncerus caffer,Buffalo
+5392,Syntheosciurus brochus,Squirrel
+5393,Tachyglossus aculeatus,Echidna
+5394,Tachyoryctes ankoliae,Mole Rat
+5395,Tachyoryctes audax,Mole Rat
+5396,Tachyoryctes daemon,Mole Rat
+5397,Tachyoryctes macrocephalus,Mole Rat
+5399,Tachyoryctes splendens,Mole Rat
+5400,Tadarida aegyptiaca,Bat
+5401,Tadarida australis,Bat
+5402,Tadarida brasiliensis,Bat
+5403,Tadarida fulminans,Bat
+5404,Tadarida insignis,Bat
+5405,Tadarida latouchei,Bat
+5406,Tadarida teniotis,Bat
+5407,Taeromys callitrichus,Mouse
+5408,Taeromys celebensis,Mouse
+5409,Taeromys dominator,Mouse
+5410,Taeromys hamatus,Mouse
+5411,Taeromys punicans,Mouse
+5412,Taeromys taerae,Mouse
+5413,Talpa altaica,Mole
+5414,Talpa aquitania,Mole
+5415,Talpa caeca,Mole
+5416,Talpa caucasica,Mole
+5417,Talpa davidiana,Mole
+5418,Talpa europaea,Mole
+5419,Talpa hakkariensis,Mole
+5420,Talpa levantis,Mole
+5421,Talpa martinorum,Mole
+5422,Talpa occidentalis,Mole
+5423,Talpa ognevi,Mole
+5424,Talpa romana,Mole
+5425,Talpa stankovici,Mole
+5426,Tamandua mexicana,Anteater
+5427,Tamandua tetradactyla,Anteater
+5428,Tamias amoenus,Chipmunk
+5429,Tamias canipes,Chipmunk
+5430,Tamias dorsalis,Chipmunk
+5431,Tamias merriami,Chipmunk
+5432,Tamias minimus,Chipmunk
+5433,Tamias obscurus,Chipmunk
+5434,Tamias palmeri,Chipmunk
+5435,Tamias quadrimaculatus,Chipmunk
+5436,Tamias quadrivittatus,Chipmunk
+5437,Tamias rufus,Chipmunk
+5438,Tamias senex,Chipmunk
+5439,Tamias sibiricus,Siberian Chipmunk
+5440,Tamias sonomae,Chipmunk
+5441,Tamias speciosus,Chipmunk
+5442,Tamias striatus,Chipmunk
+5443,Tamias townsendii,Chipmunk
+5444,Tamias umbrinus,Chipmunk
+5445,Tamiasciurus douglasii,Squirrel
+5446,Tamiasciurus hudsonicus,Red Squirrel
+5447,Tamiasciurus mearnsi,Squirrel
+5448,Tamiops maritimus,Squirrel
+5449,Tamiops mcclellandii,Squirrel
+5450,Tamiops minshanicus,Squirrel
+5451,Tamiops rodolphii,Squirrel
+5452,Tamiops swinhoei,Squirrel
+5453,Tanyuromys asphrastus,Mouse
+5454,Tanyuromys thomasleei,Mouse
+5455,Tapecomys primus,Mouse
+5456,Taphozous australis,Bat
+5457,Taphozous georgianus,Bat
+5458,Taphozous hildegardeae,Bat
+5459,Taphozous hilli,Bat
+5460,Taphozous longimanus,Bat
+5461,Taphozous mauritianus,Bat
+5462,Taphozous melanopogon,Bat
+5463,Taphozous nudiventris,Bat
+5464,Taphozous perforatus,Bat
+5465,Taphozous theobaldi,Bat
+5466,Tapirus bairdii,Tapir
+5467,Tapirus indicus,Tapir
+5468,Tapirus kabomani,Tapir
+5469,Tapirus pinchaque,Tapir
+5470,Tapirus terrestris,Tapir
+5471,Tarsipes rostratus,Honey Possum
+5472,Tarsius dentatus,Tarsier
+5473,Tarsius fuscus,Tarsier
+5474,Tarsius lariang,Tarsier
+5475,Tarsius pumilus,Tarsier
+5476,Tarsius sangirensis,Tarsier
+5477,Tarsius tarsier,Tarsier
+5478,Tarsius wallacei,Tarsier
+5479,Tarsomys apoensis,Mouse
+5480,Tarsomys echinatus,Mouse
+5481,Tasmacetus shepherdi,Whale
+5482,Tateomys macrocercus,Mouse
+5484,Tatera indica,Indian Gerbil
+5485,Taterillus arenarius,Mouse
+5486,Taterillus emini,Mouse
+5487,Taterillus gracilis,Mouse
+5488,Taterillus harringtoni,Mouse
+5489,Taterillus petteri,Mouse
+5490,Taterillus pygargus,Mouse
+5491,Taurotragus derbianus,Antelope
+5492,Taxidea taxus,Badger
+5493,Tayassu pecari,Peccary
+5494,Tenrec ecaudatus,Tenrec
+5495,Tetracerus quadricornis,Four-horned Antelope
+5496,Thainycteris aureocollaris,Bat
+5497,Thainycteris torquata,Bat
+5498,Thallomys loringi,Mouse
+5499,Thallomys nigricauda,Mouse
+5500,Thallomys paedulcus,Mouse
+5501,Thalpomys cerradensis,Mouse
+5502,Thalpomys lasiotis,Mouse
+5503,Thamnomys kempi,Mouse
+5504,Thamnomys venustus,Mouse
+5505,Thaptomys nigrita,Mouse
+5506,Theropithecus gelada,Monkey
+5507,Thomasomys andersoni,Mouse
+5508,Thomasomys antoniobracki,Mouse
+5509,Thomasomys apeco,Mouse
+5510,Thomasomys aureus,Mouse
+5511,Thomasomys auricularis,Mouse
+5512,Thomasomys australis,Mouse
+5513,Thomasomys baeops,Mouse
+5514,Thomasomys bombycinus,Mouse
+5515,Thomasomys burneoi,Mouse
+5516,Thomasomys caudivarius,Mouse
+5517,Thomasomys cinereus,Mouse
+5518,Thomasomys cinnameus,Mouse
+5519,Thomasomys contradictus,Mouse
+5520,Thomasomys daphne,Mouse
+5521,Thomasomys erro,Mouse
+5522,Thomasomys fumeus,Mouse
+5523,Thomasomys gracilis,Mouse
+5524,Thomasomys hudsoni,Mouse
+5525,Thomasomys incanus,Mouse
+5526,Thomasomys ischyrus,Mouse
+5527,Thomasomys kalinowskii,Mouse
+5528,Thomasomys ladewi,Mouse
+5529,Thomasomys lojapiuranus,Mouse
+5530,Thomasomys macrotis,Mouse
+5531,Thomasomys nicefori,Mouse
+5532,Thomasomys niveipes,Mouse
+5533,Thomasomys notatus,Mouse
+5534,Thomasomys onkiro,Mouse
+5535,Thomasomys oreas,Mouse
+5536,Thomasomys pagaibambensis,Mouse
+5537,Thomasomys paramorum,Mouse
+5538,Thomasomys praetor,Mouse
+5539,Thomasomys princeps,Mouse
+5540,Thomasomys pyrrhonotus,Mouse
+5541,Thomasomys salazari,Mouse
+5542,Thomasomys shallqukucha,Mouse
+5543,Thomasomys silvestris,Mouse
+5544,Thomasomys taczanowskii,Mouse
+5545,Thomasomys ucucha,Mouse
+5546,Thomasomys vulcani,Mouse
+5547,Thomomys anitae,Gopher
+5548,Thomomys atrovarius,Gopher
+5549,Thomomys bottae,Gopher
+5550,Thomomys bulbivorus,Gopher
+5551,Thomomys chihuahue,Gopher
+5552,Thomomys fulvus,Gopher
+5553,Thomomys idahoensis,Gopher
+5554,Thomomys laticeps,Gopher
+5555,Thomomys mazama,Gopher
+5556,Thomomys monticola,Gopher
+5557,Thomomys nayarensis,Gopher
+5558,Thomomys nigricans,Gopher
+5559,Thomomys sheldoni,Gopher
+5560,Thomomys talpoides,Gopher
+5561,Thomomys townsendii,Gopher
+5562,Thomomys umbrinus,Gopher
+5563,Thoopterus nigrescens,Bat
+5569,Thryonomys gregorianus,Cane Rat
+5570,Thryonomys swinderianus,Cane Rat
+5571,Thylacinus cynocephalus,Tasmanian Tiger
+5572,Thylamys cinderella,Mouse
+5573,Thylamys citellus,Mouse
+5574,Thylamys elegans,Mouse
+5575,Thylamys karimii,Mouse Opossum
+5576,Thylamys macrura,Mouse Opossum
+5577,Thylamys pallidior,Mouse Opossum
+5578,Thylamys pulchellus,Mouse Opossum
+5579,Thylamys pusillus,Mouse Opossum
+5580,Thylamys sponsorius,Mouse Opossum
+5581,Thylamys tatei,Mouse Opossum
+5582,Thylamys velutinus,Mouse Opossum
+5583,Thylamys venustus,Mouse Opossum
+5584,Thylogale billardierii,Pademelon
+5585,Thylogale browni,Wallaby
+5586,Thylogale brunii,Wallaby
+5587,Thylogale calabyi,Wallaby
+5588,Thylogale stigmatica,Wallaby
+5589,Thylogale thetis,Pademelon
+5590,Thyroptera discifera,Bat
+5591,Thyroptera lavali,Bat
+5592,Thyroptera tricolor,Bat
+5593,Thyroptera wynneae,Bat
+5594,Tlacuatzin canescens,Mouse Opossum
+5598,Tolypeutes matacus,Armadillo
+5599,Tolypeutes tricinctus,Armadillo
+5600,Tomopeas ravum,Bat
+5601,Tonatia bakeri,Bat
+5602,Tonatia bidens,Bat
+5603,Tonatia maresi,Bat
+5604,Tonatia saurophila,Bat
+5605,Tonkinomys daovantieni,Mouse
+5606,Toromys albiventris,Mouse
+5610,Trachops cirrhosus,Bat
+5611,Trachops coffini,Bat
+5612,Trachypithecus auratus,Monkey
+5613,Trachypithecus barbei,Monkey
+5614,Trachypithecus cristatus,Monkey
+5615,Trachypithecus delacouri,Monkey
+5616,Trachypithecus francoisi,Monkey
+5617,Trachypithecus geei,Monkey
+5618,Trachypithecus germaini,Monkey
+5619,Trachypithecus hatinhensis,Monkey
+5620,Trachypithecus johnii,Monkey
+5621,Trachypithecus laotum,Monkey
+5622,Trachypithecus mauritius,Monkey
+5623,Trachypithecus obscurus,Monkey
+5624,Trachypithecus phayrei,Monkey
+5625,Trachypithecus pileatus,Monkey
+5626,Trachypithecus poliocephalus,Monkey
+5627,Trachypithecus shortridgei,Monkey
+5628,Trachypithecus vetulus,Monkey
+5629,Tragelaphus angasii,Nyala
+5630,Tragelaphus buxtoni,Mountain Nyala
+5631,Tragelaphus eurycerus,Bongo
+5632,Tragelaphus imberbis,Antelope
+5633,Tragelaphus oryx,Eland
+5634,Tragelaphus scriptus,Bushbuck
+5635,Tragelaphus spekii,Sitatunga
+5636,Tragelaphus strepsiceros,Kudu
+5637,Tragulus javanicus,Mouse Deer
+5638,Tragulus kanchil,Mouse Deer
+5639,Tragulus napu,Mouse Deer
+5640,Tragulus versicolor,Mouse Deer
+5641,Tragulus williamsoni,Mouse Deer
+5642,Transandinomys bolivaris,Mouse
+5643,Transandinomys talamancae,Mouse
+5644,Tremarctos ornatus,Spectacled Bear
+5645,Triaenops afer,Bat
+5646,Triaenops menamena,Bat
+5647,Triaenops parvus,Bat
+5648,Triaenops persicus,Bat
+5649,Trichechus inunguis,Manatee
+5650,Trichechus manatus,Manatee
+5651,Trichechus senegalensis,Manatee
+5652,Trichosurus arnhemensis,Possum
+5653,Trichosurus caninus,Possum
+5654,Trichosurus cunninghami,Possum
+5655,Trichosurus johnstonii,Possum
+5656,Trichosurus vulpecula,Possum
+5657,Trichys fasciculata,Porcupine
+5658,Trinomys albispinus,Mouse
+5659,Trinomys dimidiatus,Mouse
+5661,Trinomys gratiosus,Mouse
+5665,Trinomys paratus,Mouse
+5666,Trinomys setosus,Mouse
+5668,Trogopterus xanthipes,Flying Squirrel
+5669,Tscherskia triton,Rat
+5670,Tupaia belangeri,Tree Shrew
+5671,Tupaia chinensis,Tree Shrew
+5672,Tupaia chrysogaster,Tree Shrew
+5673,Tupaia dorsalis,Tree Shrew
+5674,Tupaia glis,Tree Shrew
+5675,Tupaia gracilis,Tree Shrew
+5676,Tupaia javanica,Tree Shrew
+5677,Tupaia longipes,Tree Shrew
+5678,Tupaia minor,Tree Shrew
+5679,Tupaia moellendorffi,Tree Shrew
+5680,Tupaia montana,Tree Shrew
+5681,Tupaia nicobarica,Tree Shrew
+5682,Tupaia palawanensis,Tree Shrew
+5683,Tupaia picta,Tree Shrew
+5684,Tupaia salatana,Tree Shrew
+5685,Tupaia splendidula,Tree Shrew
+5686,Tupaia tana,Tree Shrew
+5687,Tursiops aduncus,Dolphin
+5688,Tursiops australis,Dolphin
+5689,Tursiops erebennus,Dolphin
+5690,Tursiops truncatus,Dolphin
+5691,Tylomys nudicaudus,Mouse
+5692,Tylomys tumbalensis,Mouse
+5693,Tylomys watsoni,Mouse
+5694,Tylonycteris fulvida,Bat
+5695,Tylonycteris malayana,Bat
+5696,Tylonycteris pachypus,Bat
+5697,Tylonycteris robustula,Bat
+5698,Tylonycteris tonkinensis,Bat
+5702,Typhlomys chapensis,Mouse
+5703,Typhlomys cinereus,Mouse
+5704,Typhlomys daloushanensis,Mouse
+5705,Typhlomys fengjiensis,Mouse
+5706,Typhlomys huangshanensis,Mouse
+5707,Typhlomys nanus,Mouse
+5708,Typhlomys taxuansis,Mouse
+5709,Uranomys ruddi,Mouse
+5710,Urocitellus armatus,Squirrel
+5711,Urocitellus beldingi,Ground Squirrel
+5712,Urocitellus brunneus,Ground Squirrel
+5713,Urocitellus canus,Ground Squirrel
+5714,Urocitellus columbianus,Ground Squirrel
+5715,Urocitellus elegans,Ground Squirrel
+5716,Urocitellus endemicus,Squirrel
+5717,Urocitellus mollis,Ground Squirrel
+5718,Urocitellus parryii,Ground Squirrel
+5719,Urocitellus richardsonii,Ground Squirrel
+5720,Urocitellus townsendii,Ground Squirrel
+5721,Urocitellus undulatus,Ground Squirrel
+5722,Urocitellus washingtoni,Squirrel
+5723,Urocricetus alticola,Hamster
+5724,Urocricetus kamensis,Hamster
+5725,Urocricetus tibetanus,Hamster
+5726,Urocyon cinereoargenteus,Gray Fox
+5727,Urocyon littoralis,Fox
+5728,Uroderma bilobatum,Bat
+5729,Uroderma convexum,Bat
+5730,Uroderma magnirostrum,Bat
+5731,Urogale everetti,Monkey
+5732,Uromys anak,Rat
+5733,Uromys caudimaculatus,Rat
+5735,Uromys neobritanicus,Rat
+5738,Uropsilus atronates,Shrew
+5742,Uropsilus investigator,Shrew
+5743,Uropsilus nivatus,Shrew
+5744,Uropsilus soricipes,Shrew Mole
+5745,Urotrichus talpoides,Mole
+5746,Ursus americanus,Black Bear
+5747,Ursus arctos,Brown Bear
+5748,Ursus deningeri,Bear
+5749,Ursus ingressus,Bear
+5750,Ursus kanivetz,Bear
+5751,Ursus kudarensis,Bear
+5752,Ursus maritimus,Polar Bear
+5753,Ursus rossicus,Bear
+5754,Ursus spelaeus,Cave Bear
+5755,Ursus thibetanus,Asian Black Bear
+5756,Urva auropunctata,Mongoose
+5757,Urva edwardsii,Mongoose
+5758,Urva javanica,Javan Mongoose
+5759,Vampyressa bidens,Bat
+5760,Vampyressa brocki,Bat
+5761,Vampyressa elisabethae,Bat
+5762,Vampyressa melissa,Bat
+5763,Vampyressa pusilla,Bat
+5764,Vampyressa thyone,Bat
+5765,Vampyriscus nymphaeus,Bat
+5766,Vampyrodes caraccioli,Bat
+5767,Vampyrodes major,Bat
+5768,Vampyrum spectrum,Bat
+5769,Vandeleuria nolthenii,Mouse
+5770,Vandeleuria oleracea,Mouse
+5771,Vansonia rueppellii,Bat
+5772,Varecia rubra,Red Ruffed Lemur
+5773,Varecia variegata,Lemur
+5775,Vernaya fulva,Mouse
+5778,Vespadelus darlingtoni,Bat
+5779,Vespadelus finlaysoni,Bat
+5780,Vespadelus pumilus,Bat
+5781,Vespadelus regulus,Bat
+5782,Vespadelus troughtoni,Bat
+5783,Vespadelus vulturnus,Bat
+5784,Vespertilio murinus,Bat
+5785,Vespertilio sinensis,Bat
+5786,Vicugna pacos,Alpaca
+5787,Vicugna vicugna,Vicuña
+5788,Viverra megaspila,Civet
+5789,Viverra tangalunga,Civet
+5790,Viverra zibetha,Civet
+5791,Viverricula indica,Civet
+5792,Voalavo gymnocaudus,Mouse
+5793,Volemys millicens,Mouse
+5794,Volemys musseri,Mouse
+5795,Vombatus ursinus,Wombat
+5796,Vormela peregusna,Marbled Polecat
+5797,Vulpes bengalensis,Fox
+5798,Vulpes cana,Fox
+5799,Vulpes chama,Fox
+5800,Vulpes corsac,Corsac Fox
+5801,Vulpes ferrilata,Fox
+5802,Vulpes lagopus,Arctic Fox
+5803,Vulpes macrotis,Kit Fox
+5804,Vulpes pallida,Fox
+5805,Vulpes rueppellii,Fox
+5806,Vulpes velox,Swift Fox
+5807,Vulpes vulpes,Fox
+5808,Vulpes zerda,Fennec Fox
+5809,Waiomys mamasae,Mouse
+5810,Wallabia bicolor,Wallaby
+5811,Wiedomys cerradensis,Mouse
+5812,Wiedomys pyrrhorinos,Mouse
+5813,Wilfredomys oenax,Mouse
+5814,Wilfredomys pictipes,Mouse
+5816,Xanthonycticebus pygmaeus,Pygmy Slow Loris
+5817,Xenogale naso,Mongoose
+5818,Xenomys nelsoni,Mouse
+5819,Xenothrix mcgregori,Monkey
+5820,Xenuromys barbatus,Rat
+5821,Xeromys myoides,Mouse
+5822,Xeronycteris vieirai,Bat
+5823,Xerospermophilus mohavensis,Squirrel
+5824,Xerospermophilus perotensis,Squirrel
+5825,Xerospermophilus spilosoma,Ground Squirrel
+5826,Xerospermophilus tereticaudus,Ground Squirrel
+5827,Xerus erythropus,Ground Squirrel
+5828,Xerus inauris,Squirrel
+5829,Xerus princeps,Squirrel
+5830,Xerus rutilus,Squirrel
+5831,Zaedyus pichiy,Armadillo
+5832,Zaglossus attenboroughi,Echidna
+5833,Zaglossus bartoni,Echidna
+5834,Zaglossus bruijni,Echidna
+5835,Zalophus californianus,California Sea Lion
+5836,Zalophus japonicus,Sea Lion
+5837,Zalophus wollebaeki,Sea Lion
+5838,Zapus hudsonius,Mouse
+5839,Zapus princeps,Mouse
+5840,Zapus trinotatus,Mouse
+5841,Zelotomys hildegardeae,Mouse
+5842,Zelotomys woosnami,Mouse
+5844,Ziphius cavirostris,Whale
+5845,Zygodontomys brevicauda,Mouse
+5846,Zygodontomys cherriei,Mouse
+5847,Zygodontomys microtinus,Mouse
+5848,Zygogeomys trichopus,Mouse
+5849,Zyzomys argurus,Mouse
+5850,Zyzomys maini,Mouse
+5851,Zyzomys palatalis,Mouse
+5852,Zyzomys pedunculatus,Mouse
+5853,Zyzomys woodwardi,Mouse
